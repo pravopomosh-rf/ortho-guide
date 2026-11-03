@@ -1,1 +1,1 @@
-PLACEHOLDER base URL https://EXAMPLE.github.io/ — regenerate QR after real deploy.
+QR -> https://pravopomosh-rf.github.io/ortho-guide/ops/<op>.html
