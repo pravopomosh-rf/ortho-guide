@@ -4,7 +4,7 @@
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;font:18px/1.62 Rubik,"Noto Sans Arabic",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:var(--ink);background:var(--bg)}
 body.ar{font-family:"Noto Sans Arabic",Rubik,system-ui,sans-serif;line-height:1.75}
-[data-l]{display:none}body.ru [data-l=ru],body.he [data-l=he],body.ar [data-l=ar]{display:block}
+[data-l]{display:none}body.ru [data-l=ru],body.he [data-l=he],body.ar [data-l=ar],body.en [data-l=en]{display:block}
 /* шапка с рассветом */
 header{position:relative;overflow:hidden;color:#fff;padding:18px 16px 20px;background:linear-gradient(160deg,#155f57 0%,#1c6f66 55%,#1f7867 100%)}
 header::before{content:"";position:absolute;inset-inline-end:-60px;bottom:-90px;width:240px;height:240px;border-radius:50%;background:radial-gradient(circle,rgba(255,214,150,.75) 0%,rgba(240,162,79,.35) 40%,rgba(240,162,79,0) 70%);pointer-events:none}
@@ -114,3 +114,5 @@ ol.zones{margin:8px 0 2px;padding-inline-start:0;list-style:none;counter-reset:z
 ol.zones li{counter-increment:z;display:flex;gap:10px;align-items:center;margin:6px 0}
 ol.zones li::before{content:counter(z);flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:15px;background:#2f8a7c}
 ol.zones li:nth-child(2)::before{background:#b9661c}ol.zones li:nth-child(3)::before{background:#c0533a}ol.zones li:nth-child(4)::before{background:#3f73ad}ol.zones li:nth-child(5)::before{background:#6a4fb0}ol.zones li:nth-child(6)::before{background:#4d8a3b}
+
+.lang{flex-wrap:wrap}.lang button{min-width:0;font-size:16px}

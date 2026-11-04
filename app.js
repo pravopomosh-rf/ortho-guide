@@ -1,5 +1,5 @@
 document.documentElement.classList.add('js');
-function setL(l){document.body.className=l;var d=l=='ru'?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
+function setL(l){document.body.className=l;var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
 document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l)});try{localStorage.lang=l}catch(e){}
 document.querySelectorAll('video:not(.hero)').forEach(function(v){if(!v.closest('[data-l='+l+']'))v.pause()});
 if(window.__rv)window.__rv()}
@@ -63,9 +63,9 @@ a.innerHTML=ic(n)+'<span class="tx">'+a.innerHTML+'</span>';if(/postop/.test(h))
 /* главная: рассвет + подзаголовок */
 var hd=document.querySelector('header');
 if(hd&&!document.querySelector('header .back')){
-var tg={ru:'Понятно о вашей операции — шаг за шагом',he:'הסבר ברור על הניתוח שלכם — צעד אחר צעד',ar:'شرح واضح لعمليتكم — خطوة بخطوة'};
+var tg={en:'Your surgery explained clearly, step by step',ru:'Понятно о вашей операции — шаг за шагом',he:'הסבר ברור על הניתוח שלכם — צעד אחר צעד',ar:'شرح واضح لعمليتكم — خطوة بخطوة'};
 hd.querySelectorAll('[data-l]').forEach(function(d){d.insertAdjacentHTML('beforeend','<p class="tag">'+tg[d.dataset.l]+'</p>')});
-hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>');startHero()}
+hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="en">Everyone recovers differently. Agree with your doctor or physiotherapist on when to change walking aids and when to walk without them.</span><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>');startHero()}
 function startHero(){var v=document.querySelector('video.hero');if(!v)return;v.muted=true;v.defaultMuted=true;var p=v.play();if(p&&p.catch)p.catch(function(){})}
 function heroSVG(){var B=document.querySelector('header .lang')?'':'';var base=location.pathname.indexOf('/ops/')>-1?'../':'';
 var red=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -81,5 +81,5 @@ window.__rv=function(){els.forEach(function(e){if(!e.classList.contains('in'))io
 setTimeout(function(){els.forEach(function(e){if(e.getBoundingClientRect().top<innerHeight)e.classList.add('in')})},60)}
 })();
 
-var q=(location.hash.match(/lang=(ru|he|ar)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
+var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
 (function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
