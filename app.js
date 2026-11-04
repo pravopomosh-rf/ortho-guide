@@ -65,7 +65,23 @@ var hd=document.querySelector('header');
 if(hd&&!document.querySelector('header .back')){
 var tg={ru:'Понятно о вашей операции — шаг за шагом',he:'הסבר ברור על הניתוח שלכם — צעד אחר צעד',ar:'شرح واضح لعمليتكم — خطوة بخطوة'};
 hd.querySelectorAll('[data-l]').forEach(function(d){d.insertAdjacentHTML('beforeend','<p class="tag">'+tg[d.dataset.l]+'</p>')});
-hd.querySelector('.lang').insertAdjacentHTML('beforebegin','<svg class="hero" viewBox="0 0 360 120" aria-hidden="true"><defs><radialGradient id="sg" cx="50%" cy="100%" r="60%"><stop offset="0" stop-color="#ffe0a8"/><stop offset=".55" stop-color="#f4b26a" stop-opacity=".55"/><stop offset="1" stop-color="#f4b26a" stop-opacity="0"/></radialGradient></defs><g class="rays"><ellipse cx="180" cy="112" rx="190" ry="96" fill="url(#sg)"/></g><g class="sun"><circle cx="180" cy="112" r="40" fill="#ffd28a"/><circle cx="180" cy="112" r="30" fill="#ffe3b0"/></g><path d="M0 104c50-14 95-18 140-10s90 14 130 4 66-12 90-8v30H0z" fill="#1a6a60" opacity=".55"/><path d="M0 112c60-8 110-8 170 0s120 8 190-2v10H0z" fill="#145a51" opacity=".8"/></svg>')}
+hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>')}
+function heroSVG(){
+function body(lean,extra){return '<g transform="rotate('+lean+' 0 -26)"><circle cx="0" cy="-57" r="7"/><path d="M0-49V-26"/>'+extra+'</g>'}
+function legs(){return '<path class="lg a" d="M0-26V0"/><path class="lg b" d="M0-26V0"/>'}
+var walker='<path d="M5-44L14-34"/><path class="acc" d="M12-34V0M22-34V0M11-34H23"/>';
+var cane='<path d="M3-45L9-31"/><path class="acc" d="M9-31L12 0M9-31q-4-3-7 0"/>';
+var free='<path d="M2-46L5-31"/>';
+var hand='<path d="M2-46L10-31"/>';
+var kid='<g class="kid"><circle cx="16" cy="-37" r="4.6"/><path d="M16-32V-17M16-29L11-31"/><path class="lg a" d="M16-17V0"/><path class="lg b" d="M16-17V0"/></g>';
+function ph(n,lean,ex,more){return '<g class="ph p'+n+'"><g class="mv">'+'<g transform="translate(0 106)">'+body(lean,ex)+legs()+(more||'')+'</g></g></g>'}
+return '<svg class="hero" viewBox="0 0 360 120" aria-hidden="true"><defs><radialGradient id="sg" cx="50%" cy="100%" r="60%"><stop offset="0" stop-color="#ffe0a8"/><stop offset=".55" stop-color="#f4b26a" stop-opacity=".55"/><stop offset="1" stop-color="#f4b26a" stop-opacity="0"/></radialGradient></defs>'
++'<g class="rays"><ellipse cx="180" cy="112" rx="190" ry="96" fill="url(#sg)"/></g><g class="sun"><circle cx="180" cy="112" r="40" fill="#ffd28a"/><circle cx="180" cy="112" r="30" fill="#ffe3b0"/></g>'
++'<path d="M0 104c50-14 95-18 140-10s90 14 130 4 66-12 90-8v30H0z" fill="#1a6a60" opacity=".55"/>'
++'<g class="scene">'
++'<g class="bench"><path d="M160 98h22M162 98v8M180 98v8"/></g><g class="cane0"><path d="M178 97L184 79q-1-4 3-4"/></g>'
++ph(1,6,walker)+ph(2,3,cane)+ph(3,0,free)+ph(4,0,hand,kid)
++'</g><path d="M0 112c60-8 110-8 170 0s120 8 190-2v10H0z" fill="#145a51" opacity=".85"/></svg>'}
 /* мягкое появление */
 var els=[].slice.call(document.querySelectorAll('main section,main a.op,main figure,main .soon,main .disc'));
 els.forEach(function(e){e.classList.add('rv')});
