@@ -108,3 +108,5 @@ video{width:100%;border-radius:14px;background:#000}
 [dir=rtl] .hero .scene{transform:scaleX(-1);transform-origin:180px 0}
 @media (prefers-reduced-motion:reduce){.hero .p1,.hero .p2,.hero .p3{display:none}.hero .scene *{animation:none!important}.hero .p4 .mv{transform:translateX(300px)}}
 .herocap{margin:4px 0 0;font-size:14px;line-height:1.45;opacity:.92}
+/* шапка: реальное видео вместо SVG-анимации */
+.hero.hv{display:block;width:100%;height:auto;max-height:none;aspect-ratio:2/1;object-fit:cover;border-radius:18px;margin:14px 0 2px;background:#1c6f66;box-shadow:0 6px 20px rgba(0,0,0,.18)}
