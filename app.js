@@ -84,3 +84,5 @@ setTimeout(function(){els.forEach(function(e){if(e.getBoundingClientRect().top<i
 
 var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
 (function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
+/* 04.11: duration on the video label */
+document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('video'),d=s.querySelector('.vdur');if(!v||!d)return;function f(){if(!isFinite(v.duration))return;var t=Math.floor(v.duration),m=Math.floor(t/60),x=t%60;d.textContent='· '+m+':'+(x<10?'0':'')+x}v.addEventListener('loadedmetadata',f);f()});
