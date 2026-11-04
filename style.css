@@ -12,3 +12,4 @@ h2{font-size:18px;margin:4px 0 8px;color:#0f5f73}.pend{color:#6b7a83;font-style:
 .op.sub{margin-inline-start:24px;font-size:.9em}.op.topic small{opacity:.7;font-size:12px}
 
 figure img{display:block;width:100%;max-width:100%;height:auto;max-height:70vh;object-fit:contain}figcaption a{color:inherit}
+.topich{margin-top:22px;padding-bottom:4px;border-bottom:2px solid #0f5f7333}.soon{display:block;background:#fff;border-radius:14px;padding:14px 16px;margin:10px 0;color:#6b7a83;box-shadow:0 1px 3px #0001;font-style:italic}.vsoon{background:#eef3f5;border:2px dashed #0f5f7366;border-radius:10px;padding:22px 14px;text-align:center;color:#33474f;font-weight:600}
