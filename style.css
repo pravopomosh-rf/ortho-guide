@@ -62,7 +62,6 @@ section.calm{background:#f4faf8}
 .disc{display:flex;gap:12px;align-items:flex-start;background:var(--teal-l);border-radius:16px;padding:14px 16px;margin-top:20px;font-size:17px;color:#1b3d39}
 .disc::before{content:"";flex:none;width:26px;height:26px;margin-top:1px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231f7a70' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='12' cy='12' r='9.5'/%3E%3Cpath d='M12 11v6M12 7.5v.5'/%3E%3C/svg%3E") center/contain no-repeat}
 .src li,.src p{font-size:15px;word-break:break-word}.sref{font-size:14px;opacity:.75;font-style:italic}
-.chk{font-size:14px!important;opacity:.75}
 .badge{display:inline-block;background:var(--red);color:#fff;border-radius:8px;padding:2px 9px;font-size:14px}
 /* медиа */
 figure{margin:14px 0}figure img{display:block;width:100%;max-width:100%;height:auto;max-height:70vh;object-fit:contain;border-radius:14px;background:#fff;border:1px solid var(--line)}
