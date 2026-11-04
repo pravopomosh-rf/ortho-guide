@@ -110,3 +110,7 @@ video{width:100%;border-radius:14px;background:#000}
 .herocap{margin:4px 0 0;font-size:14px;line-height:1.45;opacity:.92}
 /* шапка: реальное видео вместо SVG-анимации */
 .hero.hv{display:block;width:100%;height:auto;max-height:none;aspect-ratio:2/1;object-fit:cover;border-radius:18px;margin:14px 0 2px;background:#1c6f66;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+ol.zones{margin:8px 0 2px;padding-inline-start:0;list-style:none;counter-reset:z}
+ol.zones li{counter-increment:z;display:flex;gap:10px;align-items:center;margin:6px 0}
+ol.zones li::before{content:counter(z);flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:15px;background:#2f8a7c}
+ol.zones li:nth-child(2)::before{background:#b9661c}ol.zones li:nth-child(3)::before{background:#c0533a}ol.zones li:nth-child(4)::before{background:#3f73ad}ol.zones li:nth-child(5)::before{background:#6a4fb0}ol.zones li:nth-child(6)::before{background:#4d8a3b}
