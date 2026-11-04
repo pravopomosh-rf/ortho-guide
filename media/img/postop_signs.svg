@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" width="440" height="340" role="img" aria-hidden="true" font-family="Rubik,Arial,Helvetica,sans-serif">
+<defs><filter id="sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#284a44" flood-opacity=".12"/></filter>
+<g id="hs"><path d="M-13-15l8-3 7 11-6 5q4 9 13 14l5-6 11 7-3 8q-6 5-15 1-19-9-24-29-1-5 4-8z"/></g></defs>
+<rect width="440" height="340" rx="24" fill="#fbf7f0"/>
+<!-- card A: 101 -->
+<g filter="url(#sh)"><rect x="16" y="18" width="408" height="96" rx="18" fill="#fdecea" stroke="#f1c4bf" stroke-width="2"/></g>
+<rect x="16" y="30" width="7" height="72" rx="3.5" fill="#b3261e"/>
+<g stroke-linejoin="round">
+<rect x="44" y="40" width="80" height="48" rx="7" fill="#fff" stroke="#b3261e" stroke-width="3.5"/>
+<path d="M124 50h22q4 0 7 4l12 15q3 4 3 8v11h-44z" fill="#fff" stroke="#b3261e" stroke-width="3.5"/>
+<path d="M131 56h14l11 13h-25z" fill="#e3f2ee" stroke="#b3261e" stroke-width="2"/>
+<rect x="70" y="32" width="18" height="8" rx="3" fill="#b3261e"/>
+<path d="M64 31l-5-6M94 31l5-6M79 29v-7" stroke="#f0a24f" stroke-width="3" stroke-linecap="round"/>
+<path d="M78 52h10v8h8v10h-8v8H78v-8h-8V60h8z" fill="#b3261e"/>
+<path d="M40 88h132" stroke="#b3261e" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="66" cy="92" r="10" fill="#46595a" stroke="#fff" stroke-width="3"/><circle cx="66" cy="92" r="3.5" fill="#fff"/>
+<circle cx="146" cy="92" r="10" fill="#46595a" stroke="#fff" stroke-width="3"/><circle cx="146" cy="92" r="3.5" fill="#fff"/>
+</g>
+<circle cx="226" cy="66" r="25" fill="#b3261e"/>
+<use href="#hs" transform="translate(226 66)" fill="#fff"/>
+<text x="318" y="85" font-size="54" font-weight="700" fill="#b3261e" text-anchor="middle" letter-spacing="1">101</text>
+<!-- card B: emergency department -->
+<g filter="url(#sh)"><rect x="16" y="122" width="408" height="96" rx="18" fill="#fff3e3" stroke="#f4d9b4" stroke-width="2"/></g>
+<rect x="16" y="134" width="7" height="72" rx="3.5" fill="#f0a24f"/>
+<g stroke="#b4661c" stroke-width="3.5" stroke-linejoin="round">
+<rect x="46" y="152" width="122" height="54" rx="4" fill="#fff"/>
+<rect x="84" y="134" width="46" height="72" rx="4" fill="#fff"/>
+</g>
+<circle cx="107" cy="154" r="13" fill="#fff3e3" stroke="#d9782a" stroke-width="2.5"/>
+<path d="M103 145h8v5h5v8h-5v5h-8v-5h-5v-8h5z" fill="#d9782a"/>
+<g fill="#e3f2ee" stroke="#1f7a70" stroke-width="2"><rect x="56" y="162" width="16" height="12" rx="2"/><rect x="56" y="182" width="16" height="12" rx="2"/><rect x="142" y="162" width="16" height="12" rx="2"/><rect x="142" y="182" width="16" height="12" rx="2"/></g>
+<rect x="95" y="180" width="24" height="26" rx="2" fill="#e3f2ee" stroke="#b4661c" stroke-width="2.5"/><path d="M107 181v25" stroke="#b4661c" stroke-width="2"/>
+<path d="M36 206h142" stroke="#b4661c" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M366 194H232" stroke="#f0a24f" stroke-width="4" stroke-dasharray="3 10" stroke-linecap="round"/>
+<path d="M222 194l14-9v18z" fill="#d9782a"/>
+<g stroke="#b4661c" stroke-width="3" stroke-linejoin="round">
+<path d="M262 178l9-15q2-3 6-3h32q4 0 6 3l9 15h4q5 0 5 5v9h-80v-9q0-5 5-5z" fill="#fff"/>
+<path d="M273 176l6-10h12v10zM298 176v-10h12l6 10z" fill="#e3f2ee" stroke-width="2"/>
+</g>
+<circle cx="276" cy="193" r="8" fill="#46595a" stroke="#fff3e3" stroke-width="3"/><circle cx="318" cy="193" r="8" fill="#46595a" stroke="#fff3e3" stroke-width="3"/>
+<path d="M346 168h14M342 178h20" stroke="#f0a24f" stroke-width="3" stroke-linecap="round"/>
+<!-- card C: same day -->
+<g filter="url(#sh)"><rect x="16" y="226" width="408" height="96" rx="18" fill="#e3f2ee" stroke="#bcd9d2" stroke-width="2"/></g>
+<rect x="16" y="238" width="7" height="72" rx="3.5" fill="#1f7a70"/>
+<rect x="78" y="236" width="44" height="76" rx="9" fill="#fff" stroke="#14564f" stroke-width="3.5"/>
+<rect x="85" y="248" width="30" height="48" rx="3" fill="#e3f2ee"/>
+<rect x="93" y="302" width="14" height="3.5" rx="1.75" fill="#14564f"/>
+<circle cx="100" cy="270" r="12" fill="#1f7a70"/>
+<use href="#hs" transform="translate(100 270) scale(.52)" fill="#fff"/>
+<path d="M132 254q8 8 0 18M140 248q14 14 0 30M68 254q-8 8 0 18M60 248q-14 14 0 30" stroke="#f0a24f" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g stroke="#14564f" stroke-width="3" stroke-linejoin="round">
+<rect x="262" y="244" width="100" height="66" rx="8" fill="#fff"/>
+<path d="M262 252q0-8 8-8h84q8 0 8 8v10H262z" fill="#1f7a70"/>
+</g>
+<path d="M285 238v14M339 238v14" stroke="#14564f" stroke-width="4" stroke-linecap="round"/>
+<g fill="#e3f2ee"><rect x="272" y="270" width="14" height="10" rx="2"/><rect x="292" y="270" width="14" height="10" rx="2"/><rect x="332" y="270" width="14" height="10" rx="2"/><rect x="272" y="288" width="14" height="10" rx="2"/><rect x="292" y="288" width="14" height="10" rx="2"/><rect x="312" y="288" width="14" height="10" rx="2"/><rect x="332" y="288" width="14" height="10" rx="2"/></g>
+<rect x="310" y="267" width="18" height="16" rx="3" fill="#f0a24f"/>
+<circle cx="319" cy="275" r="13" fill="none" stroke="#f0a24f" stroke-width="2.5"/>
+<path d="M202 276h40" stroke="#1f7a70" stroke-width="4" stroke-dasharray="3 9" stroke-linecap="round"/>
+<!-- urgency dots -->
+<g stroke-width="2.5"><circle cx="400" cy="46" r="7" fill="#b3261e" stroke="#b3261e"/><circle cx="400" cy="66" r="7" fill="#b3261e" stroke="#b3261e"/><circle cx="400" cy="86" r="7" fill="#b3261e" stroke="#b3261e"/>
+<circle cx="400" cy="150" r="7" fill="#fff3e3" stroke="#e9c79a"/><circle cx="400" cy="170" r="7" fill="#d9782a" stroke="#d9782a"/><circle cx="400" cy="190" r="7" fill="#d9782a" stroke="#d9782a"/>
+<circle cx="400" cy="254" r="7" fill="#e3f2ee" stroke="#a9cfc6"/><circle cx="400" cy="274" r="7" fill="#e3f2ee" stroke="#a9cfc6"/><circle cx="400" cy="294" r="7" fill="#1f7a70" stroke="#1f7a70"/></g>
+</svg>
