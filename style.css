@@ -116,3 +116,6 @@ ol.zones li::before{content:counter(z);flex:none;width:28px;height:28px;border-r
 ol.zones li:nth-child(2)::before{background:#b9661c}ol.zones li:nth-child(3)::before{background:#c0533a}ol.zones li:nth-child(4)::before{background:#3f73ad}ol.zones li:nth-child(5)::before{background:#6a4fb0}ol.zones li:nth-child(6)::before{background:#4d8a3b}
 
 .lang{flex-wrap:wrap}.lang button{min-width:0;font-size:16px}
+/* 04.11: language bar — same order and same place in every language */
+header{display:flex;flex-direction:column}
+header>.lang{order:-1;direction:ltr;margin:0 0 14px}
