@@ -130,3 +130,6 @@ header>.lang{order:-1;direction:ltr;margin:0 0 14px}
 .vtop h2 .ic{display:none}
 .vnote{font-size:15px;opacity:.8;margin:-4px 0 10px}
 .vchip{display:inline-block;margin-inline-start:8px;padding:2px 9px;border-radius:999px;background:var(--teal);color:#fff;font-size:14px;font-weight:600;vertical-align:middle;white-space:nowrap}
+.vdev{border-style:dashed!important;background:transparent}
+.vdev .vplay{background:#b9c9c5}
+.vdev .vsoon{margin:0;font-size:17px}
