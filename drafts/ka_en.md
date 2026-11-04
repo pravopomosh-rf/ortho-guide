@@ -6,7 +6,7 @@ Arthroscopy is an operation on the knee joint, usually done through two or three
 
 ## When it is done
 - Some meniscus tears, especially after an injury, when the knee truly locks mechanically, or when symptoms continue despite treatment without surgery. Not every meniscus tear needs an operation: with age-related changes, exercises and other non-surgical treatment are often recommended first.
-- Repair (reconstruction) of the anterior cruciate ligament.
+- Reconstruction of the anterior cruciate ligament.
 - Loose pieces of cartilage or bone in the joint, some injuries of the cartilage and kneecap, inflammation of the joint lining (synovium) (AAOS).
 - For knee osteoarthritis, arthroscopic washing out and “cleaning” of the joint is not recommended: it does not give meaningful long-term improvement (NICE NG226). If the knee is truly mechanically blocked, for example by a displaced piece of meniscus or a loose fragment inside the joint, the surgeon assesses separately whether this obstruction needs to be removed.
 - Whether an operation is needed, and which one, is decided by the surgeon after examination and imaging (often an MRI).
@@ -15,12 +15,12 @@ Arthroscopy is an operation on the knee joint, usually done through two or three
 - General preparation rules — fasting, showering, medicines — are on the “Preparing for surgery” page.
 - Tell your doctor in advance if you take blood-thinning medicines: they may need to be changed for a while. Do not stop them on your own.
 - Do not shave your leg yourself before the operation: small razor cuts increase the risk of infection. If hair is in the way, the staff will remove it with clippers (NICE NG125).
-- The anaesthetic may be general — you are asleep, spinal — the lower part of the body is numbed, or in some cases local — only the area of the operation is numbed. The choice depends on the type of operation and your health. The anaesthetist will explain the suitable option in advance.
+- Your anaesthetic may be general (you are asleep), spinal (the lower half of your body is numb), or, in some cases, local (only the area being operated on is numbed). The choice depends on the type of operation and your health. The anaesthetist will explain the suitable option in advance.
 
 ## How the operation is done
 - The joint is filled with sterile fluid so that its structures can be seen better.
-- The surgeon examines the joint and, depending on the damage, may stitch a torn meniscus or remove the part that cannot be saved, take out loose fragments or repair a damaged ligament. Surgeons try to keep the meniscus whenever possible, because it helps spread the load across the joint and protects the cartilage.
-- How long it takes depends on what needs to be done. A small arthroscopy may take less than an hour, while a more complex operation, such as ligament repair, may take several hours (NHS).
+- The surgeon examines the joint and, depending on the damage, may stitch a torn meniscus or remove the part that cannot be saved, take out loose fragments or repair or reconstruct a damaged ligament. Surgeons try to keep the meniscus whenever possible, because it helps spread the load across the joint and protects the cartilage.
+- How long it takes depends on what needs to be done. A small arthroscopy may take less than an hour, while a more complex operation, such as ligament reconstruction, may take several hours (NHS).
 - The cuts are closed with stitches or adhesive strips, and a dressing is applied, sometimes with an elastic bandage.
 
 ## After the operation
@@ -28,7 +28,7 @@ Arthroscopy is an operation on the knee joint, usually done through two or three
 - Cold on the knee — as instructed by the staff, through a cloth, usually for 15–20 minutes: cold reduces pain and swelling. Ice is not put directly on the skin so as not to damage it.
 - Take your painkillers according to the prescribed schedule. Do not put up with severe pain — tell the nurse.
 - Move your foot up and down and tighten your thigh muscles as the physiotherapist shows you: this keeps blood flowing in the legs (preventing blood clots) and maintains muscle strength.
-- After a small arthroscopy, for example removal of a damaged part of the meniscus, you are often allowed to put weight on the leg quite early, sometimes with crutches. But after meniscus stitching, ligament repair or some cartilage operations the rules are different: weight-bearing or knee bending may be limited for a while, or a brace may be prescribed. Follow your own rehabilitation plan exactly — too much or the wrong kind of load can interfere with healing of the repaired tissues.
+- After a small arthroscopy, for example removal of a damaged part of the meniscus, you are often allowed to put weight on the leg quite early, sometimes with crutches. But after meniscus repair, ligament reconstruction or some cartilage operations the rules are different: weight-bearing or knee bending may be limited for a while, or a brace may be prescribed. Follow your own rehabilitation plan exactly — too much or the wrong kind of load can interfere with healing of the repaired tissues.
 - After a short arthroscopy, not everyone needs medicines against blood clots: if the risk is low, early safe movement is usually enough. If the risk of clots is higher or the operation was longer, the doctor may prescribe preventive medicines, for example injections under the skin. They reduce the chance of blood clots but can increase the risk of bleeding. If they are prescribed, follow the schedule you were given (NICE NG89).
 - If you go home on the day of the operation after a general anaesthetic, arrange in advance for someone to take you home and stay with you for the first 24 hours. For the first 24 hours do not drive, drink alcohol or make important decisions: the medicines can still have an effect even if you already feel well (NHS).
 
