@@ -36,6 +36,7 @@ hosp:'<rect x="4" y="4" width="16" height="16" rx="3"/><path d="M12 8v8M8 12h8"/
 leaf:'<path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14z"/><path d="M5 19l7-7"/>'};
 function ic(n){return '<span class="ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">'+(P[n]||P.info)+'</svg></span>'}
 var R=[
+[/^Call 101/,'phone','danger'],[/right away|immediately|urgent/i,'alert','danger'],[/same day|tell the ward/i,'phone','warn'],[/is normal/i,'heart','calm'],[/^Video/,'play'],[/sources/i,'book'],[/[Mm]edicine|Clexane/,'pill'],[/[Dd]rain/,'drop'],[/wash with|[Ww]ipes|[Ss]kin|[Ss]hower/,'shower'],[/^Food/,'cup'],[/bring/,'bag'],[/wristband/,'tag'],[/[Ss]moking/,'nosmoke'],[/wound/i,'bandage'],[/delirium/,'people'],[/X-ray|looks like/,'image'],[/implant|joint|replacement|anterior approach/i,'joint'],[/complications|risk/i,'shield'],[/[Mm]ovements/,'walk'],[/[Pp]repar/,'check'],[/[Aa]fter surgery|recover|discharge/,'sun'],[/fracture/i,'bone'],[/emergency department to/,'hosp'],[/^(What|Who)/,'info'],[/^When/,'cal'],[/waiting|Modern|Types/,'leaf'],
 [/101/,'phone','danger'],
 [/срочн|немедленно|בדחיפות|דחופה|(^|\s)מיד|فور|عاجل/i,'alert','danger'],
 [/в тот же день|באותו יום|اليوم نفسه/,'phone','warn'],
@@ -55,7 +56,7 @@ var R=[
 [/приёмного|מהמיון|الطوارئ إلى/,'hosp'],[/Что это|Что такое|Что происходит|Для кого|^מה |^מהי|למי|^ما |لمن/,'info'],[/Когда|מתי|متى/,'cal'],[/ожидани|ההמתנה|الانتظار|операция$|הניתוח כיום|العملية اليوم/,'leaf']];
 function pick(t){for(var i=0;i<R.length;i++)if(R[i][0].test(t))return R[i];return [0,'info']}
 document.querySelectorAll('section>h2').forEach(function(h){var r=pick(h.textContent);h.insertAdjacentHTML('afterbegin',ic(r[1]));if(r[2])h.parentNode.classList.add(r[2])});
-var T=[[/Суставы|מפרקים|المفاصل/,'joint'],[/Перелом|שברים|الكسور/,'bone'],[/Позвоночник|עמוד השדרה|العمود الفقري/,'spine'],[/Подготовка|הכנה|التحضير/,'check'],[/После|אחרי|بعد/,'sun'],[/101/,'alert'],[/Общие|כלליים|عامة/,'leaf']];
+var T=[[/^Joints/,'joint'],[/^Fractures/,'bone'],[/^Spine/,'spine'],[/^Preparing/,'check'],[/^After/,'sun'],[/101/,'alert'],[/^General/,'leaf'],[/Суставы|מפרקים|المفاصل/,'joint'],[/Перелом|שברים|الكسور/,'bone'],[/Позвоночник|עמוד השדרה|العمود الفقري/,'spine'],[/Подготовка|הכנה|التحضير/,'check'],[/После|אחרי|بعد/,'sun'],[/101/,'alert'],[/Общие|כלליים|عامة/,'leaf']];
 document.querySelectorAll('h2.topich').forEach(function(h){for(var i=0;i<T.length;i++)if(T[i][0].test(h.textContent)){h.insertAdjacentHTML('afterbegin',ic(T[i][1]));break}});
 var A=[[/postop/,'alert'],[/v=1/,'play'],[/thr|tkr/,'joint'],[/hip-fracture/,'bone'],[/kypho|lamin|fusion|spine/,'spine'],[/preop/,'check'],[/why-wait/,'leaf']];
 document.querySelectorAll('a.op').forEach(function(a){var h=a.getAttribute('href'),n='info';for(var i=0;i<A.length;i++)if(A[i][0].test(h)){n=A[i][1];break}
