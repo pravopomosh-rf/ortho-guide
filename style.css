@@ -119,3 +119,14 @@ ol.zones li:nth-child(2)::before{background:#b9661c}ol.zones li:nth-child(3)::be
 /* 04.11: language bar — same order and same place in every language */
 header{display:flex;flex-direction:column}
 header>.lang{order:-1;direction:ltr;margin:0 0 14px}
+/* 04.11: video first — visible card at the top of the page */
+.vtop{border:2px solid var(--teal,#1f7a70)!important;background:#fff}
+.vlabel{display:flex;align-items:center;gap:10px;margin:0 0 10px;font-weight:700;font-size:19px;color:var(--teal-d,#14564f)}
+.vplay{width:36px;height:36px;border-radius:50%;background:var(--teal,#1f7a70);position:relative;flex:none}
+.vplay::after{content:"";position:absolute;left:14px;top:10px;border-style:solid;border-width:8px 0 8px 12px;border-color:transparent transparent transparent #fff}
+[dir=rtl] .vplay::after{left:12px}
+.vdur{font-weight:500;font-size:15px;opacity:.75}
+.vtop h2{margin-top:0}
+.vtop h2 .ic{display:none}
+.vnote{font-size:15px;opacity:.8;margin:-4px 0 10px}
+.vchip{display:inline-block;margin-inline-start:8px;padding:2px 9px;border-radius:999px;background:var(--teal);color:#fff;font-size:14px;font-weight:600;vertical-align:middle;white-space:nowrap}
