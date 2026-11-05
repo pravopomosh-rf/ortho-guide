@@ -26,7 +26,7 @@ After an operation on the leg, especially after a hip or knee replacement and af
 
 ## After the injection
 - Put the used syringe straight into a special strong container for sharp medical waste. Do not put the cap back on, do not reuse the syringe and do not throw it in the ordinary rubbish bin. This prevents accidental needle-sticks. Ask your clinic or pharmacy in advance where to get a container and where to return it when it is full.
-- Store unused syringes below twenty-five degrees, do not freeze them, and keep them away from children. Do not leave the medicine in a hot car or in direct sunlight. Wrong storage can affect the quality of the medicine.
+- Store unused syringes below 25°C, do not freeze them, and keep them away from children. Do not leave the medicine in a hot car or in direct sunlight. Wrong storage can affect the quality of the medicine.
 - A small bruise or a small lump at the injection site is common and usually goes away by itself.
 - Mark each injection you give on a calendar — this lowers the risk of forgetting or repeating a dose.
 
@@ -35,8 +35,9 @@ After an operation on the leg, especially after a hip or knee replacement and af
 - If you accidentally gave too much or too little, contact your doctor, nurse or pharmacist straight away, even if you feel fine. Do not try to make up for the error with another injection: too high a dose increases the risk of bleeding.
 
 ## When to get help
-- Enoxaparin makes the blood clot less and increases the risk of bleeding. If you have blood in your urine, black stools, repeated nosebleeds or unusually large bruises — get medical help the same day.
-- If you vomit blood, have heavy bleeding that cannot be stopped, a sudden very severe headache, loss of consciousness or sudden weakness on one side of the body — call 101 immediately. These may be signs of dangerous internal bleeding.
+- Enoxaparin reduces blood clotting and increases the risk of bleeding. If you notice blood in your urine, repeated nosebleeds, or unusually large bruises, seek medical help the same day. If your stools are black and tarry, go to the emergency department immediately: this may be a sign of bleeding in the digestive tract.
+- If you vomit blood, have heavy bleeding that cannot be stopped, a sudden very severe headache, loss of consciousness or sudden weakness on one side of the body — call 101 immediately. These may be signs of serious bleeding, a stroke, or another medical emergency.
+- If you have had spinal or epidural anesthesia, a lumbar puncture, or spine surgery, and develop new severe pain in the middle of your back, numbness or increasing weakness in your legs, or loss of bladder or bowel control, go to the emergency department immediately. If your condition worsens rapidly, call 101.
 - If you fall and hit your head during treatment, go to the emergency department immediately, even if you feel well for now. Hidden bleeding is possible while you take this medicine.
 - If after an injection your lips, tongue or throat swell or you have difficulty breathing — call 101 immediately: this may be a severe allergic reaction.
 - Do not add aspirin, ibuprofen or other anti-inflammatory medicines on your own: together with enoxaparin they increase the risk of bleeding. If your doctor has already prescribed aspirin, do not stop it yourself.
@@ -44,5 +45,8 @@ After an operation on the leg, especially after a hip or knee replacement and af
 - Sudden shortness of breath or chest pain — call 101 straight away.
 
 ## Sources
-1. Israeli Ministry of Health — drug registry, Crusia: official patient leaflet (2022). https://israeldrugs.health.gov.il/
+1. Israeli Ministry of Health — Crusia / Crusia Forte: official patient leaflet (May 2023). https://mohpublic.z6.web.core.windows.net/IsraelDrugs/Rishum01_8_212061423.pdf
 2. NICE NG89 — Venous thromboembolism in over 16s. https://www.nice.org.uk/guidance/ng89
+3. University Hospitals Sussex NHS Foundation Trust — Enoxaparin: patient information (bleeding).
+4. CDC — Signs and Symptoms of Stroke. https://www.cdc.gov/stroke/signs-symptoms/index.html
+5. DailyMed (NLM) — Enoxaparin sodium injection: prescribing information (spinal/epidural hematoma). https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=enoxaparin
