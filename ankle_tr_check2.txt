@@ -1,0 +1,114 @@
+ФИНАЛЬНАЯ ПРОВЕРКА переводов «Перелом лодыжки» HE/AR/EN — все 5 правок внесены дословно. Весь файл ниже.
+
+[F01] HE: אישה בת חמישים וחמש. היא מעדה על מדרגה וסובבה את הקרסול. הקרסול כואב מאוד, נפוח, הופיע שטף דם, והיא לא מצליחה לדרוך על הרגל.
+[F01] AR: امرأة عمرها خمسة وخمسون عامًا. تعثّرت على درجة والتوت قدمها. الكاحل يؤلمها بشدة ومتورّم، وظهرت كدمة، ولا تستطيع الدوس على قدمها.
+[F01] EN: A fifty-five-year-old woman tripped on a step and twisted her foot. Her ankle is very painful and swollen, a bruise has appeared, and she cannot put weight on the leg.
+[F02] HE: את מפרק הקרסול יוצרים הקצוות התחתונים של עצם השוק ועצם השוקית, ועצם הקרסול של כף הרגל. הפטישון החיצוני הוא הקצה התחתון של עצם השוקית, והפטישון הפנימי הוא חלק מהקצה התחתון של עצם השוק. הפטישון האחורי הוא החלק האחורי של הקצה התחתון של עצם השוק.
+[F02] AR: يتكوّن مفصل الكاحل من الطرفين السفليين لعظم الظنبوب وعظم الشظية، ومن عظم الكاحل في القدم. الكعب الوحشي هو طرف عظم الشظية، والكعب الإنسي جزء من عظم الظنبوب. أما الكعب الخلفي فهو الحافة الخلفية لعظم الظنبوب.
+[F02] EN: The ankle joint is formed by the lower ends of the shin bone and the fibula, and the talus bone of the foot. The outer ankle bone is the end of the fibula, and the inner one is part of the shin bone. The posterior malleolus is the back part of the lower end of the shin bone.
+[F03] HE: שבר של הפטישון החיצוני בלבד הוא לרוב יציב. אם נשברו שניים או שלושה פטישונים, השבר לרוב לא יציב ולעיתים קרובות מלווה בפריקה. לפעמים נפגעות גם הרצועות שבין עצם השוק לעצם השוקית, הסינדסמוזיס.
+[F03] AR: كسر الكعب الوحشي وحده غالبًا ما يكون مستقرًا. وإذا انكسر كعبان أو ثلاثة، فغالبًا ما يكون الكسر غير مستقر، وكثيرًا ما يرافقه خلع. وأحيانًا تتضرّر أيضًا الأربطة بين عظم الظنبوب وعظم الشظية، وتُسمّى الارتفاق.
+[F03] EN: A fracture of the outer ankle bone alone is often stable. If two or three malleoli are broken, the fracture is often unstable and is frequently combined with a dislocation. Sometimes the ligaments between the shin bone and the fibula, called the syndesmosis, are also injured.
+[F04] HE: המנתח מחליט לפי הבדיקה והצילומים. ניתוח מציעים בדרך כלל אם השברים זזו ממקומם או שהמפרק לא יציב. שבר יציב שלא זז מטופל לרוב בלי ניתוח, בגבס או במגף מיוחד. אם יש פצע באזור השבר, אפילו קטן, השבר עלול להיות פתוח, וזה דורש עזרה מיידית.
+[F04] AR: يقرّر الجرّاح بناءً على الفحص والصور. وعادةً تُقترح العملية إذا كانت أجزاء العظم منزاحة أو كان المفصل غير مستقر. أما الكسر المستقر غير المنزاح فيُعالَج غالبًا بدون عملية، بالجبس أو بحذاء خاص. وإذا كان هناك جرح في منطقة الكسر، حتى لو كان صغيرًا، فقد يكون الكسر مفتوحًا، وهذا يحتاج إلى مساعدة فورية.
+[F04] EN: The surgeon decides based on the examination and X-rays. Surgery is usually offered if the bone pieces have moved out of place or the joint is unstable. A stable fracture that has not moved is often treated without surgery, with a cast or a special boot. If there is a wound over the fracture, even a small one, the fracture may be open, and this needs immediate help.
+[F05] HE: לפני הניתוח הרגל מונחת בסד או בגבס, מורמת מעל גובה הלב, כך הנפיחות פוחתת. בנפיחות חזקה דוחים לפעמים את הניתוח הסופי. אבל אם יש פריקה בקרסול או עיוות ניכר שלו, מחזירים את המפרק למקומו ומקבעים אותו זמנית בדחיפות, בלי לחכות שהנפיחות תרד. ספרו מיד אם מתחת לסד הכאב התגבר, הופיעו חוסר תחושה או עקצוץ, או שכף הרגל נעשתה קרה או חיוורת.
+[F05] AR: قبل العملية توضع الساق في جبيرة أو جبس، مرفوعة فوق مستوى القلب، فهذا يقلّل التورّم. وعند التورّم الشديد تُؤجَّل العملية النهائية أحيانًا. لكن إذا كان الكاحل مخلوعًا أو مشوّهًا بشدة، فتُجرى الإعادة إلى الوضع الصحيح والتثبيت المؤقت بشكل عاجل، دون انتظار نقصان التورّم. أخبر الطاقم فورًا إذا اشتد الألم تحت الجبيرة، أو ظهر خدر أو وخز، أو أصبحت القدم باردة أو شاحبة.
+[F05] EN: Before surgery the leg rests in a splint or cast, raised above the level of the heart: this reduces swelling. With severe swelling, the final operation is sometimes delayed. But if the ankle is dislocated or badly deformed, it is put back in place and temporarily fixed urgently, without waiting for the swelling to go down. Tell the staff at once if the pain under the splint gets worse, you get numbness or tingling, or the foot becomes cold or pale.
+[F06] HE: המנתח מחזיר את חלקי העצם למקומם ומקבע אותם בפלטה וברגים או רק בברגים, ולפעמים במסמר. את הסינדסמוזיס מקבעים בבורג או בחוט מיוחד עם כפתורים. אחרי הניתוח מקבעים בדרך כלל את הרגל בסד, בגבס או במגף מקבע.
+[F06] AR: يعيد الجرّاح أجزاء العظم إلى مكانها ويثبّتها بصفيحة وبراغٍ أو ببراغٍ فقط، وأحيانًا بقضيب. ويُثبَّت الارتفاق ببرغي أو بخيط خاص مع أزرار. وبعد العملية تُثبَّت الساق عادةً بجبيرة أو جبس أو دعامة.
+[F06] EN: The surgeon lines up the bone pieces and fixes them with a plate and screws, or with screws only, sometimes with a rod. The syndesmosis is fixed with a screw or a special cord with buttons. After surgery the leg is usually held in a splint, cast or brace.
+[F07] HE: החזיקו את הרגל מורמת והזיזו את אצבעות כף הרגל. לחלק מהמטופלים מרשים לדרוך מוקדם, ולאחרים אוסרים זמנית לדרוך על הרגל. אל תגבירו את העומס בעצמכם: פעלו לפי ההוראות הכתובות של המנתח. הפיזיותרפיסט ילמד אתכם ללכת עם קביים או הליכון. הצוות גם מעריך את הסיכון לקרישי דם ולדימום. תרופות למניעת קרישים לא כולם צריכים. אם הרופא רשם אותן, הקפידו על התוכנית ואל תפסיקו אותן בעצמכם.
+[F07] AR: أبقِ ساقك مرفوعة وحرّك أصابع قدمك. يُسمح لبعض المرضى بتحميل الوزن مبكرًا، ويُمنع آخرون مؤقتًا من الدوس على الساق. لا تزد الحمل بنفسك: التزم بتعليمات الجرّاح المكتوبة. وسيعلّمك أخصائي العلاج الطبيعي المشي بالعكازات أو بالمشّاية. ويقيّم الفريق أيضًا خطر الجلطات والنزيف. أدوية الوقاية من الجلطات لا يحتاجها الجميع. وإذا وصفها الطبيب، فالتزم بالخطة ولا توقفها بنفسك.
+[F07] EN: Keep your leg raised and move your toes. Some patients are allowed to put weight on the leg early; others must keep weight off it for a while. Do not increase the load yourself: follow the surgeon's written instructions. The physiotherapist will teach you to walk with crutches or a walker. The team also assesses your risk of blood clots and bleeding. Not everyone needs medicines to prevent clots. If your doctor prescribed them, follow the plan and do not stop them yourself.
+[F08] HE: ספרו מיד לצוות על כאב שלא עובר ממשככי כאבים, על חוסר תחושה או עקצוץ חדשים, על כף רגל חיוורת או קרה, על חבישה שנרטבת, על כאב או נפיחות בשוק, או על קוצר נשימה פתאומי או כאב בחזה.
+[F08] AR: أخبر الطاقم فورًا عن ألم لا يزول بالمسكّنات، أو خدر أو وخز جديد، أو قدم شاحبة أو باردة، أو ضمادة تتبلّل، أو ألم أو تورّم في ربلة الساق، أو ضيق نفس مفاجئ أو ألم في الصدر.
+[F08] EN: Tell the staff at once about pain that painkillers do not relieve, new numbness or tingling, a pale or cold foot, a dressing that is soaking through, pain or swelling in the calf, or sudden shortness of breath or chest pain.
+[F09] HE: שמרו על הגבס יבש ואל תכניסו לתוכו שום דבר. אם הגבס נרטב, נשבר, משפשף מאוד או הופיעו ריח או הפרשה, פנו ללא דיחוי למחלקה או לחדר המיון. עישון מגביר את הסיכון לסיבוכים, שוחחו עם הצוות איך להפסיק לעשן לפחות בזמן הטיפול.
+[F09] AR: حافظ على الجبس جافًا ولا تُدخل فيه أي شيء. وإذا تبلّل الجبس أو انكسر أو صار يحتكّ بشدة، أو ظهرت رائحة أو إفرازات، فتوجّه دون تأخير إلى القسم أو إلى الطوارئ. التدخين يزيد خطر المضاعفات، فناقش مع الفريق كيف تتوقف عنه على الأقل خلال فترة العلاج.
+[F09] EN: Keep the cast dry and do not put anything inside it. If the cast gets wet, breaks, rubs badly, or there is a smell or discharge, contact the ward or go to the emergency department without delay. Smoking raises the risk of complications: talk to the team about stopping, at least during treatment.
+[F10] HE: איחוי ראשוני נמשך בדרך כלל לפחות שישה שבועות, ואיחוי מלא עשרה עד שנים עשר שבועות. נפיחות ונוקשות יכולות להימשך כמה חודשים. רוב האנשים חוזרים לפעילות רגילה אחרי שלושה עד ארבעה חודשים. חזרו לנהיגה רק בתיאום עם הרופא, כשתוכלו לנהוג בבטחה ולבלום בלימת חירום. אל תנהגו אם גבס, מגף מקבע או תרופות שגורמות לישנוניות מפריעים לנהיגה בטוחה.
+[F10] AR: يستغرق الالتئام الأولي عادةً ستة أسابيع على الأقل، والالتئام الكامل من عشرة إلى اثني عشر أسبوعًا. وقد يستمر التورّم والتيبّس عدة أشهر. ويعود معظم الناس إلى نشاطهم المعتاد بعد ثلاثة إلى أربعة أشهر. لا تعد إلى القيادة إلا بعد موافقة الطبيب، عندما تستطيع القيادة بأمان والضغط على الفرامل بشكل طارئ. ولا تقُد إذا كان الجبس أو الدعامة أو الأدوية المسبّبة للنعاس تعيق القيادة الآمنة.
+[F10] EN: Early healing usually takes at least six weeks, and full healing ten to twelve weeks. Swelling and stiffness can last several months. Most people return to normal activities after three to four months. Return to driving only after agreeing it with your doctor, when you can drive safely and do an emergency stop. Do not drive if a cast, brace or medicines that make you drowsy get in the way of safe driving.
+[F11] HE: בקוצר נשימה פתאומי או כאב בחזה התקשרו למאה ואחת. אם כף הרגל נעשתה קרה, חיוורת או כחולה, הופיע חוסר תחושה בולט, הכאב התגבר בחדות, במיוחד אם הוא לא פוחת אחרי משכך כאבים, או שהגבס לוחץ מאוד, צריך עזרה דחופה מיידית. אל תנהגו בעצמכם. אם אינכם יכולים להגיע לחדר המיון בבטחה ובלי עיכוב, הזמינו אמבולנס במספר מאה ואחת. בחום של שלושים ושמונה מעלות ומעלה, אודם או הפרשה מהפצע, או כאב חדש או נפיחות בשוק, צריך בדיקה באותו יום.
+[F11] AR: عند ضيق النفس المفاجئ أو ألم الصدر اتصل بالرقم مئة وواحد. وإذا أصبحت القدم باردة أو شاحبة أو زرقاء، أو ظهر خدر واضح، أو اشتد الألم بحدّة، خاصةً إذا لم يخفّ بعد المسكّن، أو صار الجبس يضغط بشدة، فأنت بحاجة إلى مساعدة طارئة فورية. لا تقُد السيارة بنفسك. وإذا لم تستطع الوصول إلى قسم الطوارئ بأمان ودون تأخير، فاطلب الإسعاف على الرقم مئة وواحد. وعند حرارة ثمانٍ وثلاثين درجة أو أكثر، أو احمرار أو إفرازات من الجرح، أو ألم جديد أو تورّم في ربلة الساق، يلزم فحص في اليوم نفسه.
+[F11] EN: For sudden shortness of breath or chest pain, call one-zero-one. If your foot becomes cold, pale or blue, you get marked numbness, the pain gets sharply worse, especially if it does not ease after a painkiller, or the cast becomes very tight, you need emergency help immediately. Do not drive yourself. If you cannot get to the emergency department safely and without delay, call an ambulance on one-zero-one. For a temperature of thirty-eight degrees or higher, redness or discharge from the wound, or new pain or swelling in the calf, you need to be checked the same day.
+[F12] HE: אלה המלצות כלליות. ההוראות האישיות של הרופא ושל הצוות הרפואי קודמות להן.
+[F12] AR: هذه توصيات عامة. تعليمات طبيبك والفريق الطبي الخاصة بك لها الأولوية.
+[F12] EN: These are general recommendations. Individual instructions from your doctor and medical team come first.
+
+101 — экстренная помощь → 101 עזרה דחופה | 101 مساعدة طارئة | 101 emergency help
+10–12 нед. → 10–12 שבועות | 10–12 أسبوعًا | 10–12 wk
+3–4 мес. → 3–4 חודשים | 3–4 أشهر | 3–4 mo
+55 лет → בת 55 | 55 عامًا | 55 years old
+БЕЗ ПРОМЕДЛЕНИЯ — В ОТДЕЛЕНИЕ ИЛИ ПРИЁМНОЕ → ללא דיחוי למחלקה או למיון | دون تأخير إلى القسم أو الطوارئ | WITHOUT DELAY: WARD OR EMERGENCY
+Гипс сухой · ничего не вставлять внутрь → גבס יבש · לא להכניס שום דבר פנימה | الجبس جاف · لا تُدخل فيه شيئًا | Keep the cast dry · put nothing inside
+Другим — пока не наступать → לאחרים: בינתיים לא לדרוך | لآخرين: لا دوس مؤقتًا | Others: no weight for now
+Женщина → אישה | امرأة | Woman
+КУРЕНИЕ → עישון | التدخين | SMOKING
+Нога на возвышении · двигайте пальцами стопы → רגל מורמת · להזיז את אצבעות כף הרגל | الساق مرفوعة · حرّك أصابع القدم | Leg raised · move your toes
+Нужна не всем · если назначена — по схеме, не отменять самим → לא כולם צריכים · אם נרשמה, לפי התוכנית ולא להפסיק לבד | لا يحتاجها الجميع · إذا وُصفت فحسب الخطة ولا توقفها بنفسك | Not everyone needs it · if prescribed, follow the plan, do not stop it yourself
+ОТЁК → נפיחות | التورّم | SWELLING
+Одним — ранняя нагрузка → לחלק: דריכה מוקדמת | لبعضهم: تحميل وزن مبكر | Some: early weight-bearing
+ПАЦИЕНТКА → מטופלת | المريضة | PATIENT
+ПРОФИЛАКТИКА ТРОМБОЗА → מניעת קרישי דם | الوقاية من الجلطات | CLOT PREVENTION
+Повышает риск осложнений — обсудите отказ хотя бы на время лечения → מגביר סיכון לסיבוכים, שוחחו על הפסקה לפחות בזמן הטיפול | يزيد خطر المضاعفات، ناقش التوقف على الأقل خلال العلاج | Raises the risk of complications: discuss stopping, at least during treatment
+При сильном отёке операцию иногда откладывают · при вывихе или деформации — срочное вправление и временная фиксация → בנפיחות חזקה לפעמים דוחים את הניתוח · בפריקה או עיוות: החזרה וקיבוע זמני דחופים | عند التورّم الشديد تُؤجَّل العملية أحيانًا · عند الخلع أو التشوّه: إعادة وتثبيت مؤقت عاجلان | With severe swelling surgery is sometimes delayed · with dislocation or deformity: urgent realignment and temporary fixation
+РЕШАЕТ ХИРУРГ → המנתח מחליט | الجرّاح يقرّر | THE SURGEON DECIDES
+Рана над переломом → פצע מעל השבר | جرح فوق الكسر | Wound over the fracture
+СРАЗУ СООБЩИТЕ → ספרו מיד | أخبر فورًا | TELL STAFF AT ONCE
+Смещение или нестабильность → תזוזה או חוסר יציבות | انزياح أو عدم استقرار | Displaced or unstable
+Стабильный, без смещения → יציב, בלי תזוזה | مستقر، بدون انزياح | Stable, not displaced
+Только по письменным указаниям хирурга → רק לפי ההוראות הכתובות של המנתח | فقط حسب تعليمات الجرّاح المكتوبة | Only per the surgeon's written instructions
+боль или отёк икры → כאב או נפיחות בשוק | ألم أو تورّم في ربلة الساق | calf pain or swelling
+боль не проходит от обезболивающих → כאב שלא עובר ממשככי כאבים | ألم لا يزول بالمسكّنات | pain not relieved by painkillers
+боль под шиной ↑ · онемение · покалывание · стопа холодная или бледная → כאב מתחת לסד ↑ · חוסר תחושה · עקצוץ · כף רגל קרה או חיוורת | ألم تحت الجبيرة ↑ · خدر · وخز · قدم باردة أو شاحبة | pain under the splint ↑ · numbness · tingling · cold or pale foot
+большеберцовая → עצם השוק | الظنبوب | shin bone (tibia)
+внезапная одышка или боль в груди → קוצר נשימה פתאומי או כאב בחזה | ضيق نفس مفاجئ أو ألم في الصدر | sudden shortness of breath or chest pain
+внутренняя лодыжка → הפטישון הפנימי | الكعب الإنسي | inner ankle bone
+выраженное онемение → חוסר תחושה בולט | خدر واضح | marked numbness
+гипс намок, сломался, сильно натирает · запах или выделения → הגבס נרטב, נשבר, משפשף מאוד · ריח או הפרשה | تبلّل الجبس أو انكسر أو يحتكّ بشدة · رائحة أو إفرازات | cast wet, broken or rubbing badly · smell or discharge
+гипс сильно давит → הגבס לוחץ מאוד | الجبس يضغط بشدة | cast very tight
+две-три лодыжки — часто нестабилен, вывих → שניים או שלושה פטישונים: לרוב לא יציב, פריקה | كعبان أو ثلاثة: غالبًا غير مستقر، خلع | two or three malleoli: often unstable, dislocation
+за руль — только с согласия врача, когда безопасно → נהיגה רק בהסכמת הרופא, כשבטוח | القيادة فقط بموافقة الطبيب، عندما تكون آمنة | driving only with your doctor's agreement, when safe
+задняя лодыжка — задний край большеберцовой → הפטישון האחורי: החלק האחורי של הקצה התחתון של עצם השוק | الكعب الخلفي: الحافة الخلفية للظنبوب | posterior malleolus: back edge of the shin bone
+костыли или ходунки — научит физиотерапевт → קביים או הליכון, הפיזיותרפיסט ילמד | عكازات أو مشّاية، يعلّمك أخصائي العلاج الطبيعي | crutches or a walker: the physiotherapist will teach you
+малоберцовая → עצם השוקית | الشظية | fibula
+может быть открытый перелом — немедленно за помощью → ייתכן שבר פתוח, מיד לעזרה | قد يكون كسرًا مفتوحًا، اطلب المساعدة فورًا | may be an open fracture: get help immediately
+наружная лодыжка → הפטישון החיצוני | الكعب الوحشي | outer ankle bone
+не может наступить → לא מצליחה לדרוך | لا تستطيع الدوس | cannot bear weight
+не садитесь за руль сами → אל תנהגו בעצמכם | لا تقُد بنفسك | do not drive yourself
+обычная активность у большинства → פעילות רגילה אצל רוב האנשים | النشاط المعتاد لدى معظم الناس | normal activity for most people
+обычно операция → בדרך כלל ניתוח | عادةً عملية | usually surgery
+одна наружная — часто стабилен → רק הפטישון החיצוני: לרוב יציב | الوحشي فقط: غالبًا مستقر | outer only: often stable
+онемение, покалывание, бледная или холодная стопа → חוסר תחושה, עקצוץ, כף רגל חיוורת או קרה | خدر، وخز، قدم شاحبة أو باردة | numbness, tingling, pale or cold foot
+осмотр + снимки → בדיקה + צילומים | الفحص + الصور | examination + X-rays
+оступилась и подвернула ногу → מעדה וסובבה את הקרסול | تعثّرت والتوت قدمها | tripped and twisted her foot
+отёк и скованность — несколько месяцев → נפיחות ונוקשות: כמה חודשים | التورّم والتيبّس: عدة أشهر | swelling and stiffness: several months
+первичное сращение → איחוי ראשוני | الالتئام الأولي | early healing
+пластина и винты → פלטה וברגים | صفيحة وبراغٍ | plate and screws
+повязка промокает → החבישה נרטבת | الضمادة تتبلّل | dressing soaking through
+полное сращение → איחוי מלא | الالتئام الكامل | full healing
+потом шина, гипс или ортез → אחר כך סד, גבס או מגף מקבע | ثم جبيرة أو جبس أو دعامة | then a splint, cast or brace
+резко нарастающая боль → כאב שמתגבר בחדות | ألم يشتد بحدّة | sharply worsening pain
+синдесмоз — связки между костями → סינדסמוזיס: רצועות בין העצמות | الارتفاق: أربطة بين العظمين | syndesmosis: ligaments between the bones
+синдесмоз: винт или нить с пуговицами → סינדסמוזיס: בורג או חוט עם כפתורים | الارتفاق: برغي أو خيط مع أزرار | syndesmosis: screw or cord with buttons
+синяк → שטף דם | كدمة | bruise
+стопа холодная, бледная или синяя → כף רגל קרה, חיוורת או כחולה | قدم باردة أو شاحبة أو زرقاء | foot cold, pale or blue
+схема, не в масштабе · правый голеностоп, вид спереди → תרשים, לא בקנה מידה · קרסול ימין, מבט מלפנים | رسم توضيحي، ليس بمقياس حقيقي · الكاحل الأيمن من الأمام | diagram, not to scale · right ankle, front view
+таранная → עצם הקרסול | عظم الكاحل | talus
+температура 38 °C и выше → חום 38 מעלות ומעלה | حرارة 38 درجة أو أكثر | temperature 38 °C or higher
+часто гипс или ботинок → לרוב גבס או מגף | غالبًا جبس أو حذاء خاص | often a cast or boot
+≥ 6 нед. → ≥ 6 שבועות | ≥ 6 أسابيع | ≥ 6 wk
+Заголовок F01 → סובבה את הקרסול | التوت قدمها | She twisted her foot
+Заголовок F02 → שלושת הפטישונים | ثلاثة أجزاء للكاحل | Three malleoli
+Заголовок F03 → יציב או לא | مستقر أم لا | Stable or not
+Заголовок F04 → האם צריך ניתוח | هل تلزم عملية | Is surgery needed
+Заголовок F05 → רגל מעל גובה הלב | الساق فوق مستوى القلب | Leg above the heart
+Заголовок F06 → פלטה וברגים | صفيحة وبراغٍ | Plate and screws
+Заголовок F07 → עומס לפי תוכנית המנתח | الحمل حسب خطة الجرّاح | Weight-bearing per the surgeon
+Заголовок F08 → ספרו מיד לצוות | أخبر الطاقم فورًا | Tell the staff at once
+Заголовок F09 → גבס ועישון | الجبس والتدخين | Cast and smoking
+Заголовок F10 → זמני האיחוי | مدة الالتئام | Healing time
+Заголовок F11 → מתי לפנות בדחיפות | متى تطلب المساعدة بشكل عاجل | When to get urgent help
+Заголовок F12 → חשוב | مهم | Important
