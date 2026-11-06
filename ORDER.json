@@ -1,0 +1,6 @@
+{
+ "1_lestnica": "lest.json (ru_C6..C11, he/ar/en C1..C11; RU C1–C5 готовы)",
+ "2_laminectomy": "lam.json (he/ar/en L01..L12)",
+ "3_kyphoplasty": "kyph.json (ru, he, ar, en K01..K12)",
+ "4_arthroscopy": "arth.json (ru, he, ar, en A01..A12; переводы — после ОДОБРЕНО)"
+}
