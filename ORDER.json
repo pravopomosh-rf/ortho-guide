@@ -8,5 +8,6 @@
  "7_enox": "enox.json (ru, he, ar, en E01..E12)",
  "8_osteo": "osteo.json (ru, he, ar, en O01..O12)",
  "9_postop": "postop.json (ru, he, ar, en P01..P10)",
- "10_wait": "wait.json (ru, he, ar, en W01..W11)"
+ "10_wait": "wait.json (ru, he, ar, en W01..W11)",
+ "11_ward": "ward.json (ru, he, ar, en R01..R14)"
 }
