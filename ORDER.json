@@ -2,5 +2,10 @@
  "1_lestnica": "lest.json (ru_C6..C11, he/ar/en C1..C11; RU C1–C5 готовы)",
  "2_laminectomy": "lam.json (he/ar/en L01..L12)",
  "3_kyphoplasty": "kyph.json (ru, he, ar, en K01..K12)",
- "4_arthroscopy": "arth.json (ru, he, ar, en A01..A12; переводы — после ОДОБРЕНО)"
+ "4_arthroscopy": "arth.json (ru, he, ar, en A01..A12)",
+ "5_ankle": "ankle.json (ru, he, ar, en F01..F12)",
+ "6_fusion": "fusion.json (ru, he, ar, en D01..D12)",
+ "7_enox": "enox.json (ru, he, ar, en E01..E12)",
+ "8_osteo": "osteo.json (ru, he, ar, en O01..O12)",
+ "9_postop": "postop.json (ru, he, ar, en P01..P10; переводы — после ОДОБРЕНО)"
 }
