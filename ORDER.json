@@ -7,5 +7,5 @@
  "6_fusion": "fusion.json (ru, he, ar, en D01..D12)",
  "7_enox": "enox.json (ru, he, ar, en E01..E12)",
  "8_osteo": "osteo.json (ru, he, ar, en O01..O12)",
- "9_postop": "postop.json (ru, he, ar, en P01..P10; переводы — после ОДОБРЕНО)"
+ "9_postop": "postop.json (ru, he, ar, en P01..P10)"
 }
