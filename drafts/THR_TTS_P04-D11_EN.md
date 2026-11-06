@@ -1,11 +1,11 @@
-# THR parts 2–3 — narration texts, ENGLISH (draft, NOT yet medically reviewed)
+# THR parts 2–3 — narration texts, ENGLISH (ОДОБРЕНО ChatGPT 06.11 после правок)
 Source: THR_TTS_texts_P04-P09_D01-D11.md (RU, approved) + rehab_discharge_update.md (new D01, D06 phrase) + bed_rails_update.md (P05).
 
 ## P04
 To prevent infection, an antibiotic is given before the operation begins. After surgery, on our ward you usually receive two or three more doses through the vein, about every eight hours, as prescribed by the doctor. To prevent blood clots, injections of enoxaparin under the skin of the abdomen — for example Clexane or Crusia — are usually started about twelve hours after surgery. The exact time of the first injection is decided by the doctor, taking into account the risk of bleeding and the type of anaesthesia. Prevention continues according to the prescribed plan, sometimes also after discharge.
 
 ## P05
-On the day of surgery you stay in bed: after joint replacement, spine surgery and other major operations you must not get up straight away. The side rails of your bed are always raised. They reduce the risk of falling if you turn awkwardly or wake up at night, but they do not give complete protection. Do not try to climb over the rail or lower it yourself. The call button is always next to you: press it if you need anything. If you need to pass urine, you will be given a urinal or a bedpan. The first time you get up is usually the next day, together with the physiotherapist.
+On the day of your hip replacement, you stay in bed on our ward until the medical team says it is safe for you to get up. While you are in bed, the side rails are always raised. They reduce the risk of accidentally falling out of bed, but they cannot prevent every fall. Do not climb over or lower the rails yourself — it is dangerous. If you need anything or want to use the toilet, press the call button. Staff will help you or bring a urinal or bedpan. The first time you get up is usually the next day, with the physiotherapist, when it is safe to do so.
 
 ## P06
 The next day a check X-ray is taken. Then the physiotherapist comes: they help you sit up, stand and take your first steps with a walker. Early movement helps recovery and lowers the risk of complications from lying in bed for a long time. But get up and walk only when it is safe, and with help from the medical team.
@@ -17,10 +17,10 @@ Sit up in bed or on a chair and do breathing exercises. You may be given a breat
 Press the call button straight away if your pain suddenly gets much worse, if you have new weakness or numbness in the leg, if your foot becomes cold, if the dressing becomes very wet, if you have new pain or swelling in the calf, if it becomes hard to breathe, or if you have chest pain.
 
 ## P09
-These are general recommendations. Individual instructions from your doctor and medical team come first. In the next part: discharge and recovery at home.
+These are general recommendations. Individual instructions from your doctor and medical team come first. In the next part: discharge, rehabilitation and returning home.
 
 ## D01
-After hip replacement, patients from our ward are usually discharged to a rehabilitation hospital. There, physiotherapists work with you regularly: you learn to get up, walk, use the toilet and the stairs safely. This makes going home safer. If you wish, and your condition allows it, you can choose rehabilitation at home: then a physiotherapist will come to your home. The options are discussed with the medical team in advance, before discharge. The advice in this video will be useful both in the rehabilitation hospital and at home.
+After hip replacement, patients from our ward usually go to a rehabilitation hospital. There, physiotherapists help you get up, walk and manage everyday activities safely, so you are ready to return home. If you would prefer rehabilitation at home, tell the medical team in advance. This may be possible if your health and home circumstances allow it and it is approved by your health fund. A physiotherapist would then visit you at home. The advice in this video is useful both in a rehabilitation hospital and at home.
 
 ## D02
 When you are discharged, you receive a discharge letter. It states which operation was done, which medicines to take and for how long, how much weight you may put on the operated leg, how to care for the wound and when to come for a follow-up visit. If you have stitches or staples that need to be removed, this is usually done after about ten to fourteen days. Some stitches dissolve by themselves. Make sure you know where to turn if problems appear at home. Show this letter to your family doctor. If anything is unclear, ask before you leave the ward.
@@ -50,4 +50,4 @@ People usually return to driving no earlier than several weeks after surgery —
 If your temperature rises to thirty-eight degrees or higher, if you have shaking chills, if the wound is getting redder and redder, or if fluid or pus comes out of it, get medical help the same day. These may be signs of infection. New pain, swelling or redness of the calf also needs an urgent check: there may be a blood clot. If you suddenly have severe pain in the hip, the leg has become shorter, is turned in an unusual way, or you cannot stand on it — do not try to walk; get emergency help immediately: there may be a dislocation or a fracture. If you suddenly become short of breath or have chest pain, call one-zero-one at once. These may be signs of a dangerous blood clot in the lungs.
 
 ## D11
-Recovery can take several months. It is different for everyone: sometimes improvement comes quickly, sometimes more slowly. Come to your scheduled follow-up so the doctor can check the healing and how the new joint is working. If the operation was after a hip fracture, also discuss a bone check for osteoporosis and fall prevention. This helps lower the risk of a new fracture. These are general recommendations. Individual instructions from your doctor and medical team come first.
+Recovery can take several months. It is different for everyone: sometimes improvement comes quickly, sometimes more slowly. Come to your scheduled follow-up so the doctor can check the healing and how the new joint is working. If the operation was after a hip fracture, also ask your doctor about checking for osteoporosis and preventing falls. This helps lower the risk of a new fracture. These are general recommendations. Individual instructions from your doctor and medical team come first.
