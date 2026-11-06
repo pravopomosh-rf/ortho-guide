@@ -1,0 +1,21 @@
+# План: озвучка → рендер → бот → сайт (после сброса квот AI Studio ~10:00)
+
+Порядок озвучки — ORDER.json в ветке tts-data (ключи ru_/he_/ar_/en_ID, голос Charon).
+Аудио класть: lam/r/public/aud/<low>/<lang>/<ID>.wav (RU: <lang>=ru, в timing_<low>.json поставить audio и dur).
+После аудио: `python3 gen_i18n2.py <Comp> <lang> <low>` (подхватит длительности), затем рендер `npx remotion render <Comp>[-lang] out.mp4 --concurrency=2`.
+
+| Ролик | Remotion | low | Страница сайта | Статус текстов |
+|---|---|---|---|---|
+| Ламинэктомия HE/AR/EN | Lam-he/ar/en | lam | ops/laminectomy.html | ОДОБРЕНО |
+| Кифопластика | Kyph(+he/ar/en) | kyph | ops/kyphoplasty.html | ОДОБРЕНО |
+| Артроскопия колена | Arth(+…) | arth | ops/knee-arthroscopy.html | ОДОБРЕНО |
+| Перелом лодыжки | AnkleFilm(+…) | ankle | ops/ankle-fracture.html | ОДОБРЕНО |
+| Грыжа диска и спондилодез | Fusion(+…) | fusion | ops/fusion-discectomy.html | ОДОБРЕНО |
+| Эноксапарин дома | Enox(+…) | enox | ops/enoxaparin-injections.html | ОДОБРЕНО |
+| Остеосинтез | Osteo(+…) | osteo | ops/osteosynthesis.html | ОДОБРЕНО |
+| Тревожные признаки | Postop(+…) | postop | ops/postop.html | ОДОБРЕНО |
+| Не терпите боль годами | Wait(+…) | wait | ops/why-wait.html | ОДОБРЕНО |
+| В отделении и выписка | Ward(+…) | ward | ops/after-surgery.html | RU ОДОБРЕНО, переводы на проверке |
+| Лестница с тростью | clay lestwalk | — | thr/tkr блок «Лестница» | ОДОБРЕНО |
+
+Загрузка: ветка <name>-video → `python3 tools/putvid2.py <page> <vid> '{"ru":..,"he":..,"ar":..,"en":..}'` → raw-ссылка боту Настроцкп → «ОК» → ff-merge в main → чипы языков на главной и в карте сайта.
