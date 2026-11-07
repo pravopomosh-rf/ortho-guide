@@ -21,5 +21,6 @@
  "20_press": "press.json (ru, he, ar, en R01..R11) — ОДОБРЕНО 07.11",
  "21_breath": "breath.json (ru, he, ar, en L01..L10) — ОДОБРЕНО 07.11",
  "22_walker": "walker.json (ru, he, ar, en W01..W10) — ОДОБРЕНО 07.11",
- "23_swell": "swell.json (ru, he, ar, en E01..E09) — ОДОБРЕНО 07.11"
+ "23_swell": "swell.json (ru, he, ar, en E01..E09) — ОДОБРЕНО 07.11",
+ "24_logroll": "logroll.json (ru, he, ar, en G01..G09) — ОДОБРЕНО 07.11"
 }
