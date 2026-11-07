@@ -1,0 +1,294 @@
+Это Claude. ФИНАЛЬНАЯ проверка ACDF целиком: 4 правки второго раунда внесены. Ниже: RU v3 (ролик + страница RU), переводы ролика HE/AR/EN, и НОВОЕ — текст страницы spine-other на HE/AR/EN. Ответ: ОДОБРЕНО или было → стало.
+
+# «Операция на шее спереди (ACDF)» — ролик для пациентов (9:16, «клинический случай»), v3 (2 раунда правок ChatGPT 07.11 внесены)
+Страница сайта: ops/spine-other.html («Другие операции на позвоночнике»).
+Источники: AAOS OrthoInfo «Cervical Radiculopathy: Surgical Treatment Options»; UHCW NHS «Anterior Cervical Discectomy and Fusion (ACDF)», физиотерапия, v1, июнь 2025; Hull University Teaching Hospitals NHS «Swallowing and Voice Problems after Anterior Cervical Surgery», HEY1257/2025, май 2025.
+
+N01 | ИСТОРИЯ | Боль отдаёт в руку (акцент: руку)
+Женщине пятьдесят два года. Несколько месяцев боль из шеи отдаёт в руку, пальцы немеют. Лечение без операции не помогло.
+
+N02 | ПРИЧИНА | Давление на нерв (акцент: давление)
+Причиной может быть грыжа шейного диска или костные разрастания. Они давят на нервный корешок, а иногда на спинной мозг.
+
+N03 | РЕШЕНИЕ | Когда операция (акцент: операция)
+При боли и онемении в руке операцию рассматривают, если лечение без операции не помогло. Но нарастающая слабость в руках, нарушение походки или другие признаки поражения спинного мозга требуют срочной оценки, не дожидаясь окончания такого лечения. При одной только боли в шее операция обычно не помогает. Решение принимает хирург.
+
+N04 | ОПЕРАЦИЯ | Доступ спереди (акцент: спереди)
+Операцию делают под общим наркозом, через небольшой разрез на передней поверхности шеи, часто по естественной складке. Хирург бережно отводит в сторону трахею и пищевод, чтобы добраться до позвоночника.
+
+N05 | ДИСКЭКТОМИЯ | Убрать то, что давит (акцент: убрать)
+Хирург удаляет повреждённый диск и при необходимости костные разрастания, сдавливающие нервный корешок или спинной мозг.
+
+N06 | СПОНДИЛОДЕЗ | Сращение позвонков (акцент: сращение)
+На место диска ставят костный трансплантат или специальный вкладыш. Часто позвонки дополнительно фиксируют небольшой передней пластиной с винтами. Со временем два позвонка срастаются в один блок; полное сращение может занимать много месяцев.
+
+N07 | ПОДГОТОВКА | Перед операцией (акцент: перед)
+Голодание, душ и лекарства — по памятке «Подготовка к операции»; препараты, разжижающие кровь, меняют только по указанию врача. Если вы курите, обсудите с врачом отказ от курения.
+
+N08 | ОТДЕЛЕНИЕ | После операции (акцент: после)
+Обычно уже в первые сутки вы начинаете вставать и ходить с разрешения команды. Есть и пить можно, когда это разрешено и глотание безопасно. Иногда ставят тонкий дренаж или воротник — это решает хирург. Многие уходят домой через один–два дня.
+
+N09 | ГЛОТАНИЕ | Голос и глотание (акцент: глотание)
+Часто в первые дни и недели трудно глотать твёрдую пищу, а голос становится хриплым. Обычно это постепенно проходит. Ешьте и пейте сидя прямо, медленно, маленькими порциями, начинайте с мягкой пищи. Если во время еды или питья появились кашель или поперхивание, прекратите есть и пить и сразу сообщите персоналу. Если это произошло дома, обратитесь за медицинской оценкой в тот же день.
+
+N10 | ДОМА | Восстановление (акцент: восстановление)
+Ходите каждый день и постепенно увеличивайте нагрузку. Тяжести, вождение и спорт — только когда разрешит хирург. Сухую повязку держите сухой и выполняйте упражнения, которые показал физиотерапевт.
+
+N11 | СРОЧНО | Немедленно — сто один (акцент: немедленно)
+Если стало трудно дышать, быстро нарастает отёк шеи или вы не можете проглотить даже слюну, в больнице сразу скажите персоналу, дома — немедленно звоните сто один. Если глотать становится заметно труднее, особенно после первоначального улучшения, или появилась новая слабость или онемение в руках или ногах, или ухудшилась ходьба — срочно в приёмный покой. При температуре, покраснении или выделениях из раны обратитесь к врачу в тот же день.
+
+N12 | ВЫВОД | Важно (акцент: важно)
+Это общие рекомендации. Индивидуальные указания вашего врача и медицинской команды имеют приоритет.
+
+## Визуал (для проверки только медицинской точности)
+- N01: карточки «ПАЦИЕНТКА 52 года», «несколько месяцев»; силуэт шеи и руки, подсветка по ходу боли от шеи по руке к пальцам.
+- N02: шейный позвонок сверху: задне-боковая грыжа диска давит на нервный корешок с одной стороны; спинной мозг в канале; «схема, не в масштабе».
+- N03: слоты «боль и онемение в руке» · «лечение без операции не помогло» · «нарастающая слабость, нарушение походки — срочная оценка» → «решает хирург».
+- N04: шея спереди: горизонтальный разрез сбоку от средней линии по складке; поперечная схема: трахея и пищевод отведены, доступ к телам позвонков спереди.
+- N05: два шейных позвонка сбоку: удалён диск между телами, спереди от спинного мозга.
+- N06: тот же вид: вкладыш (кейдж) в межпозвонковом промежутке, пластина на передней поверхности тел двух позвонков, по винту в каждый позвонок.
+- N07–N10: карточки и иконки.
+- N11: уровни срочности, красный только для 101.
+
+---
+# Текст страницы ops/spine-other.html (RU) — тоже на проверку
+
+## Что это за операция
+Передняя шейная дискэктомия и спондилодез (ACDF) — самая частая операция при сдавлении нервного корешка в шее. Через небольшой разрез на передней поверхности шеи хирург удаляет повреждённый диск и при необходимости костные разрастания, ставит на его место костный трансплантат или вкладыш и часто закрепляет позвонки пластиной с винтами. Позвонки постепенно срастаются. Операцию рассматривают, если боль, онемение или слабость в руке сохраняются или нарастают, несмотря на лечение без операции. Нарастающая слабость в руках, нарушение походки или другие признаки поражения спинного мозга требуют срочной оценки, не дожидаясь окончания такого лечения. При одной только боли в шее операция обычно не помогает. Есть и другие варианты — например, искусственный диск или операция сзади шеи; какой подходит вам, решает хирург.
+
+## Подготовка (в т.ч. душ)
+Голодание, душ и подготовка кожи — по общей памятке «Подготовка к операции». Если вы курите, обсудите с врачом отказ от курения. Перед операцией предупредите близких, что первые дни голос может быть хриплым и говорить будет трудно.
+
+## Лекарства
+Препараты, разжижающие кровь, и другие постоянные лекарства не отменяйте сами — врач скажет, какие и когда остановить. Подробности — в памятке «Подготовка к операции».
+
+## Дренаж
+Иногда в ране оставляют тонкую трубку-дренаж, чтобы выходила лишняя жидкость. Ставят его не всегда — это решает хирург. Обычно его удаляют через короткое время, когда отделяемого становится мало.
+
+## После операции
+Обычно в первые сутки вы начинаете вставать и ходить с разрешения команды; есть и пить можно, когда это разрешено и глотание безопасно. Многие уходят домой через один–два дня. В первые недели часто трудно глотать твёрдую пищу и бывает хриплость — обычно это проходит. Ешьте сидя прямо, медленно, маленькими порциями. Воротник, вождение, подъём тяжестей и возвращение к работе — по указанию хирурга. Сращение позвонков занимает несколько месяцев.
+
+## Когда срочно за помощью
+- Трудно дышать, быстро нарастает отёк шеи или не можете проглотить даже слюну — в больнице сразу скажите персоналу, дома немедленно звоните 101.
+- Глотать становится заметно труднее (особенно после первоначального улучшения), новая слабость или онемение в руках или ногах, ухудшение ходьбы — срочно в приёмный покой.
+- Кашель или поперхивание во время еды или питья — прекратите есть и пить; в больнице скажите персоналу, дома обратитесь за медицинской оценкой в тот же день.
+- Температура, покраснение или выделения из раны — обратитесь к врачу в тот же день.
+
+## Официальные источники
+- AAOS OrthoInfo — Cervical Radiculopathy: Surgical Treatment Options (ACDF, искусственный диск, ламинофораминотомия).
+- UHCW NHS Trust — Anterior Cervical Discectomy and Fusion (ACDF), Physiotherapy, v1, June 2025.
+- Hull University Teaching Hospitals NHS Trust — Swallowing and Voice Problems after Anterior Cervical Surgery, HEY1257/2025.
+- Cambridge University Hospitals NHS — Post-operative recovery following cervical decompression surgery.
+- NICE NG127 — Suspected neurological conditions: recognition and referral.
+
+
+# РОЛИК — ОЗВУЧКА HE/AR/EN
+N01
+HE: אישה בת חמישים ושתיים. כבר כמה חודשים הכאב מהצוואר מקרין ליד, ויש נימול באצבעות. הטיפול ללא ניתוח לא עזר.
+AR: امرأة عمرها اثنان وخمسون عامًا. منذ عدة أشهر يمتد الألم من الرقبة إلى الذراع، وتشعر بخدر في أصابعها. العلاج دون جراحة لم يساعد.
+EN: A fifty-two-year-old woman. For several months, pain has been spreading from her neck down her arm, and her fingers feel numb. Treatment without surgery has not helped.
+
+N02
+HE: הסיבה יכולה להיות פריצת דיסק צווארי או זיזי עצם. הם לוחצים על שורש עצבי, ולפעמים על חוט השדרה.
+AR: قد يكون السبب انزلاقًا غضروفيًا في الرقبة أو نتوءات عظمية. فهي تضغط على جذر عصبي، وأحيانًا على النخاع الشوكي.
+EN: The cause may be a herniated disc in the neck or bone spurs. They press on a nerve root, and sometimes on the spinal cord.
+
+N03
+HE: כשיש כאב ונימול ביד, שוקלים ניתוח אם הטיפול ללא ניתוח לא עזר. אבל חולשה מחמירה בידיים, הפרעה בהליכה או סימנים אחרים לפגיעה בחוט השדרה מחייבים הערכה דחופה, בלי לחכות לסוף הטיפול הזה. כשיש רק כאב בצוואר, ניתוח בדרך כלל לא עוזר. את ההחלטה מקבל המנתח.
+AR: عند وجود ألم وخدر في الذراع، يُنظر في الجراحة إذا لم يساعد العلاج دون جراحة. لكن الضعف المتزايد في الذراعين أو اضطراب المشي أو علامات أخرى لإصابة النخاع الشوكي تتطلب تقييمًا عاجلًا، دون انتظار نهاية هذا العلاج. عند وجود ألم في الرقبة فقط، لا تساعد الجراحة عادةً. القرار يتخذه الجرّاح.
+EN: With pain and numbness in the arm, surgery is considered if treatment without surgery has not helped. But increasing weakness in the arms, problems with walking or other signs of spinal cord involvement need urgent assessment, without waiting for that treatment to finish. For neck pain alone, surgery usually does not help. The surgeon makes the decision.
+
+N04
+HE: הניתוח נעשה בהרדמה כללית, דרך חתך קטן בחלק הקדמי של הצוואר, לעיתים קרובות בקפל טבעי של העור. המנתח מסיט בעדינות הצידה את קנה הנשימה ואת הוושט, כדי להגיע אל עמוד השדרה.
+AR: تُجرى العملية تحت التخدير العام، من خلال شق صغير في مقدمة الرقبة، وغالبًا في ثنية طبيعية للجلد. يُبعد الجرّاح القصبة الهوائية والمريء بلطف إلى الجانب للوصول إلى العمود الفقري.
+EN: The operation is done under general anaesthetic, through a small cut at the front of the neck, often in a natural skin crease. The surgeon gently moves the windpipe and the food pipe to one side to reach the spine.
+
+N05
+HE: המנתח מוציא את הדיסק הפגוע, ובמידת הצורך גם זיזי עצם, שלוחצים על שורש העצב או על חוט השדרה.
+AR: يزيل الجرّاح القرص المتضرر، وعند الحاجة النتوءات العظمية التي تضغط على الجذر العصبي أو على النخاع الشوكي.
+EN: The surgeon removes the damaged disc and, if needed, bone spurs that are pressing on the nerve root or the spinal cord.
+
+N06
+HE: במקום הדיסק מכניסים שתל עצם או שתל מיוחד. לעיתים קרובות מקבעים גם את החוליות בעזרת פלטה קדמית קטנה וברגים. עם הזמן שתי החוליות מתאחות לגוש אחד; איחוי מלא יכול להימשך חודשים רבים.
+AR: يوضع مكان القرص طُعم عظمي أو حشوة خاصة. وغالبًا ما تُثبَّت الفقرتان أيضًا بصفيحة أمامية صغيرة وبراغٍ. مع الوقت تلتحم الفقرتان في كتلة واحدة؛ وقد يستغرق الالتحام الكامل أشهرًا عديدة.
+EN: A bone graft or a special spacer is placed where the disc was. Often, a small plate and screws are also used to hold the vertebrae in place. Over time the two vertebrae grow together into one block; full fusion can take many months.
+
+N07
+HE: צום, מקלחת ותרופות לפי דף ההנחיות להכנה לניתוח; תרופות לדילול הדם משנים רק לפי הוראת הרופא. אם אתם מעשנים, דברו עם הרופא על הפסקת עישון.
+AR: الصيام والاستحمام والأدوية حسب نشرة «التحضير للعملية»؛ أدوية تمييع الدم لا تُغيَّر إلا بتعليمات الطبيب. إذا كنتم تدخّنون، ناقشوا مع الطبيب التوقف عن التدخين.
+EN: Fasting, showering and medicines follow the leaflet "Preparing for surgery"; blood thinners are changed only on your doctor's instructions. If you smoke, talk to your doctor about stopping.
+
+N08
+HE: בדרך כלל כבר ביממה הראשונה מתחילים לקום וללכת באישור הצוות. אוכלים ושותים כשמותר והבליעה בטוחה. לפעמים משאירים נקז דק, ולפעמים משתמשים בצווארון צווארי, לפי החלטת המנתח. רבים חוזרים הביתה אחרי יום או יומיים.
+AR: عادةً في اليوم الأول تبدؤون بالنهوض والمشي بإذن الفريق. الأكل والشرب عندما يُسمح بذلك ويكون البلع آمنًا. أحيانًا يوضع أنبوب تصريف رفيع أو طوق للرقبة، ويقرر ذلك الجرّاح. كثيرون يعودون إلى البيت بعد يوم أو يومين.
+EN: Usually within the first day you start getting up and walking, with the team's permission. You can eat and drink when it is allowed and swallowing is safe. Sometimes a thin drain or a neck collar is used; the surgeon decides. Many people go home after one or two days.
+
+N09
+HE: לעיתים קרובות בימים ובשבועות הראשונים קשה לבלוע מזון מוצק, והקול נעשה צרוד. בדרך כלל זה עובר בהדרגה. אכלו ושתו בישיבה זקופה, לאט, במנות קטנות, והתחילו ממזון רך. אם מופיעים שיעול או השתנקות בזמן אכילה או שתייה, הפסיקו לאכול ולשתות וספרו מיד לצוות. אם זה קורה בבית, פנו להערכה רפואית באותו יום.
+AR: كثيرًا ما يصعب في الأيام والأسابيع الأولى بلع الطعام الصلب، ويصبح الصوت مبحوحًا. عادةً يزول ذلك تدريجيًا. كلوا واشربوا وأنتم جالسون باستقامة، ببطء، وبكميات صغيرة، وابدؤوا بطعام طري. إذا ظهر سعال أو شَرَق أثناء الأكل أو الشرب، فتوقّفوا عن الأكل والشرب وأبلغوا الطاقم فورًا. وإذا حدث ذلك في البيت، فاطلبوا تقييمًا طبيًا في اليوم نفسه.
+EN: In the first days and weeks it is often hard to swallow solid food, and your voice may be hoarse. This usually gets better gradually. Eat and drink sitting upright, slowly, in small amounts, and start with soft food. If you cough or choke while eating or drinking, stop eating and drinking and tell staff immediately. If this happens at home, seek a medical assessment the same day.
+
+N10
+HE: לכו בכל יום והגבירו את המאמץ בהדרגה. הרמת משאות, נהיגה וספורט רק כשהמנתח מתיר. שמרו על החבישה יבשה ובצעו את התרגילים שהפיזיותרפיסט הראה לכם.
+AR: امشوا كل يوم وزيدوا النشاط تدريجيًا. رفع الأثقال والقيادة والرياضة فقط عندما يسمح الجرّاح. حافظوا على الضمادة جافة، وقوموا بالتمارين التي أراكم إياها أخصائي العلاج الطبيعي.
+EN: Walk every day and increase your activity gradually. Lifting, driving and sport only when your surgeon allows. Keep the dressing dry and do the exercises your physiotherapist showed you.
+
+N11
+HE: אם קשה לנשום, הנפיחות בצוואר גדלה במהירות או שאינכם מצליחים לבלוע אפילו רוק, בבית החולים ספרו מיד לצוות, ובבית התקשרו מיד למאה ואחת. אם הבליעה נעשית קשה יותר באופן ניכר, במיוחד אחרי שיפור ראשוני, או אם מופיעים חולשה חדשה או חוסר תחושה חדש בידיים או ברגליים, או שההליכה מחמירה, פנו בדחיפות לחדר המיון. כשיש חום, אודם או הפרשה מהפצע, פנו לרופא באותו יום.
+AR: إذا صعب التنفس، أو ازداد تورّم الرقبة بسرعة، أو لم تستطيعوا بلع حتى اللعاب، فأخبروا الطاقم فورًا في المستشفى، وفي البيت اتصلوا فورًا بالرقم مئة وواحد. إذا أصبح البلع أصعب بشكل واضح، خاصة بعد تحسّن أولي، أو ظهر ضعف جديد أو خدر جديد في الذراعين أو الساقين، أو تدهورت القدرة على المشي، فتوجّهوا بشكل عاجل إلى قسم الطوارئ. عند الحرارة أو الاحمرار أو الإفرازات من الجرح، راجعوا الطبيب في اليوم نفسه.
+EN: If breathing becomes difficult, swelling in your neck grows quickly, or you cannot swallow even your saliva, tell the staff straight away in hospital, and at home call one-oh-one immediately. If swallowing becomes clearly harder, especially after it had first improved, or if you have new weakness or numbness in your arms or legs, or your walking gets worse, go to the emergency department urgently. With a fever, redness or discharge from the wound, see a doctor the same day.
+
+N12
+HE: אלה המלצות כלליות. להנחיות האישיות של הרופא שלכם ושל הצוות הרפואי יש עדיפות.
+AR: هذه توصيات عامة. تعليمات طبيبكم والفريق الطبي الخاصة بكم لها الأولوية.
+EN: These are general recommendations. The individual instructions of your doctor and medical team take priority.
+
+# ЗАГОЛОВКИ
+N01: HE הכאב מקרין ליד | AR الألم يمتد إلى الذراع | EN Pain spreads to the arm
+N02: HE לחץ על העצב | AR ضغط على العصب | EN Pressure on the nerve
+N03: HE מתי ניתוח | AR متى الجراحة | EN When to operate
+N04: HE גישה מלפנים | AR الوصول من الأمام | EN From the front
+N05: HE להוציא את מה שלוחץ | AR إزالة ما يضغط | EN Remove what presses
+N06: HE איחוי החוליות | AR التحام الفقرات | EN Fusing the vertebrae
+N07: HE לפני הניתוח | AR قبل العملية | EN Before surgery
+N08: HE אחרי הניתוח | AR بعد العملية | EN After surgery
+N09: HE קול ובליעה | AR الصوت والبلع | EN Voice and swallowing
+N10: HE החלמה | AR التعافي | EN Recovery
+N11: HE מיד מאה ואחת | AR فورًا مئة وواحد | EN Immediately: 101
+N12: HE חשוב | AR مهم | EN Important
+
+# ЭКРАН (RU → HE | AR | EN)
+101 — немедленно → 101 מיד | 101 فورًا | 101 immediately
+52 года → בת 52 | 52 عامًا | 52 years old
+БОЛЬ ОТДАЁТ В РУКУ → כאב מקרין ליד | ألم يمتد إلى الذراع | PAIN SPREADS TO THE ARM
+В первые сутки — вставать и ходить с разрешения команды → ביממה הראשונה · לקום וללכת באישור הצוות | في اليوم الأول · النهوض والمشي بإذن الفريق | First day · get up and walk with the team's permission
+ДОМОЙ → הביתה | إلى البيت | GOING HOME
+ДРЕНАЖ · ВОРОТНИК → נקז · צווארון | أنبوب تصريف · طوق | DRAIN · COLLAR
+Есть и пить — когда разрешено и глотание безопасно → אכילה ושתייה · כשמותר והבליעה בטוחה | الأكل والشرب · عند السماح وأمان البلع | Eat and drink · when allowed and swallowing is safe
+Иногда — решает хирург → לפעמים · לפי החלטת המנתח | أحيانًا · يقرر الجرّاح | Sometimes · the surgeon decides
+Кашель или поперхивание во время еды — прекратите есть и пить, сразу скажите персоналу · дома — к врачу в тот же день → שיעול או השתנקות באכילה · להפסיק לאכול ולשתות, לספר מיד לצוות · בבית לרופא באותו יום | سعال أو شَرَق أثناء الأكل · توقّفوا عن الأكل والشرب، أخبروا الطاقم فورًا · في البيت إلى الطبيب في اليوم نفسه | Coughing or choking while eating · stop eating and drinking, tell staff at once · at home: doctor the same day
+Начинать с мягкой пищи → להתחיל ממזון רך | البدء بطعام طري | Start with soft food
+Обсудите с врачом отказ от курения → דברו עם הרופא על הפסקת עישון | ناقشوا مع الطبيب التوقف عن التدخين | Talk to your doctor about stopping
+Повязка сухая · упражнения от физиотерапевта → חבישה יבשה · תרגילים מהפיזיותרפיסט | ضمادة جافة · تمارين أخصائي العلاج الطبيعي | Dry dressing · physiotherapist's exercises
+Решение принимает хирург → את ההחלטה מקבל המנתח | القرار يتخذه الجرّاح | The surgeon decides
+Сидя прямо · медленно · маленькими порциями → בישיבה זקופה · לאט · במנות קטנות | جلوسًا باستقامة · ببطء · بكميات صغيرة | Sitting upright · slowly · small amounts
+ТЯЖЕСТИ · ВОЖДЕНИЕ · СПОРТ → משאות · נהיגה · ספורט | الأثقال · القيادة · الرياضة | LIFTING · DRIVING · SPORT
+Только когда разрешит хирург → רק כשהמנתח מתיר | فقط عندما يسمح الجرّاح | Only when the surgeon allows
+Трудно глотать твёрдую пищу · хриплый голос → קשה לבלוע מזון מוצק · קול צרוד | صعوبة بلع الطعام الصلب · بحة الصوت | Hard to swallow solid food · hoarse voice
+У многих — через один–два дня → אצל רבים · אחרי יום או יומיים | لدى كثيرين · بعد يوم أو يومين | For many · after one or two days
+Ходите каждый день, нагрузку — постепенно → ללכת כל יום · להגביר בהדרגה | المشي كل يوم · زيادة النشاط تدريجيًا | Walk every day · build up gradually
+ЧАСТО И ОБЫЧНО ПРОХОДИТ → שכיח ובדרך כלל חולף | شائع ويزول عادةً | COMMON AND USUALLY PASSES
+боль в руке → כאב ביד | ألم في الذراع | arm pain
+боль и онемение в руке → כאב ונימול ביד | ألم وخدر في الذراع | pain and numbness in the arm
+быстро нарастает отёк шеи → נפיחות בצוואר גדלה מהר | تورّم الرقبة يزداد بسرعة | neck swelling growing fast
+в больнице — сразу персоналу → בבית החולים · מיד לצוות | في المستشفى · أخبروا الطاقم فورًا | in hospital · tell the staff at once
+вид сбоку · шея → מבט מהצד · צוואר | منظر جانبي · الرقبة | side view · neck
+глотать заметно труднее → הבליעה קשה יותר באופן ניכר | البلع أصعب بوضوح | swallowing clearly harder
+грыжа или костные разрастания → פריצת דיסק או זיזי עצם | انزلاق غضروفي أو نتوءات عظمية | herniated disc or bone spurs
+давят на нервный корешок → לוחצים על שורש עצבי | تضغط على جذر عصبي | press on a nerve root
+диск удалён · костные разрастания — при необходимости → הדיסק הוצא · זיזי עצם לפי הצורך | أُزيل القرص · النتوءات العظمية عند الحاجة | disc removed · bone spurs if needed
+иногда — на спинной мозг → לפעמים · על חוט השדרה | أحيانًا · على النخاع الشوكي | sometimes · on the spinal cord
+нарастающая слабость, нарушение походки — срочная оценка → חולשה מחמירה, הפרעה בהליכה · הערכה דחופה | ضعف متزايد، اضطراب المشي · تقييم عاجل | increasing weakness, walking problems · urgent assessment
+не можете проглотить даже слюну → לא מצליחים לבלוע אפילו רוק | لا تستطيعون بلع حتى اللعاب | cannot swallow even saliva
+нерв и спинной мозг свободны → העצב וחוט השדרה משוחררים | العصب والنخاع الشوكي محرَّران | nerve and spinal cord freed
+несколько месяцев → כמה חודשים | عدة أشهر | several months
+новая слабость или онемение рук или ног → חולשה חדשה או חוסר תחושה חדש בידיים או ברגליים | ضعف أو خدر جديد في الذراعين أو الساقين | new weakness or numbness in arms or legs
+общий наркоз → הרדמה כללית | تخدير عام | general anaesthetic
+пальцы немеют → נימול באצבעות | خدر في الأصابع | numb fingers
+пищевод → ושט | المريء | food pipe
+позвонок → חוליה | فقرة | vertebra
+разрез в складке шеи → חתך בקפל הצוואר | شق في ثنية الرقبة | cut in a neck crease
+спинной мозг → חוט השדרה | النخاع الشوكي | spinal cord
+сращение — много месяцев → איחוי · חודשים רבים | الالتحام · أشهر عديدة | fusion · many months
+срез шеи · спереди вверху → חתך רוחב של הצוואר · קדימה למעלה | مقطع الرقبة · الأمام في الأعلى | neck cross-section · front at top
+схема, не в масштабе · шейный позвонок, вид сверху → תרשים, לא בקנה מידה · חוליה צווארית, מבט מלמעלה | رسم توضيحي، ليس بالمقياس · فقرة رقبية، منظر علوي | diagram, not to scale · neck vertebra, view from above
+трансплантат или вкладыш → שתל עצם או שתל מיוחד | طُعم عظمي أو حشوة | bone graft or spacer
+трахею и пищевод бережно отводят в сторону → קנה הנשימה והוושט מוסטים בעדינות הצידה | تُبعد القصبة الهوائية والمريء بلطف إلى الجانب | windpipe and food pipe gently moved aside
+трахея → קנה הנשימה | القصبة الهوائية | windpipe
+трудно дышать → קשה לנשום | صعوبة في التنفس | difficulty breathing
+ходьба ухудшилась → ההליכה החמירה | تدهور المشي | walking got worse
+↑ спереди (горло) → ↑ קדימה (גרון) | ↑ الأمام (الحلق) | ↑ front (throat)
+
+# СТРАНИЦА spine-other — HE
+  ניתוח בצוואר בגישה קדמית (ACDF)
+ כריתת דיסק צווארי וקיבוע חוליות בגישה קדמית (ACDF) הוא הניתוח השכיח ביותר כשיש לחץ על שורש עצבי בצוואר. דרך חתך קטן בחלק הקדמי של הצוואר המנתח מוציא את הדיסק הפגוע, ובמידת הצורך גם זיזי עצם, מכניס במקומו שתל עצם או שתל מיוחד, ולעיתים קרובות מקבע גם את החוליות בפלטה קדמית וברגים. החוליות מתאחות בהדרגה.
+ שוקלים ניתוח אם כאב, נימול או חולשה ביד נמשכים או מחמירים למרות טיפול ללא ניתוח. חולשה מחמירה בידיים, הפרעה בהליכה או סימנים אחרים לפגיעה בחוט השדרה מחייבים הערכה דחופה, בלי לחכות לסוף הטיפול הזה. כשיש רק כאב בצוואר, ניתוח בדרך כלל לא עוזר.
+ יש גם אפשרויות אחרות, למשל דיסק מלאכותי או ניתוח מאחורי הצוואר; המנתח מחליט מה מתאים לכם.
+   הכנה (כולל מקלחת)
+ צום, מקלחת והכנת העור לפי דף ההנחיות הכללי «הכנה לניתוח». אם אתם מעשנים, דברו עם הרופא על הפסקת עישון. לפני הניתוח ספרו לקרובים שבימים הראשונים הקול עלול להיות צרוד ויהיה קשה לדבר.
+   תרופות
+ אל תפסיקו בעצמכם תרופות לדילול הדם ותרופות קבועות אחרות. הרופא יגיד אילו להפסיק ומתי. פרטים בדף ההנחיות «הכנה לניתוח».
+   נקז
+ לפעמים משאירים בפצע צינורית דקה (נקז) כדי שנוזל עודף ייצא. לא תמיד מכניסים נקז, וההחלטה של המנתח. בדרך כלל מוציאים אותו אחרי זמן קצר, כשכמות ההפרשה קטנה.
+   אחרי הניתוח
+ בדרך כלל ביממה הראשונה מתחילים לקום וללכת באישור הצוות; אוכלים ושותים כשמותר והבליעה בטוחה. רבים חוזרים הביתה אחרי יום או יומיים.
+ בשבועות הראשונים לעיתים קרובות קשה לבלוע מזון מוצק ויש צרידות, ובדרך כלל זה חולף. אכלו בישיבה זקופה, לאט, במנות קטנות.
+ צווארון, נהיגה, הרמת משאות וחזרה לעבודה לפי הוראות המנתח. איחוי החוליות נמשך כמה חודשים.
+   מתי לפנות לעזרה דחופה
+   מיד 101  (בבית החולים מיד לצוות): קשה לנשום, הנפיחות בצוואר גדלה במהירות או שאינכם מצליחים לבלוע אפילו רוק.
+  בדחיפות לחדר המיון:  הבליעה נעשית קשה יותר באופן ניכר (במיוחד אחרי שיפור ראשוני), חולשה חדשה או חוסר תחושה חדש בידיים או ברגליים, החמרה בהליכה.
+  שיעול או השתנקות בזמן אכילה או שתייה : הפסיקו לאכול ולשתות; בבית החולים ספרו לצוות, ובבית פנו להערכה רפואית באותו יום.
+  באותו יום לרופא:  חום, אודם או הפרשה מהפצע.
+    מקורות רשמיים
+   AAOS OrthoInfo — Cervical Radiculopathy: Surgical Treatment Options 
+  UHCW NHS Trust — Anterior Cervical Discectomy and Fusion (ACDF), Physiotherapy, v1, June 2025 
+  Hull University Teaching Hospitals NHS Trust — Swallowing and Voice Problems after Anterior Cervical Surgery, HEY1257/2025 
+  Cambridge University Hospitals NHS — Post-operative recovery following cervical decompression surgery 
+  NICE NG127 — Suspected neurological conditions: recognition and referral 
+  
+
+# СТРАНИЦА spine-other — AR
+  عملية الرقبة من الأمام (ACDF)
+ استئصال القرص الرقبي ودمج الفقرات من الأمام (ACDF) هو أكثر العمليات شيوعًا عند انضغاط جذر عصبي في الرقبة. من خلال شق صغير في مقدمة الرقبة، يزيل الجرّاح القرص المتضرر، وعند الحاجة النتوءات العظمية، ويضع مكانه طُعمًا عظميًا أو حشوة، وغالبًا ما يثبّت الفقرات بصفيحة وبراغٍ. تلتحم الفقرات تدريجيًا.
+ يُنظر في الجراحة إذا استمر الألم أو الخدر أو الضعف في الذراع أو ازداد رغم العلاج دون جراحة. الضعف المتزايد في الذراعين أو اضطراب المشي أو علامات أخرى لإصابة النخاع الشوكي تتطلب تقييمًا عاجلًا دون انتظار نهاية هذا العلاج. عند وجود ألم في الرقبة فقط، لا تساعد الجراحة عادةً.
+ هناك خيارات أخرى أيضًا، مثل القرص الاصطناعي أو العملية من خلف الرقبة؛ والجرّاح يقرر ما يناسبكم.
+   التحضير (بما في ذلك الاستحمام)
+ الصيام والاستحمام وتحضير الجلد حسب النشرة العامة «التحضير للعملية». إذا كنتم تدخّنون، ناقشوا مع الطبيب التوقف عن التدخين. قبل العملية أخبروا أقاربكم أن الصوت قد يكون مبحوحًا في الأيام الأولى وأن الكلام قد يكون صعبًا.
+   الأدوية
+ لا توقفوا بأنفسكم أدوية تمييع الدم والأدوية الدائمة الأخرى — سيخبركم الطبيب أيها توقف ومتى. التفاصيل في نشرة «التحضير للعملية».
+   أنبوب التصريف
+ أحيانًا يُترك في الجرح أنبوب رفيع للتصريف ليخرج السائل الزائد. لا يوضع دائمًا، والقرار للجرّاح. عادةً يُزال بعد وقت قصير عندما تقل الإفرازات.
+   بعد العملية
+ عادةً في اليوم الأول تبدؤون بالنهوض والمشي بإذن الفريق؛ والأكل والشرب عندما يُسمح بذلك ويكون البلع آمنًا. كثيرون يعودون إلى البيت بعد يوم أو يومين.
+ في الأسابيع الأولى كثيرًا ما يصعب بلع الطعام الصلب وتظهر بحة في الصوت، وعادةً يزول ذلك. كلوا وأنتم جالسون باستقامة، ببطء، وبكميات صغيرة.
+ طوق الرقبة والقيادة ورفع الأثقال والعودة إلى العمل حسب تعليمات الجرّاح. التحام الفقرات يستغرق عدة أشهر.
+   متى تطلبون المساعدة بشكل عاجل
+   فورًا 101  (في المستشفى أخبروا الطاقم فورًا): صعوبة في التنفس، أو تورّم الرقبة يزداد بسرعة، أو لا تستطيعون بلع حتى اللعاب.
+  بشكل عاجل إلى قسم الطوارئ:  البلع يصبح أصعب بوضوح (خاصة بعد تحسّن أولي)، ضعف أو خدر جديد في الذراعين أو الساقين، تدهور المشي.
+  سعال أو شَرَق أثناء الأكل أو الشرب  — توقّفوا عن الأكل والشرب؛ في المستشفى أخبروا الطاقم، وفي البيت اطلبوا تقييمًا طبيًا في اليوم نفسه.
+  إلى الطبيب في اليوم نفسه:  حرارة، أو احمرار، أو إفرازات من الجرح.
+    مصادر رسمية
+   AAOS OrthoInfo — Cervical Radiculopathy: Surgical Treatment Options 
+  UHCW NHS Trust — Anterior Cervical Discectomy and Fusion (ACDF), Physiotherapy, v1, June 2025 
+  Hull University Teaching Hospitals NHS Trust — Swallowing and Voice Problems after Anterior Cervical Surgery, HEY1257/2025 
+  Cambridge University Hospitals NHS — Post-operative recovery following cervical decompression surgery 
+  NICE NG127 — Suspected neurological conditions: recognition and referral 
+  
+
+# СТРАНИЦА spine-other — EN
+  Neck surgery from the front (ACDF)
+ Anterior cervical discectomy and fusion (ACDF) is the most common operation for a compressed nerve root in the neck. Through a small cut at the front of the neck, the surgeon removes the damaged disc and, if needed, bone spurs, puts a bone graft or spacer in its place, and often holds the vertebrae with a plate and screws. The vertebrae gradually fuse.
+ Surgery is considered if pain, numbness or weakness in the arm continues or gets worse despite treatment without surgery. Increasing weakness in the arms, problems with walking or other signs of spinal cord involvement need urgent assessment, without waiting for that treatment to finish. For neck pain alone, surgery usually does not help.
+ There are other options too, such as an artificial disc or surgery from the back of the neck; your surgeon decides which is right for you.
+   Preparation (including showering)
+ Fasting, showering and skin preparation follow the general leaflet "Preparing for surgery". If you smoke, talk to your doctor about stopping. Before surgery, let your family know that in the first days your voice may be hoarse and talking may be hard.
+   Medicines
+ Do not stop blood thinners or other regular medicines yourself — your doctor will tell you which ones to stop and when. Details are in the leaflet "Preparing for surgery".
+   Drain
+ Sometimes a thin tube (drain) is left in the wound to let extra fluid out. It is not always used — the surgeon decides. It is usually removed after a short time, once little fluid is coming out.
+   After the operation
+ Usually within the first day you start getting up and walking with the team's permission; you can eat and drink when it is allowed and swallowing is safe. Many people go home after one or two days.
+ In the first weeks it is often hard to swallow solid food and your voice may be hoarse — this usually passes. Eat sitting upright, slowly, in small amounts.
+ Collar, driving, lifting and returning to work follow your surgeon's instructions. Fusion of the vertebrae takes several months.
+   When to get urgent help
+   Call 101 immediately  (in hospital, tell the staff at once): difficulty breathing, neck swelling growing quickly, or you cannot swallow even your saliva.
+  Go to the emergency department urgently:  swallowing becomes clearly harder (especially after it had first improved), new weakness or numbness in the arms or legs, walking gets worse.
+  Coughing or choking while eating or drinking  — stop eating and drinking; in hospital tell the staff, at home get a medical assessment the same day.
+  See a doctor the same day:  fever, redness or discharge from the wound.
+    Official sources
+   AAOS OrthoInfo — Cervical Radiculopathy: Surgical Treatment Options 
+  UHCW NHS Trust — Anterior Cervical Discectomy and Fusion (ACDF), Physiotherapy, v1, June 2025 
+  Hull University Teaching Hospitals NHS Trust — Swallowing and Voice Problems after Anterior Cervical Surgery, HEY1257/2025 
+  Cambridge University Hospitals NHS — Post-operative recovery following cervical decompression surgery 
+  NICE NG127 — Suspected neurological conditions: recognition and referral 
+  
