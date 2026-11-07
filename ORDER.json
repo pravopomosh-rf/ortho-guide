@@ -11,5 +11,6 @@
  "10_wait": "wait.json (ru, he, ar, en W01..W11)",
  "11_ward": "ward.json (ru, he, ar, en R01..R14)",
  "12_acdf": "acdf.json (ru, he, ar, en N01..N12) — ОДОБРЕНО 07.11",
- "13_anterior": "ant.json (he, ar, en: s1..s9, 26 сегментов; RU уже есть — voice_v5). ОДОБРЕНО 07.11. Видео: 3D-клипы (public/clips) нужно перерендерить — их нет в архиве"
+ "13_anterior": "ant.json (he, ar, en: s1..s9, 26 сегментов; RU уже есть — voice_v5). ОДОБРЕНО 07.11. Видео: 3D-клипы (public/clips) нужно перерендерить — их нет в архиве",
+ "14_amputation": "amp.json (ru, he, ar, en M01..M14) — ОДОБРЕНО 07.11"
 }

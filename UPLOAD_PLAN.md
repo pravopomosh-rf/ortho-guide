@@ -17,6 +17,8 @@
 | Не терпите боль годами | Wait(+…) | wait | ops/why-wait.html | ОДОБРЕНО |
 | В отделении и выписка | Ward(+…) | ward | ops/after-surgery.html | ОДОБРЕНО |
 | Операция на шее спереди (ACDF) | Acdf(+…) | acdf | ops/spine-other.html | ОДОБРЕНО 07.11 |
+| Ампутация ноги | Amp(+…) | amp | ops/amputation.html | ОДОБРЕНО 07.11 |
+| Передний доступ HE/AR/EN | ant (3D-клипы перерендерить) | ant | ops/thr-anterior.html | ОДОБРЕНО 07.11 |
 | Лестница с тростью | clay lestwalk | — | thr/tkr блок «Лестница» | ОДОБРЕНО |
 
 Загрузка: ветка <name>-video → `python3 tools/putvid2.py <page> <vid> '{"ru":..,"he":..,"ar":..,"en":..}'` → raw-ссылка боту Настроцкп → «ОК» → ff-merge в main → чипы языков на главной и в карте сайта.
