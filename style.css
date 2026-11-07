@@ -142,3 +142,8 @@ a.card:hover img{transform:scale(1.04)}
 a.card span{position:absolute;inset-inline:0;bottom:0;padding:28px 12px 10px;color:#fff;font-weight:700;font-size:19px;line-height:1.2;background:linear-gradient(transparent,rgba(10,30,28,.78))}
 @media(min-width:760px){.cg{grid-template-columns:repeat(4,1fr)}a.card span{font-size:20px}}
 .ill{font-size:13px;color:var(--ink2);margin:6px 2px 0}
+/* 07.11: видео — постоянная форма кадра, без схлопывания при нажатии (iPhone/WhatsApp) */
+video.vid{display:block;margin:8px auto;height:auto;max-height:none;background:#000;object-fit:contain;border-radius:14px}
+video.v9{width:min(100%,calc(78vh*9/16))}
+@supports (height:1svh){video.v9{width:min(100%,calc(78svh*9/16))}}
+video.v16{width:100%}

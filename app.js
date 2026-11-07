@@ -1,7 +1,7 @@
 document.documentElement.classList.add('js');
 function setL(l){document.body.className=l;var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
 document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l)});try{localStorage.lang=l}catch(e){}
-document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(v.preload!='metadata'&&v.preload!='auto')v.preload='metadata'}else{v.pause();if(v.networkState!=1)v.preload='none'}});
+var fv=0;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(!fv&&v.preload=='none')v.preload='metadata';fv=1}else{v.pause();if(v.networkState!=1)v.preload='none'}});
 if(window.__rv)window.__rv()}
 function seek(l,t){var v=document.getElementById('v_'+l);v.currentTime=t;v.play();return false}
 
@@ -86,3 +86,6 @@ var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];setL(q||(function(){try
 (function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
 /* 04.11: duration on the video label */
 document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('video'),d=s.querySelector('.vdur');if(!v||!d)return;function f(){if(!isFinite(v.duration))return;var t=Math.floor(v.duration),m=Math.floor(t/60),x=t%60;d.textContent='· '+m+':'+(x<10?'0':'')+x}v.addEventListener('loadedmetadata',f);f()});
+
+/* 07.11: одновременно играет только одно видео */
+document.addEventListener('play',function(e){var t=e.target;if(t.tagName!='VIDEO'||t.classList.contains('hero'))return;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v!==t&&!v.paused)v.pause()})},true);
