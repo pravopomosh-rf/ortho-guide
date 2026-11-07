@@ -13,5 +13,6 @@
  "12_acdf": "acdf.json (ru, he, ar, en N01..N12) — ОДОБРЕНО 07.11",
  "13_anterior": "ant.json (he, ar, en: s1..s9, 26 сегментов; RU уже есть — voice_v5). ОДОБРЕНО 07.11. Видео: 3D-клипы (public/clips) нужно перерендерить — их нет в архиве",
  "14_amputation": "amp.json (ru, he, ar, en M01..M14) — ОДОБРЕНО 07.11",
- "15_shoulder": "shoulder.json (ru, he, ar, en U01..U13) — ОДОБРЕНО 07.11"
+ "15_shoulder": "shoulder.json (ru, he, ar, en U01..U13) — ОДОБРЕНО 07.11",
+ "16_wrist": "wrist.json (ru, he, ar, en Z01..Z10) — ОДОБРЕНО 07.11"
 }
