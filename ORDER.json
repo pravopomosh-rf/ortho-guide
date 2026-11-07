@@ -19,5 +19,6 @@
  "18_falls": "falls.json (ru, he, ar, en Q01..Q11) — ОДОБРЕНО 07.11",
  "19_pain": "pain.json (ru, he, ar, en B01..B11) — ОДОБРЕНО 07.11",
  "20_press": "press.json (ru, he, ar, en R01..R11) — ОДОБРЕНО 07.11",
- "21_breath": "breath.json (ru, he, ar, en L01..L10) — ОДОБРЕНО 07.11"
+ "21_breath": "breath.json (ru, he, ar, en L01..L10) — ОДОБРЕНО 07.11",
+ "22_walker": "walker.json (ru, he, ar, en W01..W10) — ОДОБРЕНО 07.11"
 }
