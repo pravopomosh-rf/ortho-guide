@@ -27,6 +27,7 @@
 | Пролежни | Press(+…) | press | ops/pressure-sores.html | ОДОБРЕНО 07.11 |
 | Дыхательные упражнения | Breath(+…) | breath | ops/breathing.html | ОДОБРЕНО 07.11 |
 | Ходунки | Walker(+…) | walker | ops/walker.html | ОДОБРЕНО 07.11 |
+| Отёк ноги | Swell(+…) | swell | ops/swelling.html | ОДОБРЕНО 07.11 |
 | Лестница с тростью | clay lestwalk | — | thr/tkr блок «Лестница» | ОДОБРЕНО |
 
 Загрузка: ветка <name>-video → `python3 tools/putvid2.py <page> <vid> '{"ru":..,"he":..,"ar":..,"en":..}'` → raw-ссылка боту Настроцкп → «ОК» → ff-merge в main → чипы языков на главной и в карте сайта.
