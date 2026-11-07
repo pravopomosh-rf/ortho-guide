@@ -1,0 +1,348 @@
+Это Claude. «Ампутация ноги»: все 5 правок внесены (RU v2 ниже; в M02 озвучке и на странице — «обрабатывает кости голени и укрывает их», «в больнице повязку меняет медицинский персонал»; в источники добавлены NICE NG158 и NHS urgent mental health). Плюс переводы ролика HE/AR/EN (озвучка, заголовки, экран) и текст страницы HE/AR/EN. HE для TTS без тире и сокращений. Ответ: ОДОБРЕНО или было → стало.
+
+# «Ампутация ноги: первые недели» — ролик для пациентов и близких (9:16, «клинический случай»), v2 (правки ChatGPT 07.11 внесены)
+Новая страница сайта: ops/amputation.html («Ампутация ноги»).
+Источники: NHS «Amputation» (проверено 17.02.2023); Guy's and St Thomas' NHS «Leg amputation — recovery after surgery» (апр. 2024, пересмотр апр. 2027); Gloucestershire Hospitals NHS «Lower limb amputation — patient passport» GHPI1405 (пересмотр июнь 2027); NCIC NHS «Amputee falls information»; Sherwood Forest Hospitals NHS «Rehabilitation following lower limb amputation» (окт. 2024).
+Практика отделения (уже одобрена на странице after-surgery): после ампутации из нашего отделения обычно направляют в реабилитационную больницу.
+
+M01 | ИСТОРИЯ | После ампутации (акцент: ампутации)
+Мужчине шестьдесят восемь лет, у него сахарный диабет. Из-за тяжёлой инфекции и плохого кровоснабжения ему ампутировали ногу ниже колена. Вот что важно знать в первые недели.
+
+M02 | ОПЕРАЦИЯ | Что сделали (акцент: сделали)
+Хирург удаляет повреждённую часть ноги, обрабатывает кости голени и укрывает их мышцами и кожей, чтобы получилась культя. Рану закрывают повязкой; иногда оставляют дренаж. В больнице повязку меняет медицинский персонал.
+
+M03 | БОЛЬ | Скажите о боли (акцент: боли)
+Боль после операции обезболивают. Принимайте обезболивающие по назначенной схеме: некоторые — регулярно, другие — по необходимости. Перед занятием с физиотерапевтом заранее обсудите с медсестрой, нужно ли дополнительное обезболивание. Если боль не проходит, скажите медсестре.
+
+M04 | ФАНТОМ | Фантомные ощущения (акцент: фантомные)
+Многим кажется, что ампутированная нога ещё на месте: она чешется, покалывает или болит. Это реальные ощущения, а не воображение. Часто они со временем уменьшаются. О фантомной боли тоже говорите медсестре — её лечат.
+
+M05 | ПАДЕНИЯ | Осторожно ночью (акцент: ночью)
+В первые месяцы легко забыть, что ноги нет, — особенно ночью, спросонья, когда хочется в туалет. Люди падают, пытаясь встать на ампутированную ногу. Перед тем как вставать, остановитесь и вспомните об этом; в больнице — нажмите кнопку вызова.
+
+M06 | ПОЛОЖЕНИЕ | Колено и бедро прямо (акцент: прямо)
+Чтобы суставы не стали тугоподвижными, после ампутации ниже колена не подкладывайте подушку под культю и не сгибайте под коленом кровать. В кресле культю кладут на специальную подставку. Если разрешено, лежите на спине ровно, а по указанию физиотерапевта — и на животе.
+
+M07 | ДВИЖЕНИЕ | Реабилитация с первых дней (акцент: первых)
+Обычно уже на следующий день физиотерапевт начинает упражнения в кровати. Затем вас учат безопасно пересаживаться с кровати в кресло-коляску. Прыгать на одной ноге с костылями не советуют: это повышает риск падения.
+
+M08 | КУЛЬТЯ | Уход за культей (акцент: культей)
+Пока рана заживает, её не трогают. Потом культю моют каждый день мягким мылом без запаха и тщательно вытирают. Осматривайте её ежедневно. Отёк культи в первые недели — обычное дело.
+
+M09 | НОГА | Берегите другую ногу (акцент: другую)
+Особенно при диабете берегите оставшуюся ногу: ежедневно осматривайте стопу, носите удобную обувь и регулярно показывайтесь специалисту по стопе. Если вы курите, обсудите с врачом отказ от курения: курение ухудшает кровоснабжение и заживление.
+
+M10 | ПРОТЕЗ | Протез — не сразу (акцент: протез)
+Подойдёт ли протез, зависит от заживления, силы мышц и общего состояния. Ходьба на протезе требует много сил, и протез подходит не всем. Без протеза тоже можно стать самостоятельным с креслом-коляской.
+
+M11 | ЧУВСТВА | Вы не одни (акцент: одни)
+После ампутации часто бывают горе, тревога или подавленность — это нормальная реакция. Говорите о своих чувствах с близкими и командой; может помочь психолог и встреча с людьми, пережившими ампутацию.
+
+M12 | ДАЛЬШЕ | Реабилитация (акцент: реабилитация)
+Из нашего отделения после ампутации обычно направляют в реабилитационную больницу. Там учат передвигаться, ухаживать за собой и готовят к возвращению домой.
+
+M13 | СРОЧНО | Когда звонить врачу (акцент: врачу)
+Если культя покраснела, стала горячей, болезненной, отекает сильнее или из раны появились выделения или гной, а также при новой боли или отёке икры оставшейся ноги, — обратитесь к врачу в тот же день. При внезапной одышке или боли в груди — сразу звоните сто один.
+
+M14 | ВЫВОД | Важно (акцент: важно)
+Это общие рекомендации. Индивидуальные указания вашего врача и медицинской команды имеют приоритет.
+
+## Визуал (для проверки только медицинской точности)
+- M01: карточки «ПАЦИЕНТ 68 лет», «диабет»; силуэт ноги с культей ниже колена (уровень — верхняя треть голени).
+- M02: схема культи сбоку: обе кости голени — обработанная большеберцовая и более короткая малоберцовая; концы костей закрыты мышцами и кожей, повязка; «схема, не в масштабе».
+- M03: шкала боли 0–10, иконка медсестры.
+- M04: силуэт ноги, отсутствующая часть — пунктиром со «звёздочками» ощущений.
+- M05: ночная кровать, человек садится, кнопка вызова.
+- M06: «НЕЛЬЗЯ»: подушка под культей, согнутое изголовье под коленом; «МОЖНО»: прямая нога, подставка-доска для культи в кресле.
+- M07: кровать → кресло-коляска (пересаживание), перечёркнутые костыли «прыжки».
+- M08: умывальник, мыло, полотенце; ежедневный осмотр.
+- M09: стопа оставшейся ноги, обувь.
+- M10: протез голени — схематично; «подходит не всем».
+- M11: два силуэта беседуют.
+- M12: здание реабилитационной больницы.
+- M13: уровни срочности, красный только для 101.
+
+---
+# Текст страницы ops/amputation.html (RU) — тоже на проверку
+
+## Что это за операция
+Ампутация — удаление части конечности, когда её нельзя сохранить: например, при тяжёлой инфекции или гангрене, часто на фоне сахарного диабета или нарушения кровоснабжения, или после тяжёлой травмы. Хирург удаляет повреждённую часть, обрабатывает кости и укрывает их мышцами и кожей, формируя культю. Уровень ампутации выбирает хирург после обследования. Операцию делают под общим наркозом или под спинальной или эпидуральной анестезией.
+
+## Подготовка
+Если операция плановая, вас обследуют: проверяют сердце, сосуды, лёгкие и оставшуюся ногу. С вами могут обсудить реабилитацию, возможность протеза и условия дома. Голодание, душ и лекарства — по общей памятке «Подготовка к операции». Вы можете попросить о встрече с человеком, который перенёс похожую операцию.
+
+## Лекарства
+Препараты, разжижающие кровь, и другие постоянные лекарства не отменяйте сами — врач скажет, какие и когда остановить. Принимайте обезболивающие по назначенной схеме: некоторые — регулярно, другие — по необходимости. Перед занятием с физиотерапевтом заранее обсудите с медсестрой, нужно ли дополнительное обезболивание. О любой боли, в том числе фантомной, говорите медсестре.
+
+## Дренаж и рана
+Иногда оставляют дренаж — это решает хирург. В стационаре повязку меняет медицинский персонал. Перед выпиской уточните, кто будет выполнять перевязки дальше и когда их проводить. Самостоятельно не снимайте повязку вопреки полученным указаниям. Нерассасывающиеся швы снимает персонал, обычно через две–три недели.
+
+## После операции
+- Многим кажется, что ампутированная нога ещё на месте (фантомные ощущения). В первые месяцы легко забыть, что ноги нет, особенно ночью. Перед тем как вставать, остановитесь и вспомните об этом; в больнице нажмите кнопку вызова.
+- После ампутации ниже колена не подкладывайте подушку под культю и не сгибайте кровать под коленом — это помогает сохранить колено прямым. В кресле культю кладут на специальную подставку.
+- Реабилитация обычно начинается на следующий день: упражнения в кровати, затем безопасное пересаживание в кресло-коляску. Прыгать на одной ноге с костылями не советуют.
+- Когда рана заживёт, культю моют ежедневно мягким мылом без запаха и тщательно вытирают; осматривают каждый день.
+- Берегите оставшуюся ногу, особенно при диабете: ежедневный осмотр стопы, удобная обувь, регулярный осмотр специалистом по стопе.
+- Протез подходит не всем: это зависит от заживления, силы мышц и общего состояния. Без протеза тоже можно стать самостоятельным с креслом-коляской.
+- Горе, тревога и подавленность после ампутации — частая и понятная реакция. Говорите о своих чувствах с близкими и командой; может помочь психолог.
+- Из нашего отделения после ампутации обычно направляют в реабилитационную больницу.
+
+## Когда срочно за помощью
+- Культя покраснела, стала горячей или болезненной, отёк нарастает, из раны выделения или гной — обратитесь к врачу в тот же день.
+- Новая боль или отёк икры оставшейся ноги, особенно с одной стороны, — срочно обратитесь за медицинской оценкой.
+- Обезболивающие не помогают — сообщите медсестре или врачу.
+- Внезапная одышка или боль в груди — сразу звоните 101.
+- Если появились мысли о самоубийстве или причинении себе вреда, немедленно сообщите медицинскому персоналу или обратитесь за срочной профессиональной помощью. Если существует непосредственная опасность для жизни, звоните 101.
+
+## Официальные источники
+- NHS — Amputation (page last reviewed 17 February 2023).
+- Guy's and St Thomas' NHS Foundation Trust — Leg amputation: recovery after surgery (reviewed April 2024).
+- Gloucestershire Hospitals NHS Foundation Trust — Lower limb amputation: patient passport, GHPI1405.
+- North Cumbria Integrated Care NHS — Amputee falls information.
+- Sherwood Forest Hospitals NHS — Rehabilitation following lower limb amputation (October 2024).
+
+
+# РОЛИК — ОЗВУЧКА HE/AR/EN
+M01
+HE: גבר בן שישים ושמונה, עם סוכרת. בגלל זיהום קשה ואספקת דם ירודה כרתו לו את הרגל מתחת לברך. הנה מה שחשוב לדעת בשבועות הראשונים.
+AR: رجل عمره ثمانية وستون عامًا، مصاب بالسكري. بسبب التهاب شديد وضعف التروية الدموية بُترت ساقه تحت الركبة. إليكم ما يهم معرفته في الأسابيع الأولى.
+EN: A sixty-eight-year-old man with diabetes. Because of a severe infection and poor blood supply, his leg was amputated below the knee. Here is what is important to know in the first weeks.
+
+M02
+HE: המנתח מסיר את החלק הפגוע של הרגל, מעבד את עצמות השוק ומכסה אותן בשרירים ובעור, כדי ליצור גדם. את הפצע סוגרים בחבישה; לפעמים משאירים נקז. בבית החולים הצוות הרפואי מחליף את החבישה.
+AR: يزيل الجرّاح الجزء المتضرر من الساق، ويهذّب عظام الساق ويغطيها بالعضلات والجلد ليتكوّن الجذع. يُغلق الجرح بضمادة؛ وأحيانًا يُترك أنبوب تصريف. في المستشفى يغيّر الطاقم الطبي الضمادة.
+EN: The surgeon removes the damaged part of the leg, shapes the lower leg bones and covers them with muscle and skin to form a stump. The wound is closed with a dressing; sometimes a drain is left. In hospital, the medical staff change the dressing.
+
+M03
+HE: את הכאב אחרי הניתוח מטפלים בתרופות. קחו את משככי הכאבים לפי התוכנית שנקבעה: חלקם באופן קבוע, ואחרים לפי הצורך. לפני אימון עם הפיזיותרפיסט, בררו מראש עם האחות אם צריך שיכוך כאב נוסף. אם הכאב לא עובר, ספרו לאחות.
+AR: يُعالج الألم بعد العملية بالمسكّنات. تناولوا المسكّنات حسب الخطة الموصوفة: بعضها بانتظام، وبعضها عند الحاجة. قبل جلسة العلاج الطبيعي، ناقشوا مسبقًا مع الممرضة إن كنتم بحاجة إلى تسكين إضافي. وإذا لم يزل الألم، أخبروا الممرضة.
+EN: Pain after surgery is treated. Take your painkillers as prescribed: some regularly, others only when needed. Before a physiotherapy session, check with your nurse in advance whether you need extra pain relief. If the pain does not go away, tell your nurse.
+
+M04
+HE: לרבים נדמה שהרגל שנכרתה עדיין שם: היא מגרדת, מעקצצת או כואבת. אלה תחושות אמיתיות ולא דמיון. לעיתים קרובות הן פוחתות עם הזמן. גם על כאב פנטום ספרו לאחות, כי מטפלים בו.
+AR: يشعر كثيرون أن الساق المبتورة لا تزال موجودة: تحكّهم أو تُنمّل أو تؤلمهم. هذه أحاسيس حقيقية وليست وهمًا. وغالبًا ما تخفّ مع الوقت. أخبروا الممرضة أيضًا عن ألم الطرف الشبحي، فهو يُعالج.
+EN: Many people feel as if the amputated leg is still there: it itches, tingles or hurts. These are real sensations, not imagination. They often lessen with time. Tell your nurse about phantom pain too, because it can be treated.
+
+M05
+HE: בחודשים הראשונים קל לשכוח שהרגל איננה, במיוחד בלילה, כשמתעוררים ורוצים לשירותים. אנשים נופלים כשהם מנסים לעמוד על הרגל שנכרתה. לפני שקמים, עצרו ונזכרו בזה; בבית החולים, לחצו על לחצן הקריאה.
+AR: في الأشهر الأولى يسهل أن تنسوا أن الساق لم تعد موجودة، خاصة في الليل عند الاستيقاظ والحاجة إلى المرحاض. يسقط الناس وهم يحاولون الوقوف على الساق المبتورة. قبل أن تنهضوا، توقفوا وتذكّروا ذلك؛ وفي المستشفى اضغطوا زر الاستدعاء.
+EN: In the first months it is easy to forget that the leg is gone, especially at night when you are half asleep and need the toilet. People fall trying to stand on the amputated leg. Before getting up, stop and remember this; in hospital, press the call button.
+
+M06
+HE: כדי שהמפרקים לא יתקשחו, אחרי כריתה מתחת לברך אל תניחו כרית מתחת לגדם ואל תכופפו את המיטה מתחת לברך. בכיסא מניחים את הגדם על תומך מיוחד. אם מותר, שכבו ישר על הגב, ולפי הנחיית הפיזיותרפיסט גם על הבטן.
+AR: لكي لا تتيبّس المفاصل، بعد البتر تحت الركبة لا تضعوا وسادة تحت الجذع ولا تثنوا السرير تحت الركبة. عند الجلوس على الكرسي يوضع الجذع على مسند خاص. إذا كان مسموحًا، استلقوا مستقيمين على الظهر، وبحسب تعليمات أخصائي العلاج الطبيعي على البطن أيضًا.
+EN: To stop the joints from getting stiff after a below-knee amputation, do not put a pillow under the stump and do not bend the bed under the knee. In a chair, the stump rests on a special board. If allowed, lie flat on your back, and on your stomach when your physiotherapist advises.
+
+M07
+HE: בדרך כלל כבר למחרת הפיזיותרפיסט מתחיל תרגילים במיטה. אחר כך מלמדים אתכם לעבור בבטחה מהמיטה לכיסא גלגלים. לא מומלץ לקפץ על רגל אחת עם קביים, כי זה מגביר את הסיכון לנפילה.
+AR: عادةً في اليوم التالي يبدأ أخصائي العلاج الطبيعي التمارين في السرير. ثم يعلّمونكم الانتقال بأمان من السرير إلى الكرسي المتحرك. لا يُنصح بالقفز على ساق واحدة بالعكازات، لأن ذلك يزيد خطر السقوط.
+EN: Usually the very next day, the physiotherapist starts exercises in bed. Then you are taught to move safely from the bed to a wheelchair. Hopping on one leg with crutches is not advised, because it raises the risk of falling.
+
+M08
+HE: כל עוד הפצע מחלים, לא נוגעים בו. אחר כך רוחצים את הגדם כל יום בסבון עדין ללא ריח ומייבשים היטב. בדקו אותו בכל יום. נפיחות של הגדם בשבועות הראשונים היא דבר רגיל.
+AR: طالما أن الجرح يلتئم، لا تلمسوه. بعد ذلك يُغسل الجذع كل يوم بصابون لطيف بلا رائحة ويُجفَّف جيدًا. افحصوه يوميًا. تورّم الجذع في الأسابيع الأولى أمر طبيعي.
+EN: While the wound is healing, it is left alone. After that, wash the stump every day with mild unscented soap and dry it carefully. Check it every day. Swelling of the stump in the first weeks is normal.
+
+M09
+HE: במיוחד אם יש סוכרת, שמרו על הרגל השנייה: בדקו את כף הרגל בכל יום, נעלו נעליים נוחות והיבדקו באופן קבוע אצל מומחה לכף הרגל. אם אתם מעשנים, דברו עם הרופא על הפסקת עישון: עישון פוגע באספקת הדם ובריפוי.
+AR: خاصة مع السكري، اعتنوا بالساق الأخرى: افحصوا القدم يوميًا، وارتدوا حذاءً مريحًا، وراجعوا أخصائي القدم بانتظام. إذا كنتم تدخّنون، ناقشوا مع الطبيب التوقف عن التدخين: فالتدخين يضعف التروية الدموية والتئام الجروح.
+EN: Especially with diabetes, protect your other leg: check the foot every day, wear comfortable shoes and see a foot specialist regularly. If you smoke, talk to your doctor about stopping: smoking harms blood supply and healing.
+
+M10
+HE: אם תותבת תתאים, זה תלוי בריפוי, בכוח השרירים ובמצב הכללי. הליכה עם תותבת דורשת הרבה כוח, ותותבת לא מתאימה לכולם. גם בלי תותבת אפשר להיות עצמאיים עם כיסא גלגלים.
+AR: ملاءمة الطرف الاصطناعي تعتمد على التئام الجرح وقوة العضلات والحالة العامة. المشي بطرف اصطناعي يتطلب جهدًا كبيرًا، ولا يناسب الجميع. ومن دون طرف اصطناعي يمكن أيضًا أن تكونوا مستقلين بالكرسي المتحرك.
+EN: Whether a prosthesis is suitable depends on healing, muscle strength and your general health. Walking with a prosthesis takes a lot of energy, and it is not right for everyone. Without a prosthesis, you can still become independent with a wheelchair.
+
+M11
+HE: אחרי כריתה שכיחים אבל, חרדה או דכדוך, וזו תגובה טבעית. דברו על הרגשות שלכם עם הקרובים ועם הצוות; פסיכולוג ומפגש עם אנשים שעברו כריתה יכולים לעזור.
+AR: بعد البتر يشيع الحزن أو القلق أو الاكتئاب، وهذا ردّ فعل طبيعي. تحدّثوا عن مشاعركم مع أقاربكم ومع الفريق؛ وقد يساعد الأخصائي النفسي ولقاء أشخاص مرّوا بالبتر.
+EN: After an amputation, grief, anxiety or low mood are common, and this is a natural reaction. Talk about your feelings with your family and the team; a psychologist and meeting people who have been through an amputation can help.
+
+M12
+HE: מהמחלקה שלנו, אחרי כריתה בדרך כלל מפנים לבית חולים שיקומי. שם מלמדים לנוע, לטפל בעצמכם ומכינים לחזרה הביתה.
+AR: من قسمنا، بعد البتر عادةً يُحال المرضى إلى مستشفى تأهيلي. هناك يتعلّمون التنقل والعناية بأنفسهم، ويُحضَّرون للعودة إلى البيت.
+EN: From our ward, after an amputation, people are usually referred to a rehabilitation hospital. There you learn to get around and look after yourself, and you are prepared to go home.
+
+M13
+HE: אם הגדם האדים, נעשה חם וכואב, הנפיחות גדלה, או שיוצאת מהפצע הפרשה או מוגלה, וגם כשיש כאב חדש או נפיחות בשוק של הרגל השנייה, פנו לרופא באותו יום. אם מופיעים פתאום קוצר נשימה או כאב בחזה, התקשרו מיד למאה ואחת.
+AR: إذا احمرّ الجذع أو أصبح ساخنًا ومؤلمًا، أو ازداد التورّم، أو خرجت من الجرح إفرازات أو قيح، وكذلك عند ألم جديد أو تورّم في ربلة الساق الأخرى، راجعوا الطبيب في اليوم نفسه. وعند ضيق مفاجئ في التنفس أو ألم في الصدر، اتصلوا فورًا بالرقم مئة وواحد.
+EN: If the stump becomes red, hot or painful, the swelling increases, or there is discharge or pus from the wound, or you have new pain or swelling in the calf of your other leg, see a doctor the same day. With sudden shortness of breath or chest pain, call one-oh-one straight away.
+
+M14
+HE: אלה המלצות כלליות. להנחיות האישיות של הרופא שלכם ושל הצוות הרפואי יש עדיפות.
+AR: هذه توصيات عامة. تعليمات طبيبكم والفريق الطبي الخاصة بكم لها الأولوية.
+EN: These are general recommendations. The individual instructions of your doctor and medical team take priority.
+
+# ЗАГОЛОВКИ
+M01: HE אחרי כריתה | AR بعد البتر | EN After amputation
+M02: HE מה נעשה | AR ماذا أُجري | EN What was done
+M03: HE ספרו על כאב | AR أخبروا عن الألم | EN Tell us about pain
+M04: HE תחושות פנטום | AR أحاسيس الطرف الشبحي | EN Phantom sensations
+M05: HE זהירות בלילה | AR احذروا ليلًا | EN Take care at night
+M06: HE ברך וירך ישרות | AR الركبة والورك مستقيمان | EN Knee and hip straight
+M07: HE שיקום מהימים הראשונים | AR تأهيل من الأيام الأولى | EN Rehab from day one
+M08: HE טיפול בגדם | AR العناية بالجذع | EN Stump care
+M09: HE שמרו על הרגל השנייה | AR اعتنوا بالساق الأخرى | EN Protect your other leg
+M10: HE תותבת לא מיד | AR الطرف الاصطناعي ليس فورًا | EN Prosthesis takes time
+M11: HE אתם לא לבד | AR لستم وحدكم | EN You are not alone
+M12: HE שיקום | AR التأهيل | EN Rehabilitation
+M13: HE מתי לפנות לרופא | AR متى تراجعون الطبيب | EN When to call a doctor
+M14: HE חשוב | AR مهم | EN Important
+
+# ЭКРАН (RU → HE | AR | EN)
+БОЛЬ 0–10 → כאב 0–10 | الألم 0–10 | PAIN 0–10
+Без протеза — самостоятельность с креслом-коляской → גם בלי תותבת · עצמאות עם כיסא גלגלים | من دون طرف اصطناعي · استقلالية بالكرسي المتحرك | Without a prosthesis · independence with a wheelchair
+В кресле — культя на подставке → בכיסא · הגדם על תומך | على الكرسي · الجذع على مسند | In a chair · stump on a board
+Колено прямо, нога ровно → ברך ישרה, רגל ישרה | الركبة مستقيمة والساق ممدودة | Knee straight, leg flat
+МОЖНО → מותר | مسموح | DO
+НЕЛЬЗЯ → אסור | ممنوع | DON'T
+Не трогать — в больнице повязку меняет персонал → לא לגעת · בבית החולים הצוות מחליף את החבישה | لا تلمسوه · في المستشفى يغيّر الطاقم الضمادة | Leave it alone · in hospital staff change the dressing
+Обычно со следующего дня — упражнения в кровати → בדרך כלל מהיום שלמחרת · תרגילים במיטה | عادةً من اليوم التالي · تمارين في السرير | Usually from the next day · exercises in bed
+Осматривать культю ежедневно → לבדוק את הגדם בכל יום | فحص الجذع يوميًا | Check the stump every day
+Осматривать стопу оставшейся ноги каждый день → לבדוק בכל יום את כף הרגל השנייה | فحص قدم الساق الأخرى يوميًا | Check the foot of your other leg every day
+ПОКА РАНА ЗАЖИВАЕТ → כל עוד הפצע מחלים | طالما الجرح يلتئم | WHILE THE WOUND HEALS
+ПРИЧИНА → הסיבה | السبب | CAUSE
+ПРОТЕЗ → תותבת | الطرف الاصطناعي | PROSTHESIS
+Перед физиотерапией — обсудите с медсестрой · не проходит — скажите → לפני פיזיותרפיה · לברר עם האחות · לא עובר · לספר | قبل العلاج الطبيعي · ناقشوا مع الممرضة · إن لم يزل · أخبروا | Before physio · ask your nurse · not easing · tell us
+По назначенной схеме: регулярно или по необходимости → לפי התוכנית · באופן קבוע או לפי הצורך | حسب الخطة · بانتظام أو عند الحاجة | As prescribed · regularly or when needed
+Подушка под культёй, кровать согнута под коленом → כרית מתחת לגדם, מיטה מכופפת מתחת לברך | وسادة تحت الجذع، سرير مثني تحت الركبة | Pillow under the stump, bed bent under the knee
+Потом — мыть каждый день мягким мылом без запаха, тщательно вытирать → אחר כך · לרחוץ כל יום בסבון עדין ללא ריח ולייבש היטב | بعد ذلك · الغسل يوميًا بصابون لطيف بلا رائحة والتجفيف جيدًا | Later · wash daily with mild unscented soap, dry carefully
+Прыгать на одной ноге с костылями не советуют — риск падения → לא מומלץ לקפץ על רגל אחת עם קביים · סיכון לנפילה | لا يُنصح بالقفز على ساق واحدة بالعكازات · خطر السقوط | Hopping on one leg with crutches is not advised · risk of falling
+Регулярно — специалист по стопе → באופן קבוע · מומחה לכף הרגל | بانتظام · أخصائي القدم | Regularly · foot specialist
+Требует много сил · подходит не всем → דורשת הרבה כוח · לא מתאימה לכולם | يتطلب جهدًا كبيرًا · لا يناسب الجميع | Takes a lot of energy · not for everyone
+Удобная обувь → נעליים נוחות | حذاء مريح | Comfortable shoes
+Ухудшает кровоснабжение и заживление — обсудите отказ с врачом → פוגע באספקת הדם ובריפוי · דברו עם הרופא על הפסקה | يضعف التروية والالتئام · ناقشوا التوقف مع الطبيب | Harms blood supply and healing · talk to your doctor about stopping
+Учат безопасно пересаживаться в кресло-коляску → מלמדים לעבור בבטחה לכיסא גלגלים | تعلّم الانتقال بأمان إلى الكرسي المتحرك | Learn to move safely into a wheelchair
+ампутация ниже колена → כריתה מתחת לברך | بتر تحت الركبة | below-knee amputation
+боль или отёк икры оставшейся ноги → כאב או נפיחות בשוק של הרגל השנייה | ألم أو تورّم في ربلة الساق الأخرى | pain or swelling in the other calf
+в больнице — кнопка вызова → בבית החולים · לחצן הקריאה | في المستشفى · زر الاستدعاء | in hospital · call button
+выделения или гной из раны → הפרשה או מוגלה מהפצע | إفرازات أو قيح من الجرح | discharge or pus from the wound
+говорите с близкими и командой → דברו עם הקרובים ועם הצוות | تحدّثوا مع الأقارب والفريق | talk with family and the team
+горе, тревога, подавленность — нормальная реакция → אבל, חרדה, דכדוך · תגובה טבעית | حزن، قلق، اكتئاب · ردّ فعل طبيعي | grief, anxiety, low mood · a natural reaction
+готовят к возвращению домой → מכינים לחזרה הביתה | يُحضَّرون للعودة إلى البيت | preparing to go home
+диабет · инфекция · плохое кровоснабжение → סוכרת · זיהום · אספקת דם ירודה | سكري · التهاب · ضعف التروية الدموية | diabetes · infection · poor blood supply
+заживление → ריפוי | التئام الجرح | healing
+иногда — дренаж → לפעמים · נקז | أحيانًا · أنبوب تصريف | sometimes · a drain
+кажется, что нога на месте → נדמה שהרגל עדיין שם | يبدو أن الساق لا تزال موجودة | it feels like the leg is still there
+колено → ברך | الركبة | knee
+концы костей укрыты мышцами и кожей → קצות העצמות מכוסים בשרירים ובעור | أطراف العظام مغطاة بالعضلات والجلد | bone ends covered with muscle and skin
+культя покраснела, горячая, болезненная → הגדם אדום, חם וכואב | الجذع أحمر وساخن ومؤلم | stump red, hot, painful
+малоберцовая (короче) → עצם השוקית (קצרה יותר) | الشظية (أقصر) | fibula (shorter)
+мышцы → שרירים | العضلات | muscles
+на животе — по указанию физиотерапевта → על הבטן · לפי הנחיית הפיזיותרפיסט | على البطن · حسب تعليمات أخصائي العلاج الطبيعي | on your stomach · as your physio advises
+ночью легко забыть, что ноги нет → בלילה קל לשכוח שהרגל איננה | في الليل يسهل نسيان أن الساق غير موجودة | at night it's easy to forget the leg is gone
+общее состояние → מצב כללי | الحالة العامة | general health
+обычно — в реабилитационную больницу → בדרך כלל · לבית חולים שיקומי | عادةً · إلى مستشفى تأهيلي | usually · to a rehabilitation hospital
+остановитесь перед тем как встать → עצרו לפני שאתם קמים | توقفوا قبل أن تنهضوا | stop before you get up
+отёк в первые недели — обычное дело → נפיחות בשבועות הראשונים · דבר רגיל | التورّم في الأسابيع الأولى · أمر طبيعي | swelling in the first weeks · normal
+отёк нарастает → הנפיחות גדלה | التورّم يزداد | swelling increasing
+в больнице повязку меняет персонал → בבית החולים הצוות מחליף את החבישה | في المستشفى يغيّر الطاقم الضمادة | in hospital staff change the dressing
+психолог · встреча с теми, кто это пережил → פסיכולוג · מפגש עם מי שעבר את זה | أخصائي نفسي · لقاء من مرّوا بذلك | psychologist · meeting others who have been through it
+сила мышц → כוח השרירים | قوة العضلات | muscle strength
+схема культи, не в масштабе → תרשים הגדם, לא בקנה מידה | رسم الجذع، ليس بالمقياس | stump diagram, not to scale
+учат передвигаться и ухаживать за собой → מלמדים לנוע ולטפל בעצמכם | تعلّم التنقل والعناية بالنفس | learning to get around and self-care
+фантомную боль лечат → כאב פנטום מטפלים בו | ألم الطرف الشبحي يُعالج | phantom pain can be treated
+часто уменьшаются → לעיתים קרובות פוחתות | غالبًا ما تخفّ | often lessen
+это реальные ощущения → אלה תחושות אמיתיות | هذه أحاسيس حقيقية | these are real sensations
+
+# СТРАНИЦА amputation — HE (заголовок: כריתת רגל)
+  מהו הניתוח
+ כריתה היא הסרה של חלק מגפה כשאי אפשר להציל אותו: למשל בזיהום קשה או בנמק, לעיתים קרובות על רקע סוכרת או הפרעה באספקת הדם, או אחרי פציעה קשה. המנתח מסיר את החלק הפגוע, מעבד את העצמות ומכסה אותן בשרירים ובעור ויוצר גדם. את גובה הכריתה בוחר המנתח אחרי בירור. הניתוח נעשה בהרדמה כללית או בהרדמה ספינלית או אפידורלית.
+   הכנה
+ אם הניתוח מתוכנן, בודקים אתכם: את הלב, כלי הדם, הריאות והרגל השנייה. ייתכן שידברו איתכם על שיקום, על אפשרות לתותבת ועל התנאים בבית. צום, מקלחת ותרופות לפי דף ההנחיות הכללי «הכנה לניתוח». אפשר לבקש להיפגש עם אדם שעבר ניתוח דומה.
+   תרופות
+ אל תפסיקו בעצמכם תרופות לדילול הדם ותרופות קבועות אחרות. הרופא יגיד אילו להפסיק ומתי. קחו משככי כאבים לפי התוכנית שנקבעה: חלקם באופן קבוע ואחרים לפי הצורך. לפני אימון עם הפיזיותרפיסט, בררו מראש עם האחות אם צריך שיכוך כאב נוסף. על כל כאב, כולל כאב פנטום, ספרו לאחות.
+   נקז ופצע
+ לפעמים משאירים נקז, וההחלטה של המנתח. בבית החולים הצוות הרפואי מחליף את החבישה. לפני השחרור בררו מי ימשיך לבצע את החבישות ומתי. אל תסירו את החבישה בעצמכם בניגוד להנחיות שקיבלתם. תפרים שאינם נספגים מוציא הצוות, בדרך כלל אחרי שבועיים עד שלושה.
+   אחרי הניתוח
+  לרבים נדמה שהרגל שנכרתה עדיין שם (תחושות פנטום). בחודשים הראשונים קל לשכוח שהרגל איננה, במיוחד בלילה. לפני שקמים, עצרו ונזכרו בזה; בבית החולים לחצו על לחצן הקריאה.
+ אחרי כריתה מתחת לברך אל תניחו כרית מתחת לגדם ואל תכופפו את המיטה מתחת לברך, כדי לשמור על הברך ישרה. בכיסא מניחים את הגדם על תומך מיוחד.
+ השיקום מתחיל בדרך כלל למחרת: תרגילים במיטה ואחר כך מעבר בטוח לכיסא גלגלים. לא מומלץ לקפץ על רגל אחת עם קביים.
+ כשהפצע מחלים, רוחצים את הגדם כל יום בסבון עדין ללא ריח ומייבשים היטב; בודקים אותו בכל יום.
+ שמרו על הרגל השנייה, במיוחד אם יש סוכרת: בדיקה יומית של כף הרגל, נעליים נוחות ובדיקה קבועה אצל מומחה לכף הרגל.
+ תותבת לא מתאימה לכולם: זה תלוי בריפוי, בכוח השרירים ובמצב הכללי. גם בלי תותבת אפשר להיות עצמאיים עם כיסא גלגלים.
+ אבל, חרדה ודכדוך אחרי כריתה הם תגובה שכיחה ומובנת. דברו על הרגשות שלכם עם הקרובים ועם הצוות; פסיכולוג יכול לעזור.
+ מהמחלקה שלנו, אחרי כריתה בדרך כלל מפנים לבית חולים שיקומי.
+    מתי לפנות לעזרה דחופה
+  הגדם האדים, נעשה חם או כואב, הנפיחות גדלה, או שיוצאת מהפצע הפרשה או מוגלה: פנו לרופא באותו יום.
+ כאב חדש או נפיחות בשוק של הרגל השנייה, במיוחד בצד אחד: פנו בדחיפות להערכה רפואית.
+ משככי הכאבים לא עוזרים: ספרו לאחות או לרופא.
+ קוצר נשימה פתאומי או כאב בחזה: התקשרו מיד ל־101.
+ אם מופיעות מחשבות על התאבדות או על פגיעה עצמית, ספרו מיד לצוות הרפואי או פנו לעזרה מקצועית דחופה. אם יש סכנה מיידית לחיים, התקשרו ל־101.
+    מקורות רשמיים
+   NHS — Amputation (page last reviewed 17 February 2023) 
+  Guy's and St Thomas' NHS Foundation Trust — Leg amputation: recovery after surgery (reviewed April 2024) 
+  Gloucestershire Hospitals NHS Foundation Trust — Lower limb amputation: patient passport, GHPI1405 
+  North Cumbria Integrated Care NHS — Amputee falls information 
+  Sherwood Forest Hospitals NHS — Rehabilitation following lower limb amputation (October 2024) 
+  NICE NG158 — Venous thromboembolic diseases: diagnosis, management and thrombophilia testing 
+  NHS — Where to get urgent help for mental health 
+  
+
+# СТРАНИЦА amputation — AR (заголовок: بتر الساق)
+  ما هي العملية
+ البتر هو إزالة جزء من الطرف عندما لا يمكن إنقاذه: مثلًا عند التهاب شديد أو غرغرينا، غالبًا على خلفية السكري أو اضطراب التروية الدموية، أو بعد إصابة شديدة. يزيل الجرّاح الجزء المتضرر، ويهذّب العظام ويغطيها بالعضلات والجلد ليتكوّن الجذع. يختار الجرّاح مستوى البتر بعد الفحوصات. تُجرى العملية تحت التخدير العام أو التخدير النصفي (الشوكي أو فوق الجافية).
+   التحضير
+ إذا كانت العملية مخططًا لها، تُجرى لكم فحوصات للقلب والأوعية الدموية والرئتين والساق الأخرى. وقد يناقشون معكم التأهيل وإمكانية الطرف الاصطناعي وظروف البيت. الصيام والاستحمام والأدوية حسب النشرة العامة «التحضير للعملية». يمكنكم طلب لقاء شخص أجرى عملية مشابهة.
+   الأدوية
+ لا توقفوا بأنفسكم أدوية تمييع الدم والأدوية الدائمة الأخرى — سيخبركم الطبيب أيها توقف ومتى. تناولوا المسكّنات حسب الخطة الموصوفة: بعضها بانتظام وبعضها عند الحاجة. قبل جلسة العلاج الطبيعي ناقشوا مسبقًا مع الممرضة إن كنتم بحاجة إلى تسكين إضافي. أخبروا الممرضة عن أي ألم، بما في ذلك ألم الطرف الشبحي.
+   أنبوب التصريف والجرح
+ أحيانًا يُترك أنبوب تصريف، والقرار للجرّاح. في المستشفى يغيّر الطاقم الطبي الضمادة. قبل الخروج استوضحوا من سيغيّر الضمادات بعد ذلك ومتى. لا تنزعوا الضمادة بأنفسكم خلافًا للتعليمات التي تلقّيتموها. الغرز غير القابلة للامتصاص يزيلها الطاقم، عادةً بعد أسبوعين إلى ثلاثة.
+   بعد العملية
+  يشعر كثيرون أن الساق المبتورة لا تزال موجودة (أحاسيس الطرف الشبحي). في الأشهر الأولى يسهل نسيان أن الساق غير موجودة، خاصة في الليل. قبل أن تنهضوا توقفوا وتذكّروا ذلك؛ وفي المستشفى اضغطوا زر الاستدعاء.
+ بعد البتر تحت الركبة لا تضعوا وسادة تحت الجذع ولا تثنوا السرير تحت الركبة — هذا يساعد على إبقاء الركبة مستقيمة. على الكرسي يوضع الجذع على مسند خاص.
+ يبدأ التأهيل عادةً في اليوم التالي: تمارين في السرير، ثم الانتقال الآمن إلى الكرسي المتحرك. لا يُنصح بالقفز على ساق واحدة بالعكازات.
+ بعد التئام الجرح يُغسل الجذع يوميًا بصابون لطيف بلا رائحة ويُجفَّف جيدًا، ويُفحص كل يوم.
+ اعتنوا بالساق الأخرى، خاصة مع السكري: فحص يومي للقدم، وحذاء مريح، ومراجعة منتظمة لأخصائي القدم.
+ الطرف الاصطناعي لا يناسب الجميع: يعتمد ذلك على التئام الجرح وقوة العضلات والحالة العامة. ومن دون طرف اصطناعي يمكن أيضًا أن تكونوا مستقلين بالكرسي المتحرك.
+ الحزن والقلق والاكتئاب بعد البتر ردّ فعل شائع ومفهوم. تحدّثوا عن مشاعركم مع أقاربكم ومع الفريق؛ وقد يساعد الأخصائي النفسي.
+ من قسمنا، بعد البتر عادةً يُحال المرضى إلى مستشفى تأهيلي.
+    متى تطلبون المساعدة بشكل عاجل
+  احمرّ الجذع أو أصبح ساخنًا أو مؤلمًا، أو ازداد التورّم، أو خرجت من الجرح إفرازات أو قيح — راجعوا الطبيب في اليوم نفسه.
+ ألم جديد أو تورّم في ربلة الساق الأخرى، خاصة في جهة واحدة — اطلبوا تقييمًا طبيًا عاجلًا.
+ المسكّنات لا تساعد — أخبروا الممرضة أو الطبيب.
+ ضيق مفاجئ في التنفس أو ألم في الصدر — اتصلوا فورًا بالرقم 101.
+ إذا ظهرت أفكار عن الانتحار أو إيذاء النفس، أخبروا الطاقم الطبي فورًا أو اطلبوا مساعدة مهنية عاجلة. وإذا كان هناك خطر مباشر على الحياة، اتصلوا بالرقم 101.
+    مصادر رسمية
+   NHS — Amputation (page last reviewed 17 February 2023) 
+  Guy's and St Thomas' NHS Foundation Trust — Leg amputation: recovery after surgery (reviewed April 2024) 
+  Gloucestershire Hospitals NHS Foundation Trust — Lower limb amputation: patient passport, GHPI1405 
+  North Cumbria Integrated Care NHS — Amputee falls information 
+  Sherwood Forest Hospitals NHS — Rehabilitation following lower limb amputation (October 2024) 
+  NICE NG158 — Venous thromboembolic diseases: diagnosis, management and thrombophilia testing 
+  NHS — Where to get urgent help for mental health 
+  
+
+# СТРАНИЦА amputation — EN (заголовок: Leg amputation)
+  What this operation is
+ An amputation is the removal of part of a limb when it cannot be saved: for example, because of a severe infection or gangrene, often linked to diabetes or poor blood supply, or after a serious injury. The surgeon removes the damaged part, shapes the bones and covers them with muscle and skin to form a stump. The surgeon chooses the level of amputation after an assessment. The operation is done under general anaesthetic or under a spinal or epidural anaesthetic.
+   Preparation
+ If the operation is planned, you will be assessed: your heart, blood vessels, lungs and your other leg are checked. The team may discuss rehabilitation, the possibility of a prosthesis and your home situation with you. Fasting, showering and medicines follow the general leaflet "Preparing for surgery". You can ask to meet someone who has had a similar operation.
+   Medicines
+ Do not stop blood thinners or other regular medicines yourself — your doctor will tell you which ones to stop and when. Take painkillers as prescribed: some regularly, others only when needed. Before a physiotherapy session, check with your nurse in advance whether you need extra pain relief. Tell your nurse about any pain, including phantom pain.
+   Drain and wound
+ Sometimes a drain is left in — the surgeon decides. In hospital, the medical staff change the dressing. Before discharge, check who will do your dressings afterwards and when. Do not remove the dressing yourself against the instructions you were given. Non-dissolvable stitches are removed by staff, usually after two to three weeks.
+   After the operation
+  Many people feel as if the amputated leg is still there (phantom sensations). In the first months it is easy to forget that the leg is gone, especially at night. Before getting up, stop and remember this; in hospital, press the call button.
+ After a below-knee amputation, do not put a pillow under the stump and do not bend the bed under the knee — this helps keep the knee straight. In a chair, the stump rests on a special board.
+ Rehabilitation usually starts the next day: exercises in bed, then moving safely into a wheelchair. Hopping on one leg with crutches is not advised.
+ Once the wound has healed, wash the stump daily with mild unscented soap and dry it carefully; check it every day.
+ Protect your other leg, especially if you have diabetes: check your foot daily, wear comfortable shoes and see a foot specialist regularly.
+ A prosthesis is not right for everyone: it depends on healing, muscle strength and general health. Without a prosthesis, you can still become independent with a wheelchair.
+ Grief, anxiety and low mood after an amputation are a common and understandable reaction. Talk about your feelings with your family and the team; a psychologist can help.
+ From our ward, after an amputation, people are usually referred to a rehabilitation hospital.
+    When to get urgent help
+  The stump becomes red, hot or painful, the swelling increases, or there is discharge or pus from the wound — see a doctor the same day.
+ New pain or swelling in the calf of your other leg, especially on one side — get an urgent medical assessment.
+ Painkillers are not helping — tell your nurse or doctor.
+ Sudden shortness of breath or chest pain — call 101 straight away.
+ If you have thoughts of suicide or of harming yourself, tell the medical staff immediately or get urgent professional help. If there is an immediate danger to life, call 101.
+    Official sources
+   NHS — Amputation (page last reviewed 17 February 2023) 
+  Guy's and St Thomas' NHS Foundation Trust — Leg amputation: recovery after surgery (reviewed April 2024) 
+  Gloucestershire Hospitals NHS Foundation Trust — Lower limb amputation: patient passport, GHPI1405 
+  North Cumbria Integrated Care NHS — Amputee falls information 
+  Sherwood Forest Hospitals NHS — Rehabilitation following lower limb amputation (October 2024) 
+  NICE NG158 — Venous thromboembolic diseases: diagnosis, management and thrombophilia testing 
+  NHS — Where to get urgent help for mental health 
+  
