@@ -1,7 +1,7 @@
 document.documentElement.classList.add('js');
 function setL(l){document.body.className=l;var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
 document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l)});try{localStorage.lang=l}catch(e){}
-document.querySelectorAll('video:not(.hero)').forEach(function(v){if(!v.closest('[data-l='+l+']'))v.pause()});
+document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(v.preload!='metadata'&&v.preload!='auto')v.preload='metadata'}else{v.pause();if(v.networkState!=1)v.preload='none'}});
 if(window.__rv)window.__rv()}
 function seek(l,t){var v=document.getElementById('v_'+l);v.currentTime=t;v.play();return false}
 
