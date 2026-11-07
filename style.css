@@ -69,7 +69,8 @@ figcaption{font-size:13px;opacity:.72;margin-top:6px;line-height:1.45}figcaption
 video{width:100%;border-radius:14px;background:#000}
 .vsoon{background:var(--bg2);border:2px dashed #bcd9d2;border-radius:14px;padding:24px 14px;text-align:center;color:var(--ink2);font-weight:500}
 /* мягкое появление блоков (только если работает JS) */
-.js .rv{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
+/* 07.11: блоки видны сразу (без «появления при прокрутке») — пожилым не должно казаться, что страница пустая */
+.js .rv{opacity:1;transform:none}
 .js .rv.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.hero .sun,.hero .rays{animation:none}.js .rv{opacity:1;transform:none;transition:none}a.op{transition:none}}
 @media (min-width:700px){header{padding:24px 24px 26px}header h1{font-size:30px}}
