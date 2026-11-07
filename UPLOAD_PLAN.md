@@ -22,6 +22,7 @@
 | Перелом плеча у сустава | Shoulder(+…) | shoulder | ops/shoulder-fracture.html | ОДОБРЕНО 07.11 |
 | Перелом запястья | Wrist(+…) | wrist | ops/wrist-fracture.html | ОДОБРЕНО 07.11 |
 | Делирий (памятка для близких) | Delir(+…) | delir | ops/delirium.html | ОДОБРЕНО 07.11 |
+| Как не упасть | Falls(+…) | falls | ops/falls.html | ОДОБРЕНО 07.11 |
 | Лестница с тростью | clay lestwalk | — | thr/tkr блок «Лестница» | ОДОБРЕНО |
 
 Загрузка: ветка <name>-video → `python3 tools/putvid2.py <page> <vid> '{"ru":..,"he":..,"ar":..,"en":..}'` → raw-ссылка боту Настроцкп → «ОК» → ff-merge в main → чипы языков на главной и в карте сайта.

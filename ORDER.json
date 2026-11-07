@@ -15,5 +15,6 @@
  "14_amputation": "amp.json (ru, he, ar, en M01..M14) — ОДОБРЕНО 07.11",
  "15_shoulder": "shoulder.json (ru, he, ar, en U01..U13) — ОДОБРЕНО 07.11",
  "16_wrist": "wrist.json (ru, he, ar, en Z01..Z10) — ОДОБРЕНО 07.11",
- "17_delir": "delir.json (ru, he, ar, en D01..D11) — ОДОБРЕНО 07.11"
+ "17_delir": "delir.json (ru, he, ar, en D01..D11) — ОДОБРЕНО 07.11",
+ "18_falls": "falls.json (ru, he, ar, en Q01..Q11) — ОДОБРЕНО 07.11"
 }
