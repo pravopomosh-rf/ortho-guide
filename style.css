@@ -188,3 +188,16 @@ a.callbtn{display:flex;align-items:center;justify-content:center;gap:10px;margin
 a.callbtn:active{transform:scale(.98)}
 p.more{margin:12px 0 2px;padding-top:10px;border-top:1px dashed var(--line);font-size:16px;color:var(--ink2)}p.more a{font-weight:500}
 figure.steps figcaption ol{margin:8px 0 6px;padding-inline-start:24px;font-size:16px;color:var(--ink)}figure.steps figcaption ol li{margin:4px 0}
+
+/* ===== 08.11 читаемость для пожилых: мелкий текст крупнее, кнопка «назад» ≥48px, без «мерцающего» приветствия ===== */
+.back{min-height:48px;padding:8px 18px;font-size:17px;margin-bottom:12px}
+.pv{font-size:16px;line-height:1.4}
+header .d{font-size:16px}
+.herocap{font-size:16px;opacity:1}
+figcaption,.ill{font-size:15px;opacity:.9}
+.src li,.src p{font-size:16px}
+.sref,.vdur,.vnote,.vchip,.badge,a.op.topic small{font-size:15px}
+.vnote{opacity:.9}
+.welcome .hi{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:var(--teal-d);animation:hiIn .7s cubic-bezier(.2,.7,.2,1) both}
+.note p{font-size:18px}
+a.maplink{font-size:17px;min-height:48px}
