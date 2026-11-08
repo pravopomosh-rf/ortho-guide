@@ -31,7 +31,7 @@ for l in L:
     for blk in d.get('blocks', []):
         m = re.search(r'<section id="%s_%s".*?</section>' % (blk, l), s, re.S)
         if m: parts.append(m.group(0))
-    srcs = ''.join(f'<li><a href="{x["url"]}" target="_blank" rel="noopener">{e(x["t"])}</a></li>' for x in d['src'])
+    srcs = ''.join((f'<li><a href="{x["url"]}" target="_blank" rel="noopener">{e(x["t"])}</a></li>' if x.get("url") else f'<li>{e(x["t"])}</li>') for x in d['src'])
     parts.append(f'<section id="s{len(d["secs"])}_{l}"><h2>{SRC[l]}</h2><ol>{srcs}</ol></section>')
     m = re.search(r'<div data-l="%s">.*?(<div class="disc">.*?</div>)</div>' % l, s[head_end:], re.S)
     disc = re.findall(r'<div class="disc">.*?</div>', s[head_end:])[L.index(l)]
