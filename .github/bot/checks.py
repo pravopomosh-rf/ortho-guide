@@ -21,7 +21,7 @@ class P(HTMLParser):
                 self.refs.append(a[k])
         if a.get("data-l") in LANGS:
             self.langs[a["data-l"]] = self.langs.get(a["data-l"], 0) + 1
-        if tag == "img" and not a.get("alt"):
+        if tag == "img" and "alt" not in a:
             self.imgs_noalt += 1
         if tag == "title":
             self._t = True
