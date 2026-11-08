@@ -1,6 +1,6 @@
 document.documentElement.classList.add('js');
 function setL(l){document.body.className=l;var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
-document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l)});try{localStorage.lang=l}catch(e){}
+document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l);b.setAttribute('aria-pressed',b.dataset.k==l?'true':'false')});var h1=document.querySelector('header [data-l='+l+'] h1');if(h1)document.title=h1.textContent.trim();try{localStorage.lang=l}catch(e){}
 var fv=0;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(!fv&&v.preload=='none')v.preload='metadata';fv=1}else{v.pause();if(v.networkState!=1)v.preload='none'}});
 if(window.__rv)window.__rv()}
 function seek(l,t){var v=document.getElementById('v_'+l);v.currentTime=t;v.play();return false}
@@ -92,3 +92,15 @@ document.addEventListener('play',function(e){var t=e.target;if(t.tagName!='VIDEO
 
 /* 08.11: #lang=xx&to=s1 — прокрутка к разделу на нужном языке */
 (function(){var m=location.hash.match(/to=([a-z0-9]+)/);if(!m)return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById(m[1]+'_'+l);if(e)e.scrollIntoView({block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,500)})();
+
+/* 08.11 (аудит): язык меняется при ручной смене #lang= без перезагрузки */
+window.addEventListener('hashchange',function(){var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];if(q&&q!=document.body.className.split(' ')[0])setL(q)});
+/* 08.11 (аудит): «101» в тексте — кнопка звонка; в разделах тревоги — крупная красная кнопка */
+(function(){
+var CALL={ru:'Позвонить 101',he:'להתקשר ל־101',ar:'اتصلوا بـ 101',en:'Call 101'};
+function wrap(root){var w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null),list=[],n;
+while(n=w.nextNode()){if(/(^|[^\d])101([^\d]|$)/.test(n.nodeValue)&&!n.parentNode.closest('a,button,header,h1,h2,h3'))list.push(n)}
+list.forEach(function(t){var f=document.createDocumentFragment(),parts=t.nodeValue.split(/(101)/);parts.forEach(function(x,i){if(x==='101'&&!/\d$/.test(parts[i-1]||'')&&!/^\d/.test(parts[i+1]||'')){var a=document.createElement('a');a.href='tel:101';a.className='tel';a.textContent='101';f.appendChild(a)}else f.appendChild(document.createTextNode(x))});t.parentNode.replaceChild(f,t)})}
+var m=document.querySelector('main');if(!m)return;wrap(m);
+document.querySelectorAll('main section.danger').forEach(function(sec){if(!sec.querySelector('a.tel'))return;var d=sec.closest('[data-l]'),l=d?d.getAttribute('data-l'):'he';var b=document.createElement('a');b.href='tel:101';b.className='callbtn';b.innerHTML='<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg><span>'+CALL[l]+'</span>';sec.appendChild(b)});
+})();

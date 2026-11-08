@@ -179,3 +179,10 @@ a.maplink svg{width:20px;height:20px}
 @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(179,38,30,.35)}50%{box-shadow:0 0 0 10px rgba(179,38,30,0)}}
 @media (max-width:340px){.qg{grid-template-columns:1fr}}
 @media (prefers-reduced-motion:reduce){.welcome .hi,a.qa,.note,a.qa.urgent .qi{animation:none}.welcome .hi{color:var(--teal-d);background:none}}
+
+/* ===== 08.11 аудит: без JS показываем иврит; заглушки видео скрыты; кнопка 101 ===== */
+html:not(.js) [data-l=he]{display:block}
+section.vdev{display:none}
+a.tel{color:var(--red);font-weight:700;white-space:nowrap}
+a.callbtn{display:flex;align-items:center;justify-content:center;gap:10px;margin:14px 0 4px;min-height:56px;border-radius:16px;background:var(--red);color:#fff;font-weight:700;font-size:20px;text-decoration:none;box-shadow:0 6px 16px rgba(179,38,30,.25)}
+a.callbtn:active{transform:scale(.98)}
