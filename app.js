@@ -89,3 +89,6 @@ document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('vi
 
 /* 07.11: одновременно играет только одно видео */
 document.addEventListener('play',function(e){var t=e.target;if(t.tagName!='VIDEO'||t.classList.contains('hero'))return;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v!==t&&!v.paused)v.pause()})},true);
+
+/* 08.11: #lang=xx&to=s1 — прокрутка к разделу на нужном языке */
+(function(){var m=location.hash.match(/to=([a-z0-9]+)/);if(!m)return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById(m[1]+'_'+l);if(e)e.scrollIntoView({block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,500)})();
