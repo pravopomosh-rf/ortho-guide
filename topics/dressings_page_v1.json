@@ -21,10 +21,10 @@
      "en": "On our ward, the first planned dressing change is usually done about 48 hours after surgery. This is our ward's routine, not a single rule for all hospitals."
     },
     {
-     "ru": "Это соответствует требованиям Минздрава Израиля: первую повязку меняют через 24–48 часов после операции, по порядку, принятому в отделении. Американские рекомендации CDC тоже советуют защищать зашитый разрез стерильной повязкой первые 24–48 часов.",
-     "he": "זה תואם את דרישות משרד הבריאות: את החבישה הראשונה מחליפים 24 עד 48 שעות אחרי הניתוח, לפי הנוהל של המחלקה. גם ההמלצות האמריקאיות של ה־CDC ממליצות להגן על חתך תפור בחבישה סטרילית ב־24 עד 48 השעות הראשונות.",
-     "ar": "هذا يتوافق مع متطلبات وزارة الصحة الإسرائيلية: تُغيَّر الضمادة الأولى بعد 24 إلى 48 ساعة من العملية، وفق الإجراء المعتمد في القسم. كما توصي توصيات CDC الأمريكية بحماية الجرح المخيط بضمادة معقّمة خلال أول 24 إلى 48 ساعة.",
-     "en": "This matches the Israeli Ministry of Health requirement: the first dressing is changed 24–48 hours after surgery, following the ward's routine. US CDC guidance also advises protecting a stitched incision with a sterile dressing for the first 24–48 hours."
+     "ru": "Это соответствует критерию проверки Минздрава Израиля (пункт 6.3.7): первую повязку меняют через 24–48 часов согласно местному протоколу. В руководстве CDC 1999 года также рекомендовалось защищать закрытый хирургический разрез стерильной повязкой первые 24–48 часов. Это руководство впоследствии было заменено более новым.",
+     "he": "זה תואם את סעיף 6.3.7 בטופס הבקרה של משרד הבריאות: החלפת החבישה הראשונה נעשית 24 עד 48 שעות אחרי הניתוח, לפי נוהל מקומי. גם בהנחיות ה־CDC משנת 1999 הומלץ להגן על חתך ניתוחי סגור בחבישה סטרילית במשך 24 עד 48 השעות הראשונות. מאז הוחלפו הנחיות אלה בהנחיות חדשות יותר.",
+     "ar": "هذا يتوافق مع البند 6.3.7 في استمارة الرقابة التابعة لوزارة الصحة الإسرائيلية: يتم تغيير الضمادة الأولى بعد 24 إلى 48 ساعة من العملية، وفق البروتوكول المحلي. كما أوصت إرشادات CDC الصادرة عام 1999 بحماية الشق الجراحي المغلق بضمادة معقّمة خلال أول 24 إلى 48 ساعة. وقد استُبدلت تلك الإرشادات لاحقًا بإرشادات أحدث.",
+     "en": "This is consistent with section 6.3.7 of the Israeli Ministry of Health inspection checklist: the first dressing change is carried out after 24–48 hours according to the local protocol. The CDC's 1999 guideline also advised protecting a closed surgical incision with a sterile dressing for the first 24–48 hours. That guideline has since been superseded."
     },
     {
      "ru": "Раньше повязку меняют, если она сильно промокла кровью или выделениями, отклеилась или загрязнилась. Это делает медсестра.",
@@ -67,10 +67,10 @@
      "en": "After 48 hours, a clean, dry, well-closed wound usually does not need any solution: the nurse checks it and puts on a clean dressing if needed. If there is discharge or crusting, the wound may be gently cleaned with saline."
     },
     {
-     "ru": "Затем накладывают чистую стерильную повязку.",
-     "he": "אחר כך שמים חבישה סטרילית נקייה.",
-     "ar": "ثم توضع ضمادة نظيفة معقّمة.",
-     "en": "Then a clean sterile dressing is put on."
+     "ru": "Если после осмотра повязка необходима, медсестра накладывает новую стерильную повязку.",
+     "he": "אם לאחר הבדיקה יש צורך בחבישה, האחות מניחה חבישה סטרילית חדשה.",
+     "ar": "إذا كانت هناك حاجة إلى ضمادة بعد الفحص، تضع الممرضة ضمادة جديدة معقّمة.",
+     "en": "If a dressing is needed after the examination, the nurse applies a new sterile dressing."
     },
     {
      "ru": "Не трогайте шов руками, не снимайте и не поправляйте повязку сами.",
@@ -167,16 +167,16 @@
    },
    "li": [
     {
-     "ru": "Обзор Cochrane (2015): если повязку снимали в первые 48 часов или позже, частота инфекции шва достоверно не различалась. Качество данных низкое, поэтому точный срок для каждой операции определяет отделение.",
-     "he": "סקירת Cochrane (2015): לא נמצא הבדל מובהק בשיעור הזיהום בתפר בין הסרת החבישה ב־48 השעות הראשונות לבין הסרה מאוחרת יותר. איכות הנתונים נמוכה, ולכן את המועד המדויק לכל ניתוח קובעת המחלקה.",
-     "ar": "مراجعة Cochrane (2015): لم يُلاحظ فرق واضح في نسبة عدوى الجرح بين إزالة الضمادة خلال أول 48 ساعة وإزالتها لاحقًا. جودة البيانات منخفضة، لذلك يحدّد القسم الموعد الدقيق لكل عملية.",
-     "en": "A Cochrane review (2015) found no clear difference in wound infection rates whether the dressing was removed within the first 48 hours or later. The evidence is low quality, so the ward sets the exact timing for each operation."
+     "ru": "Обзор Cochrane (2015): если повязку снимали в первые 48 часов или позже, частота инфекции шва достоверно не различалась. Качество доказательств очень низкое, поэтому точный срок для каждой операции определяет отделение.",
+     "he": "סקירת Cochrane (2015): לא נמצא הבדל מובהק בשיעור הזיהום בתפר בין הסרת החבישה ב־48 השעות הראשונות לבין הסרה מאוחרת יותר. רמת הוודאות של הראיות נמוכה מאוד, ולכן את המועד המדויק לכל ניתוח קובעת המחלקה.",
+     "ar": "مراجعة Cochrane (2015): لم يُلاحظ فرق واضح في نسبة عدوى الجرح بين إزالة الضمادة خلال أول 48 ساعة وإزالتها لاحقًا. درجة اليقين في الأدلة منخفضة جدًا، لذلك يحدّد القسم الموعد الدقيق لكل عملية.",
+     "en": "A Cochrane review (2015) found no clear difference in wound infection rates whether the dressing was removed within the first 48 hours or later. The certainty of the evidence is very low, so the ward sets the exact timing for each operation."
     },
     {
-     "ru": "Обзор Cochrane (2022): чистая питьевая вода и физиологический раствор для промывания ран по частоте инфекций убедительно не различаются; данные неопределённые.",
-     "he": "סקירת Cochrane (2022): לא נמצא הבדל ברור בשיעור הזיהומים בין שטיפת פצעים במי שתייה נקיים לבין תמיסת מלח; הנתונים אינם חד־משמעיים.",
-     "ar": "مراجعة Cochrane (2022): لا يوجد فرق واضح في نسبة العدوى بين غسل الجروح بماء الشرب النظيف وبالمحلول الملحي؛ والبيانات غير حاسمة.",
-     "en": "A Cochrane review (2022) found no clear difference in infection rates between cleaning wounds with clean drinking water and with saline; the evidence is uncertain."
+     "ru": "Обзор Cochrane (2022): недостаточно надёжных доказательств, чтобы установить, различается ли риск инфекции при промывании ран питьевой водой и физиологическим раствором. Исследовались разные типы ран. Это не отменяет рекомендации использовать стерильный физиологический раствор, если требуется очищение послеоперационной раны в первые 48 часов.",
+     "he": "סקירת Cochrane משנת 2022: אין ראיות מהימנות מספיק כדי לקבוע אם הסיכון לזיהום שונה בין שטיפת פצעים במי שתייה לבין שטיפה בתמיסת מלח. הסקירה כללה סוגים שונים של פצעים. הדבר אינו משנה את ההמלצה להשתמש בתמיסת מלח סטרילית אם יש צורך לנקות את פצע הניתוח ב־48 השעות הראשונות.",
+     "ar": "مراجعة Cochrane لعام 2022: لا توجد أدلة موثوقة بما يكفي لتحديد ما إذا كان خطر العدوى يختلف بين غسل الجروح بماء الشرب وغسلها بالمحلول الملحي. شملت المراجعة أنواعًا مختلفة من الجروح. ولا يغيّر ذلك التوصية باستخدام المحلول الملحي المعقّم إذا لزم تنظيف جرح العملية خلال أول 48 ساعة.",
+     "en": "A Cochrane review (2022) found insufficient reliable evidence to determine whether infection risk differs when wounds are cleaned with drinking water or saline. The review included different types of wounds. This does not change the recommendation to use sterile saline if a surgical wound needs cleaning during the first 48 hours."
     },
     {
      "ru": "Руководства NICE и CDC не рекомендуют наносить антисептики или антибиотики на чистый зашитый шов только ради профилактики инфекции.",
