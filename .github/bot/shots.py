@@ -22,6 +22,6 @@ with sync_playwright() as pw:
             pg.evaluate(f"window.setL && setL('{l}')")
             pg.wait_for_timeout(1500)
             name = rel.replace("/", "_").replace(".html", "")
-            pg.screenshot(path=f"{OUT}/{name}_{l}.png", full_page=False)
+            pg.screenshot(path=f"{OUT}/{name}_{l}.png", full_page=True)
     b.close()
 print("shots:", pick)
