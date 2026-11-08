@@ -29,7 +29,7 @@ jobs:
         id: agent
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          BOT_BUDGET_USD: "2.0"
+          BOT_BUDGET_USD: "1.5"
         run: python .github/bot/run_agent.py
       - name: Guard (no text/media changes)
         run: python .github/bot/guard.py
