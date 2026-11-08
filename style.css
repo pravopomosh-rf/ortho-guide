@@ -186,3 +186,4 @@ section.vdev{display:none}
 a.tel{color:var(--red);font-weight:700;white-space:nowrap}
 a.callbtn{display:flex;align-items:center;justify-content:center;gap:10px;margin:14px 0 4px;min-height:56px;border-radius:16px;background:var(--red);color:#fff;font-weight:700;font-size:20px;text-decoration:none;box-shadow:0 6px 16px rgba(179,38,30,.25)}
 a.callbtn:active{transform:scale(.98)}
+p.more{margin:12px 0 2px;padding-top:10px;border-top:1px dashed var(--line);font-size:16px;color:var(--ink2)}p.more a{font-weight:500}
