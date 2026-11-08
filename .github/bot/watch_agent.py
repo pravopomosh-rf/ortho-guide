@@ -9,8 +9,8 @@ B = os.path.join(ROOT, ".github/bot")
 topics = []
 for p in sorted(glob.glob(f"{ROOT}/ops/*.html")):
     h = open(p, encoding="utf-8").read()
-    m = re.search(r'data-l="ru"[^>]*>\s*(?:<[^>]+>\s*)*([^<]{3,120})', h)
-    topics.append(f"- {os.path.basename(p)}: {m.group(1).strip() if m else ''}")
+    hs = re.findall(r'<h1[^>]*>([^<]+)', h)
+    topics.append(f"- {os.path.basename(p)}: {' / '.join(x.strip() for x in hs[:4:3])}")
 open(f"{B}/topics.md", "w", encoding="utf-8").write("\n".join(topics) + "\n")
 
 pages = sorted(p for p in glob.glob(f"{ROOT}/ops/*.html") if "sitemap" not in p)
