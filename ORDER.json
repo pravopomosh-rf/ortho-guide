@@ -28,5 +28,7 @@
  "25_drain": "drain.json (ru, he, ar, en DR01..DR11) — ОДОБРЕНО 09.11 (RU v2 + переводы + доп. DR10 кровотечение)",
  "26_spinimp": "spinimp.json (ru, he, ar, en SI01..SI11) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками)",
  "27_tibplat": "tibplat.json (ru, he, ar, en TP01..TP12) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками; номер 101)",
- "28_ksept": "ksept.json (ru, he, ar, en KS01..KS08) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками)"
+ "28_ksept": "ksept.json (ru, he, ar, en KS01..KS08) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками)",
+ "29_dress": "dress.json (ru, he, ar, en PV01..PV12) — ОДОБРЕНО 09.11 (RU v2 + переводы с 6 правками + рисунки)",
+ "30_stage": "stage.json (ru, he, ar, en ST01..ST12) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками + рисунки)"
 }
