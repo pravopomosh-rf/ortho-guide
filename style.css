@@ -201,3 +201,12 @@ figcaption,.ill{font-size:15px;opacity:.9}
 .welcome .hi{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:var(--teal-d);animation:hiIn .7s cubic-bezier(.2,.7,.2,1) both}
 .note p{font-size:18px}
 a.maplink{font-size:17px;min-height:48px}
+/* Главная: фон шапки — рисованный коридор отделения (09.11.2026) */
+.home header{background:#155f57}
+.home header::before{inset:-4%;width:auto;height:auto;border-radius:0;background:#16655c url(media/img/corridor.svg) center top/max(100%,560px) auto no-repeat;animation:corz 26s ease-in-out infinite alternate;z-index:0}
+.home header::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,60,55,.18) 0%,rgba(14,74,67,.38) 150px,rgba(20,96,86,.9) 290px,rgba(21,98,88,.97) 100%);z-index:0;pointer-events:none}
+.home header>*{position:relative;z-index:1}
+.home header h1,.home header .d,.home header p{text-shadow:0 1px 3px rgba(0,0,0,.55),0 0 14px rgba(0,0,0,.35)}
+@keyframes corz{from{transform:scale(1)}to{transform:scale(1.07)}}
+@media (prefers-reduced-motion:reduce){.home header::before{animation:none}}
+@media (min-width:700px){.home header::before{background-position:center calc(150px - 27.8vw)}}
