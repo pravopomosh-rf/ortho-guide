@@ -8,7 +8,7 @@ amp ×4, arth ×4, ankle ×4, o2 ×4, kyph ×4, thr2v ×4, TKR, THR, лестн�
 fusion, enox, osteo, postop, wait, ward, acdf, shoulder, wrist, delir, falls, pain, press, breath, walker, swell, logroll; first («Первые часы»); anterior HE/AR/EN; preop AR (пересобрать).
 
 ## B2. Новые темы 09.11 — ВИДЕО ×4 ГОТОВО, ждут озвучки
-drain (Дренаж), spinimp (Импланты позвоночника), tibplat (Плато, Шацкер), ksept (Хлорные повязки) — тексты, переводы, экранные надписи и рисунки ОДОБРЕНЫ ChatGPT; ORDER 25–28.
+drain (Дренаж), spinimp (Импланты позвоночника), tibplat (Плато, Шацкер), ksept (Хлорные повязки), dress (Перевязка), stage (Этапное лечение), dura (Дуротомия) — тексты, переводы, экранные надписи и рисунки ОДОБРЕНЫ ChatGPT; ORDER 25–28.
 
 ## C. НОВЫЕ темы (нет видео) — порядок производства
 1. Дренажи (נקז): виды, уход, когда сообщить, удаление — сценарий drain v1 (09.11).

@@ -30,5 +30,6 @@
  "27_tibplat": "tibplat.json (ru, he, ar, en TP01..TP12) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками; номер 101)",
  "28_ksept": "ksept.json (ru, he, ar, en KS01..KS08) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками)",
  "29_dress": "dress.json (ru, he, ar, en PV01..PV12) — ОДОБРЕНО 09.11 (RU v2 + переводы с 6 правками + рисунки)",
- "30_stage": "stage.json (ru, he, ar, en ST01..ST12) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками + рисунки)"
+ "30_stage": "stage.json (ru, he, ar, en ST01..ST12) — ОДОБРЕНО 09.11 (RU v2 + переводы с правками + рисунки)",
+ "31_dura": "dura.json (ru, he, ar, en DU01..DU11) — ОДОБРЕНО 09.11 (RU v2 3 правки + переводы 6 правок + рисунки)"
 }
