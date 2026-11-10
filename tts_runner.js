@@ -1,7 +1,7 @@
 // AI Studio TTS runner (Charon). Вставлять в вкладку aistudio.google.com/u/N/generate-speech через javascript_tool.
 // 1) setup: Create new dialog -> Speaker 1 -> поиск Charon -> карточка -> close
 // 2) runQ(topic, keys): текст из tts-data/<topic>.json, принимать клип только если data:audio > 20 КБ и src не меняется 6 с; лог window.jobLog, ошибка квоты -> window.jobErr
-// 3) mkSave(): кнопка-оверлей на весь экран (скрыть .cdk-overlay-container), реальный клик computer -> файл JSON {topic/lang_ID: dataURL} в ~/Downloads
+// 3) mkSave(): программный клик по ссылке-blob (лучше в Playwright: page.waitForEvent('download') → saveAs в Загрузки); confirmSaved(name) — только после проверки файла
 // СОХРАНЯТЬ ПОСЛЕ КАЖДЫХ 3–4 КЛИПОВ (вкладка падает от памяти). Распаковка: unpack.py -> lam/r/public/aud/<topic>/<lang>/<ID>.wav
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 window.setupCharon=async function(){
@@ -31,8 +31,9 @@ window.runQ=async function(topic,keys){ window.jobDone=false;
  window.jobDone=true; };
 window.mkSave=function(acct){ window._batchN++; const keys=Object.keys(window._aud).filter(k=>!window._saved[k]); const obj={}; keys.forEach(k=>obj[k]=window._aud[k]);
  const name='tts_'+acct+'_b'+String(window._batchN).padStart(2,'0')+'.json';
- const b=document.createElement('a'); b.href=URL.createObjectURL(new Blob([JSON.stringify(obj)],{type:'application/json'})); b.download=name; b.id='savebtn'; b.textContent='SAVE '+name;
- b.style.cssText='position:fixed;inset:0;z-index:2147483647;background:rgba(0,120,0,.6);color:#fff;font-size:40px;display:flex;align-items:center;justify-content:center';
- document.querySelectorAll('.cdk-overlay-container').forEach(e=>e.style.display='none');
- b.onclick=()=>{setTimeout(()=>{b.remove();document.querySelectorAll('.cdk-overlay-container').forEach(e=>e.style.display='');},500); keys.forEach(k=>{window._saved[k]=1; delete window._aud[k];});};
- document.body.appendChild(b); return name+' '+keys.length; };
+ window._pending=window._pending||{}; window._pending[name]=keys;
+ const b=document.createElement('a'); b.href=URL.createObjectURL(new Blob([JSON.stringify(obj)],{type:'application/json'})); b.download=name; b.className='savebtn'; b.textContent='SAVE '+name;
+ b.style.cssText='position:fixed;left:0;top:0;width:10px;height:10px;opacity:0;z-index:2147483647';
+ document.body.appendChild(b); b.click(); return name+' '+keys.length; };
+// удалить из памяти только после проверки, что файл лёг в Загрузки
+window.confirmSaved=function(name){ (window._pending[name]||[]).forEach(k=>{window._saved[k]=1; delete window._aud[k];}); delete window._pending[name]; document.querySelectorAll('a.savebtn').forEach(a=>{if(a.download===name)a.remove()}); return name+' ok'; };
