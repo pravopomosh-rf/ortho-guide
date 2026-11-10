@@ -1,0 +1,29 @@
+Новая задача: 2 страницы сайта для пациентов из ТЕКСТОВ ОЗВУЧКИ, которые ты ОДОБРИЛ 09.11 (achil и dura — тексты дословно те же, по абзацу на клип; клип «Главное» заменён стандартной плашкой). Новое только: 1) заголовки страниц на 4 языках; 2) заголовки разделов (это заголовки сцен ролика, тоже уже были у тебя); 3) список источников. Проверь заголовки страниц, переводы заголовков разделов и годятся ли источники (открой ссылки). Ответ кратко: «ОДОБРЕНО» или «было → стало».
+
+=== achil ===
+TITLE: Шов ахиллова сухожилия | תפירת גיד אכילס | خياطة وتر أخيل | Achilles tendon repair
+H: Ахиллово сухожилие | גיד אכילס | وتر أخيل | The Achilles tendon
+H: Разрыв | הקרע | التمزّق | The rupture
+H: Операция | הניתוח | العملية | The operation
+H: После операции | אחרי הניתוח | بعد العملية | After surgery
+H: Нагрузка | דריכה על הרגל | تحميل الوزن | Putting weight on
+H: Отёк | נפיחות | التورّم | Swelling
+H: Рана | הפצע | الجرح | The wound
+H: Когда обращаться | מתי לפנות | متى تراجعون | When to get help
+H: Тромбы | קרישי דם | الجلطات | Blood clots
+H: Повторный разрыв | קרע חוזר | تمزّق متكرّر | Re-rupture
+H: Восстановление | החלמה | التعافي | Recovery
+SRC: AAOS OrthoInfo — Achilles Tendon Rupture (Tear) https://orthoinfo.aaos.org/en/diseases--conditions/achilles-tendon-rupture-tear/; StatPearls (NCBI Bookshelf) — Achilles Tendon Rupture https://www.ncbi.nlm.nih.gov/books/NBK430844/
+=== dura ===
+TITLE: Надрыв оболочки спинного мозга при операции на позвоночнике (дуротомия) | קרע בקרום חוט השדרה בניתוח בעמוד השדרה (דורוטומיה) | تمزّق غشاء الحبل الشوكي أثناء عملية العمود الفقري (بَضْع الجافية) | Tear of the spinal cord membrane during spine surgery (durotomy)
+H: Оболочка вокруг нервов | הקרום שעוטף את העצבים | الغشاء المحيط بالأعصاب | The membrane around the nerves
+H: Что случилось | מה קרה | ماذا حدث | What happened
+H: Чем это грозит | מה הסיכון | ما الخطر | What it can cause
+H: Режим — решает хирург | המנתח מחליט על השגרה | الجرّاح يقرّر النظام | The surgeon decides
+H: Если нужно лежать | אם צריך לשכב | إذا كان عليكم الاستلقاء | If you must lie flat
+H: Головная боль | כאב ראש | الصداع | Headache
+H: Рана и дренаж | הפצע והנקז | الجرح والتصريف | Wound and drain
+H: Без натуживания | בלי להתאמץ | دون إجهاد | No straining
+H: Срочно | דחוף | عاجل | Urgent
+H: Дома | בבית | في البيت | At home
+SRC: AO Spine — Incidental lumbar durotomy (Clinical Expert Advice Forum) https://www.aofoundation.org/spine/about-aospine/blog/2022_07-blog-incidental-lumbar-durotomy-part-1; Incidental durotomy in spine surgery: management (PMC10362543) https://pmc.ncbi.nlm.nih.gov/articles/PMC10362543
