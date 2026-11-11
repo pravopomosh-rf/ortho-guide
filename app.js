@@ -107,8 +107,8 @@ document.querySelectorAll('main section.danger').forEach(function(sec){if(!sec.q
 /* фото страницы: шапка с фото, фото-обложка, прозрачный фон разделов, плавное появление */
 (function(){
 var pg=(location.pathname.match(/ops\/([a-z0-9-]+)\.html/)||[])[1];if(!pg||pg=='sitemap')return;
-var OWN=/*OWN*/[];
-var SEC={'thr':'sec_hip','thr-anterior':'sec_hip','hip-fracture':'sec_hip','tkr':'sec_knee','knee-arthroscopy':'sec_sport','rotator-cuff':'sec_fx','ankle-fracture':'sec_sport','amputation':'sec_sport','laminectomy':'sec_spine','fusion-discectomy':'sec_spine','kyphoplasty':'sec_spine','oxygen-sleep':'sec_after','enoxaparin-injections':'sec_home','preop':'sec_preop'};
+var OWN=['achilles-repair','after-surgery','breathing','cellulitis','cpe-vre','delirium','diabetic-foot','dressings','durotomy','falls','log-roll','osteosynthesis','pain','postop','pressure-sores','purulent-infection','shoulder-fracture','spine-other','swelling','thr-home','walker','why-wait','wrist-fracture'];
+var SEC={'thr':'sec_hip','thr-anterior':'sec_hip','hip-fracture':'sec_hip','tkr':'sec_knee','knee-arthroscopy':'sec_sport','rotator-cuff':'p/sec_arm','ankle-fracture':'p/sec_leg','amputation':'p/sec_leg','laminectomy':'sec_spine','fusion-discectomy':'sec_spine','kyphoplasty':'sec_spine','oxygen-sleep':'sec_after','enoxaparin-injections':'sec_home','preop':'sec_preop'};
 var f=OWN.indexOf(pg)>=0?'p/'+pg:SEC[pg];if(!f)return;
 var u='../media/img/'+f+'.webp';
 document.body.style.setProperty('--ph','url("'+new URL(u,location.href).href+'")');document.body.classList.add('hasph');
