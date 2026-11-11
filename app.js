@@ -104,3 +104,15 @@ list.forEach(function(t){var f=document.createDocumentFragment(),parts=t.nodeVal
 var m=document.querySelector('main');if(!m)return;wrap(m);
 document.querySelectorAll('main section.danger').forEach(function(sec){if(!sec.querySelector('a.tel'))return;var d=sec.closest('[data-l]'),l=d?d.getAttribute('data-l'):'he';var b=document.createElement('a');b.href='tel:101';b.className='callbtn';b.innerHTML='<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg><span>'+CALL[l]+'</span>';sec.appendChild(b)});
 })();
+/* фото страницы: шапка с фото, фото-обложка, прозрачный фон разделов, плавное появление */
+(function(){
+var pg=(location.pathname.match(/ops\/([a-z0-9-]+)\.html/)||[])[1];if(!pg||pg=='sitemap')return;
+var OWN=/*OWN*/[];
+var SEC={'thr':'sec_hip','thr-anterior':'sec_hip','hip-fracture':'sec_hip','tkr':'sec_knee','knee-arthroscopy':'sec_sport','rotator-cuff':'p/sec_arm','ankle-fracture':'p/sec_leg','amputation':'p/sec_leg','laminectomy':'sec_spine','fusion-discectomy':'sec_spine','kyphoplasty':'sec_spine','oxygen-sleep':'sec_after','enoxaparin-injections':'sec_home','preop':'sec_preop'};
+var f=OWN.indexOf(pg)>=0?'p/'+pg:SEC[pg];if(!f)return;
+var u='../media/img/'+f+'.webp';
+document.body.style.setProperty('--ph','url("'+new URL(u,location.href).href+'")');document.body.classList.add('hasph');
+var h=document.querySelector('header');if(h)h.classList.add('ph');
+document.querySelectorAll('main>[data-l]').forEach(function(d){var fig=document.createElement('div');fig.className='phero';fig.innerHTML='<img src="'+u+'" alt="" width="1200" height="800" decoding="async">';d.prepend(fig)});
+if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('main section').forEach(function(s){s.classList.add('rv');io.observe(s)})}
+})();

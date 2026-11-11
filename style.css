@@ -227,3 +227,29 @@ a.totop{display:inline-block;margin-top:12px;color:var(--teal-d);font-size:15px;
 @media(min-width:760px){.pg{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:340px){.pg{grid-template-columns:1fr}}
 .regh .ic{display:none}
+/* фото страницы */
+header.ph{background:linear-gradient(160deg,rgba(17,84,77,.93) 0%,rgba(28,111,102,.86) 55%,rgba(31,120,103,.80) 100%),var(--ph) center 30%/cover}
+.phero{margin:16px 0 4px;border-radius:24px;overflow:hidden;box-shadow:var(--shadow);aspect-ratio:16/9;animation:phIn .8s cubic-bezier(.2,.7,.2,1) both}
+.phero img{width:100%;height:100%;object-fit:cover;display:block;animation:kb 18s ease-in-out infinite alternate}
+@keyframes phIn{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
+@keyframes kb{from{transform:scale(1)}to{transform:scale(1.07)}}
+body.hasph main section:not(.danger):not(.warn):not(.vtop){background:linear-gradient(rgba(255,255,255,.93),rgba(255,255,255,.96)),var(--ph) center/cover}
+main section.rv{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
+main section.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.phero,.phero img{animation:none}}
+/* карта тела на главной */
+.bmap{margin:10px 0 6px;background:radial-gradient(120% 90% at 50% 0%,#ffffff 0%,#f1f8f6 60%,#e7f3ef 100%);border:1px solid var(--line);border-radius:26px;box-shadow:var(--shadow);padding:14px 10px 6px;text-align:center;overflow:hidden}
+.bmq{text-align:center;justify-content:center;font-size:20px;margin:2px 0 0;color:var(--teal-d)}
+.bmap svg{width:100%;max-width:420px;height:auto;display:block;margin:0 auto}
+.bmap .fig{animation:fl 6s ease-in-out infinite}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.bmap .spl{animation:sp 3s linear infinite}
+@keyframes sp{to{stroke-dashoffset:-18}}
+.bmap .hs{cursor:pointer}
+.bmap .dt{fill:#e98a6e;stroke:#fff;stroke-width:3}
+.bmap .rg{fill:none;stroke:#e98a6e;stroke-width:2.5;transform-box:fill-box;transform-origin:center;animation:rg 2.7s ease-out infinite;animation-delay:var(--d)}
+@keyframes rg{0%{opacity:.9;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.8)}}
+.bmap text{font:700 15px/1 inherit;fill:var(--ink);paint-order:stroke;stroke:#fff;stroke-width:5px;stroke-linejoin:round}
+.bmap .hs:hover .dt,.bmap .hs:focus .dt{fill:var(--teal)}
+@media (prefers-reduced-motion:reduce){.bmap .fig,.bmap .spl,.bmap .rg{animation:none}}
+a.pc .th img.ph{object-position:center}
