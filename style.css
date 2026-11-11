@@ -253,3 +253,7 @@ main section.rv.in{opacity:1;transform:none}
 .bmap .hs:hover .dt,.bmap .hs:focus .dt{fill:var(--teal)}
 @media (prefers-reduced-motion:reduce){.bmap .fig,.bmap .spl,.bmap .rg{animation:none}}
 a.pc .th img.ph{object-position:center}
+/* 11.11 читаемость: карточки, чипы, ссылки ≥48px */
+a.pc .pt{font-size:17px}
+a.pc .chip{font-size:15px;padding:4px 12px}
+a.totop{display:inline-flex;align-items:center;min-height:48px;font-size:16px}
