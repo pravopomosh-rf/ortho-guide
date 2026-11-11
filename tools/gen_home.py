@@ -26,9 +26,9 @@ SEC = [
   {'ru': 'Тазобедренный сустав', 'he': 'מפרק הירך', 'ar': 'مفصل الورك', 'en': 'Hip'}),
  ('knee', 'sec_knee', ['tkr', 'knee-arthroscopy'], None,
   {'ru': 'Коленный сустав', 'he': 'מפרק הברך', 'ar': 'مفصل الركبة', 'en': 'Knee'}),
- ('arm', 'sec_fx', ['rotator-cuff', 'shoulder-fracture', 'wrist-fracture', 'osteosynthesis'], None,
+ ('arm', 'p/sec_arm' if os.path.exists('media/img/p/sec_arm.webp') else 'sec_fx', ['rotator-cuff', 'shoulder-fracture', 'wrist-fracture', 'osteosynthesis'], None,
   {'ru': 'Плечо и рука', 'he': 'כתף ויד', 'ar': 'الكتف واليد', 'en': 'Shoulder and arm'}),
- ('leg', 'sec_sport', ['ankle-fracture', 'achilles-repair', 'diabetic-foot', 'amputation', 'osteosynthesis'], None,
+ ('leg', 'p/sec_leg' if os.path.exists('media/img/p/sec_leg.webp') else 'sec_sport', ['ankle-fracture', 'achilles-repair', 'diabetic-foot', 'amputation', 'osteosynthesis'], None,
   {'ru': 'Голень, лодыжка и стопа', 'he': 'שוק, קרסול וכף רגל', 'ar': 'الساق والكاحل والقدم', 'en': 'Lower leg, ankle and foot'}),
  ('spine', 'sec_spine', ['laminectomy', 'fusion-discectomy', 'kyphoplasty', 'spine-other', 'durotomy', 'log-roll'], None,
   {'ru': 'Позвоночник', 'he': 'עמוד השדרה', 'ar': 'العمود الفقري', 'en': 'Spine'}),
@@ -69,16 +69,45 @@ def card(page, L, sec):
         th = '<span class="th"><img loading="lazy" decoding="async" src="%s" width="720" height="1280" alt=""></span>' % p
         chip = '<span class="chip v">%s</span>' % UI['vid'][L]
         cls = 'pc vd'
+    elif os.path.exists('media/img/p/%s.webp' % page):
+        th = '<span class="th"><img class="ph" loading="lazy" decoding="async" src="media/img/p/%s.webp" width="1200" height="800" alt=""></span>' % page
+        chip = '<span class="chip">%s</span>' % UI['txt'][L]
+        cls = 'pc'
     else:
         th = '<span class="th tx">%s</span>' % SVG_DOC
         chip = '<span class="chip">%s</span>' % UI['txt'][L]
         cls = 'pc'
     return '<a class="%s" href="%s">%s<span class="pt">%s</span>%s</a>' % (cls, href, th, title, chip)
 
+
+BM = {'q': {'ru': 'Где болит? Нажмите на сустав', 'he': 'איפה כואב? לחצו על המפרק', 'ar': 'أين الألم؟ اضغطوا على المفصل', 'en': 'Where does it hurt? Tap a joint'},
+ 'pts': [('arm',136,86,'r',{'ru':'Плечо','he':'כתף','ar':'الكتف','en':'Shoulder'}),
+         ('arm',45,208,'l',{'ru':'Запястье','he':'שורש היד','ar':'الرسغ','en':'Wrist'}),
+         ('spine',100,128,'r',{'ru':'Позвоночник','he':'עמוד השדרה','ar':'العمود الفقري','en':'Spine'}),
+         ('hip',115,190,'r',{'ru':'Бедро','he':'ירך','ar':'الورك','en':'Hip'}),
+         ('knee',81,268,'l',{'ru':'Колено','he':'ברך','ar':'الركبة','en':'Knee'}),
+         ('leg',121,334,'r',{'ru':'Лодыжка','he':'קרסול','ar':'الكاحل','en':'Ankle'})]}
+def bodymap(L):
+    g=['<div class="bmap"><h2 class="bmq">%s</h2><svg viewBox="-85 0 370 360" direction="ltr" role="img" aria-label="%s">' % (BM['q'][L],BM['q'][L]),
+       '<defs><linearGradient id="bg_%s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe3dc"/><stop offset="1" stop-color="#8fcac0"/></linearGradient></defs>' % L,
+       '<g class="fig" fill="none" stroke="url(#bg_%s)" stroke-linecap="round" stroke-linejoin="round">' % L,
+       '<circle cx="100" cy="36" r="21" fill="url(#bg_%s)" stroke="none"/>' % L,
+       '<path d="M100 58v14" stroke-width="14"/>',
+       '<path d="M74 76Q100 68 126 76Q140 80 140 94L132 140Q128 160 128 186Q100 198 72 186Q72 160 68 140L60 94Q60 80 74 76Z" fill="url(#bg_%s)" stroke="none"/>' % L,
+       '<path d="M68 88L54 150L46 206M132 88L146 150L154 206" stroke-width="14"/><circle cx="45" cy="216" r="8" fill="#a9d6ce" stroke="none"/><circle cx="155" cy="216" r="8" fill="#a9d6ce" stroke="none"/>',
+       '<path d="M86 180L82 268L80 334M114 180L118 268L120 334" stroke-width="19"/><path d="M80 344h-12M120 344h12" stroke-width="10" stroke="#8fcac0"/>',
+       '<path class="spl" d="M100 84V182" stroke="#fff" stroke-width="3" stroke-dasharray="2 7"/></g>']
+    for i,(k,x,y,side,lab) in enumerate(BM['pts']):
+        tx = x+22 if side=='r' else x-22
+        anc = 'start' if side=='r' else 'end'
+        g.append('<a href="#r_%s_%s" class="hs" style="--d:%ss"><circle class="rg" cx="%d" cy="%d" r="9"/><circle class="dt" cx="%d" cy="%d" r="7"/><text x="%d" y="%d" text-anchor="%s">%s</text></a>' % (k,L,i*0.45,x,y,x,y,tx,y+5,anc,lab[L]))
+    g.append('</svg></div>')
+    return ''.join(g)
+
 out = {}
 for L in LANGS:
     h = ['<div data-l="%s">' % L, '<p class="hi2">%s</p>' % UI['hi'][L],
-         '<div class="cards" id="top_%s"><h2 class="cardsh">%s</h2><p class="hint">%s</p><div class="cg">' % (L, UI['choose'][L], UI['hint'][L])]
+         bodymap(L), '<div class="cards" id="top_%s"><h2 class="cardsh">%s</h2><p class="hint">%s</p><div class="cg">' % (L, UI['choose'][L], UI['hint'][L])]
     for key, img, pages, sub, name in SEC:
         h.append('<a class="card" href="#r_%s_%s"><img loading="lazy" decoding="async" src="media/img/%s.webp" width="900" height="600" alt=""><span>%s</span></a>' % (key, L, img, name[L]))
     h.append('</div><p class="ill">%s</p></div>' % UI['ill'][L])
