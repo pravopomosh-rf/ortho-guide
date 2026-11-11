@@ -26,7 +26,7 @@ SEC = [
   {'ru': 'Тазобедренный сустав', 'he': 'מפרק הירך', 'ar': 'مفصل الورك', 'en': 'Hip'}),
  ('knee', 'sec_knee', ['tkr', 'knee-arthroscopy'], None,
   {'ru': 'Коленный сустав', 'he': 'מפרק הברך', 'ar': 'مفصل الركبة', 'en': 'Knee'}),
- ('arm', 'p/sec_arm' if os.path.exists('media/img/p/sec_arm.webp') else 'sec_fx', ['rotator-cuff', 'shoulder-fracture', 'wrist-fracture', 'osteosynthesis'], None,
+ ('arm', 'p/sec_arm' if os.path.exists('media/img/p/sec_arm.webp') else 'sec_fx', ['rotator-cuff', 'shoulder-replacement', 'shoulder-fracture', 'wrist-fracture', 'osteosynthesis'], None,
   {'ru': 'Плечо и рука', 'he': 'כתף ויד', 'ar': 'الكتف واليد', 'en': 'Shoulder and arm'}),
  ('leg', 'p/sec_leg' if os.path.exists('media/img/p/sec_leg.webp') else 'sec_sport', ['ankle-fracture', 'achilles-repair', 'diabetic-foot', 'amputation', 'osteosynthesis'], None,
   {'ru': 'Голень, лодыжка и стопа', 'he': 'שוק, קרסול וכף רגל', 'ar': 'الساق والكاحل والقدم', 'en': 'Lower leg, ankle and foot'}),

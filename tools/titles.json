@@ -220,5 +220,11 @@
   "he": "למה לא כדאי להישאר שנים ללא טיפול בכאב במפרק",
   "ar": "لماذا لا ينبغي ترك ألم المفصل من دون علاج لسنوات",
   "en": "Why you should not live with joint pain without help for years"
+ },
+ "shoulder-replacement": {
+  "ru": "Эндопротезирование плечевого сустава",
+  "he": "החלפת מפרק הכתף",
+  "ar": "استبدال مفصل الكتف",
+  "en": "Shoulder replacement"
  }
 }
