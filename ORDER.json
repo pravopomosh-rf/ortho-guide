@@ -34,5 +34,6 @@
  "31_dura": "dura.json (ru, he, ar, en DU01..DU11) — ОДОБРЕНО 09.11 (RU v2 3 правки + переводы 6 правок + рисунки)",
  "32_achil": "achil.json (ru, he, ar, en AC01..AC12) — ОДОБРЕНО 09.11 (RU v2 7 правок + переводы 4 правки + рисунки)",
  "33_cuff": "cuff.json (ru, he, ar, en RC01..RC12) — ОДОБРЕНО ChatGPT 10.11 (RU 4 правки, переводы 3 правки)",
- "_hirurg": "11.11 RU-тексты osteo/wait/acdf/shoulder/wrist/drain/spinimp/tibplat/stage/dura/achil: «хирург» → «травматолог-ортопед»/«спинальный хирург — ортопед или нейрохирург»/«лечащий врач» — ОДОБРЕНО ChatGPT (hirurg_check.txt). Уже озвученные arth/ankle/fusion/cuff не трогали."
+ "_hirurg": "11.11 RU-тексты osteo/wait/acdf/shoulder/wrist/drain/spinimp/tibplat/stage/dura/achil: «хирург» → «травматолог-ортопед»/«спинальный хирург — ортопед или нейрохирург»/«лечащий врач» — ОДОБРЕНО ChatGPT (hirurg_check.txt). Уже озвученные arth/ankle/fusion/cuff не трогали.",
+ "34_shrepl": "shrepl.json (ru SP01..SP12) — пакет ChatGPT 11.11 DRAFT_v1, проверен Claude по AAOS/NHS (ОДОБРЕНО ChatGPT задача 2 = его авторство; моя проверка — замечаний нет). Переводы HE/AR/EN запрошены 11.11. Страница ops/shoulder-replacement.html — текст страницы в ответе ChatGPT 11.11 16:57."
 }
