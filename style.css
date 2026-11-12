@@ -253,3 +253,11 @@ main section.rv.in{opacity:1;transform:none}
 .bmap .hs:hover .dt,.bmap .hs:focus .dt{fill:var(--teal)}
 @media (prefers-reduced-motion:reduce){.bmap .fig,.bmap .spl,.bmap .rg{animation:none}}
 a.pc .th img.ph{object-position:center}
+/* 12.11 читаемость: подписи карточек и мелкий текст крупнее */
+a.pc .pt{font-size:17px;line-height:1.35}
+a.pc .chip{font-size:15px;padding:4px 11px}
+a.totop{display:inline-flex;align-items:center;min-height:48px;font-size:16px}
+.pv{font-size:17px}
+figcaption,.ill{font-size:16px}
+.bmap text{font-size:17px}
+a.pc .th img{background:var(--bg2)}
