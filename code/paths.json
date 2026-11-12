@@ -1,0 +1,60 @@
+{
+ "spine": {
+  "slug": "spine-path",
+  "section": "spine",
+  "steps": [
+   ["preop"],
+   ["laminectomy", "fusion-discectomy", "kyphoplasty", "spine-other"],
+   ["log-roll", "pain", "breathing", "oxygen-sleep", "falls", "walker", "delirium", "dressings", "durotomy"],
+   ["after-surgery", "postop", "enoxaparin-injections"]
+  ],
+  "ru": {
+   "title": "Операция на позвоночнике: всё по порядку",
+   "lead": "Четыре шага — от подготовки до возвращения домой. Откройте нужный шаг.",
+   "btn": "Операция на позвоночнике — всё по порядку",
+   "btn_sub": "Подготовка → операция → после операции → дома",
+   "steps": [
+    {"h": "Подготовка к операции"},
+    {"h": "Ваша операция", "hint": "Выберите свою операцию. Если не знаете её название, спросите лечащего врача или медсестру."},
+    {"h": "Первые дни после операции в отделении", "hint": "Памятку о дуротомии читайте, только если врач сказал вам о ней."},
+    {"h": "Выписка и дома"}
+   ]
+  },
+  "he": {
+   "title": "ניתוח בעמוד השדרה: הכול לפי הסדר",
+   "lead": "ארבעה שלבים, מההכנה ועד החזרה הביתה. פתחו את השלב שאתם צריכים.",
+   "btn": "ניתוח בעמוד השדרה: הכול לפי הסדר",
+   "btn_sub": "הכנה ← ניתוח ← אחרי הניתוח ← בבית",
+   "steps": [
+    {"h": "הכנה לניתוח"},
+    {"h": "הניתוח שלכם", "hint": "בחרו את הניתוח שלכם. אם אינכם יודעים את שמו, שאלו את הרופא המטפל או את האחות."},
+    {"h": "הימים הראשונים אחרי הניתוח במחלקה", "hint": "את הדף על דורוטומיה קראו רק אם הרופא סיפר לכם עליה."},
+    {"h": "שחרור ובבית"}
+   ]
+  },
+  "ar": {
+   "title": "عملية في العمود الفقري: كل شيء بالترتيب",
+   "lead": "أربع خطوات، من التحضير حتى العودة إلى البيت. افتحوا الخطوة التي تحتاجونها.",
+   "btn": "عملية في العمود الفقري: كل شيء بالترتيب",
+   "btn_sub": "التحضير ← العملية ← بعد العملية ← في البيت",
+   "steps": [
+    {"h": "التحضير للعملية"},
+    {"h": "عمليتكم", "hint": "اختاروا عمليتكم. وإذا كنتم لا تعرفون اسمها، فاسألوا الطبيب المعالج أو الممرضة."},
+    {"h": "الأيام الأولى بعد العملية في القسم", "hint": "اقرؤوا صفحة تمزّق الأم الجافية فقط إذا أخبركم الطبيب بذلك."},
+    {"h": "الخروج من المستشفى وفي البيت"}
+   ]
+  },
+  "en": {
+   "title": "Spinal surgery: everything in order",
+   "lead": "Four steps, from getting ready to going home. Open the step you need.",
+   "btn": "Spinal surgery: everything in order",
+   "btn_sub": "Preparation → surgery → after surgery → at home",
+   "steps": [
+    {"h": "Getting ready for surgery"},
+    {"h": "Your operation", "hint": "Choose your operation. If you don't know its name, ask your doctor or nurse."},
+    {"h": "The first days after surgery on the ward", "hint": "Read the page about a dural tear only if your doctor has told you about it."},
+    {"h": "Discharge and at home"}
+   ]
+  }
+ }
+}
