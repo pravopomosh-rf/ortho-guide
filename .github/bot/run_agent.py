@@ -21,6 +21,9 @@ async def main():
                        "Bash(python3 .github/bot/checks.py)"],
         disallowed_tools=["WebFetch", "WebSearch"],
         setting_sources=[],
+        # 13.11: run crashed with "JSON message exceeded maximum buffer size
+        # of 1048576 bytes" (Read of an image returns large base64).
+        max_buffer_size=16 * 1024 * 1024,
     )
     cost = None
     async for m in query(prompt="Выполни сегодняшний проход по правилам.", options=opts):
