@@ -1,0 +1,20 @@
+#!/bin/bash
+# Защита main от массовых удалений (случай ab5198a, 12.11.2026: удалено 380 файлов).
+# Установка: cp code/pre-push REPO/.git/hooks/pre-push && chmod +x
+# Обход только осознанно: ALLOW_DELETE=1 git push ...
+z=0000000000000000000000000000000000000000
+while read lref lsha rref rsha; do
+  [ "$lsha" = "$z" ] && { echo "pre-push: удаление ветки запрещено"; exit 1; }
+  [ "$rref" = refs/heads/main ] || continue
+  [ "$rsha" = "$z" ] && continue
+  n=$(git diff --diff-filter=D --name-only "$rsha" "$lsha" | wc -l)
+  t=$(git ls-tree -r --name-only "$lsha" | wc -l)
+  if [ "$n" -gt 5 ] || [ "$t" -lt 300 ]; then
+    [ "$ALLOW_DELETE" = 1 ] && continue
+    echo "pre-push: СТОП. Удаляется файлов: $n, файлов в дереве: $t ($rref)."
+    git diff --diff-filter=D --name-only "$rsha" "$lsha" | head -5
+    echo "Проверь индекс (sparse-клон, git add -A/commit -a нельзя). Обход: ALLOW_DELETE=1"
+    exit 1
+  fi
+done
+exit 0
