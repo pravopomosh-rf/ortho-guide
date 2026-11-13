@@ -1,0 +1,30 @@
+# Страховка: если push в main удалил больше 5 файлов (как ab5198a 12.11.2026),
+# удалённые файлы автоматически возвращаются отдельным коммитом. Правки остаются.
+name: site-guard
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Вернуть массово удалённые файлы
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          [ "$BEFORE" = "0000000000000000000000000000000000000000" ] && exit 0
+          git cat-file -e "$BEFORE" 2>/dev/null || exit 0
+          git diff --diff-filter=D --name-only "$BEFORE" "$AFTER" > /tmp/del.txt
+          n=$(wc -l < /tmp/del.txt); echo "удалено: $n"
+          [ "$n" -le 5 ] && exit 0
+          git config user.name "site-guard"; git config user.email "site-guard@users.noreply.github.com"
+          xargs -a /tmp/del.txt -d '\n' git checkout "$BEFORE" --
+          git commit -q -m "site-guard: возвращены $n файлов, удалённых в ${AFTER:0:7}"
+          git push origin HEAD:main
+          echo "::warning::site-guard вернул $n удалённых файлов"
