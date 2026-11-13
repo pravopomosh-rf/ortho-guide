@@ -1,0 +1,58 @@
+name: site-bot
+on:
+  schedule:
+    - cron: "17 2 * * *"   # каждый день ~04:17 по Израилю
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+concurrency: { group: site-bot, cancel-in-progress: false }
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: false }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Install
+        run: |
+          pip install claude-agent-sdk playwright anyio
+          python -m playwright install --with-deps chromium
+      - name: Free checks + phone screenshots
+        run: |
+          python .github/bot/checks.py
+          python .github/bot/shots.py
+      - name: Agent pass (Max API credits)
+        id: agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BOT_BUDGET_USD: "1.5"
+        run: python .github/bot/run_agent.py
+      - name: Guard (no text/media changes)
+        run: python .github/bot/guard.py
+      - name: Open PR with fixes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "site-bot"
+          git config user.email "site-bot@users.noreply.github.com"
+          B="site-bot/$(date +%Y%m%d-%H%M)"
+          {
+            echo "Расход прохода: \$${{ steps.agent.outputs.cost }}"; echo
+            cat .github/bot/report_agent.md 2>/dev/null || echo "(нет отчёта агента)"; echo
+            cat .github/bot/report_guard.md; echo
+            cat .github/bot/report_checks.md
+          } > /tmp/body.md
+          rm -rf .github/bot/shots .github/bot/report_*.md
+          if git diff --quiet; then
+            gh issue create --title "site-bot $(date +%d.%m): отчёт без правок" --body-file /tmp/body.md || cat /tmp/body.md
+            exit 0
+          fi
+          git checkout -b "$B"
+          git commit -am "site-bot: технические правки $(date +%d.%m)"
+          git push origin "$B"
+          gh pr create --base main --head "$B" --title "site-bot $(date +%d.%m): правки сайта" --body-file /tmp/body.md \
+            || gh issue create --title "site-bot $(date +%d.%m): ветка $B" --body-file /tmp/body.md
