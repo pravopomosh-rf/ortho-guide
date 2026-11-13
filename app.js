@@ -68,7 +68,7 @@ var tg={en:'Your surgery explained clearly, step by step',ru:'Понятно о 
 hd.querySelectorAll('[data-l]').forEach(function(d){d.insertAdjacentHTML('beforeend','<p class="tag">'+tg[d.dataset.l]+'</p>')});
 hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="en">Everyone recovers differently. Agree with your doctor or physiotherapist on when to change walking aids and when to walk without them.</span><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>');startHero()}
 function startHero(){var v=document.querySelector('video.hero');if(!v)return;v.muted=true;v.defaultMuted=true;var p=v.play();if(p&&p.catch)p.catch(function(){})}
-function heroSVG(){var B=document.querySelector('header .lang')?'':'';var base=location.pathname.indexOf('/ops/')>-1?'../':'';
+function heroSVG(){var base=location.pathname.indexOf('/ops/')>-1?'../':'';
 var red=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
 if(red)return '<img class="hero hv" src="'+base+'media/video/hero_end.webp" width="720" height="360" alt="">';
 return '<video class="hero hv" autoplay muted playsinline preload="auto" width="720" height="360" poster="'+base+'media/video/hero_start.webp" aria-hidden="true"><source src="'+base+'media/video/hero.webm" type="video/webm"><source src="'+base+'media/video/hero.mp4" type="video/mp4"></video>'}
