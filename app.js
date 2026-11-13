@@ -1,5 +1,5 @@
 document.documentElement.classList.add('js');
-function setL(l){document.body.className=l;var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
+function setL(l){var bc=document.body.className.split(' ').filter(function(c){return c&&!/^(ru|he|ar|en)$/.test(c)});document.body.className=[l].concat(bc).join(' ');try{var h=location.hash.replace(/^#/,''),nh=/(^|&)lang=(ru|he|ar|en)/.test(h)?h.replace(/lang=(ru|he|ar|en)/,'lang='+l):(h?h+'&':'')+'lang='+l;if(h!=nh)history.replaceState(null,'',location.pathname+location.search+'#'+nh)}catch(e){}var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
 document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l);b.setAttribute('aria-pressed',b.dataset.k==l?'true':'false')});var h1=document.querySelector('header [data-l='+l+'] h1');if(h1)document.title=h1.textContent.trim();try{localStorage.lang=l}catch(e){}
 var fv=0;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(!fv&&v.preload=='none')v.preload='metadata';fv=1}else{v.pause();if(v.networkState!=1)v.preload='none'}});
 if(window.__rv)window.__rv()}
@@ -83,7 +83,7 @@ setTimeout(function(){els.forEach(function(e){if(e.getBoundingClientRect().top<i
 })();
 
 var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
-(function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
+(function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
 /* 04.11: duration on the video label */
 document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('video'),d=s.querySelector('.vdur');if(!v||!d)return;function f(){if(!isFinite(v.duration))return;var t=Math.floor(v.duration),m=Math.floor(t/60),x=t%60;d.textContent='· '+m+':'+(x<10?'0':'')+x}v.addEventListener('loadedmetadata',f);f()});
 

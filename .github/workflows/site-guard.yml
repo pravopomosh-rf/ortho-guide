@@ -1,5 +1,6 @@
 # Страховка: если push в main удалил больше 5 файлов (как ab5198a 12.11.2026),
 # удалённые файлы автоматически возвращаются отдельным коммитом. Правки остаются.
+# Осознанное массовое удаление: добавить [allow-delete] в сообщение коммита.
 name: site-guard
 on:
   push:
@@ -23,6 +24,7 @@ jobs:
           git diff --diff-filter=D --name-only "$BEFORE" "$AFTER" > /tmp/del.txt
           n=$(wc -l < /tmp/del.txt); echo "удалено: $n"
           [ "$n" -le 5 ] && exit 0
+          if git log --format=%B "$BEFORE..$AFTER" | grep -q "\[allow-delete\]"; then echo "::warning::удаление $n файлов разрешено пометкой [allow-delete]"; exit 0; fi
           git config user.name "site-guard"; git config user.email "site-guard@users.noreply.github.com"
           xargs -a /tmp/del.txt -d '\n' git checkout "$BEFORE" --
           git commit -q -m "site-guard: возвращены $n файлов, удалённых в ${AFTER:0:7}"
