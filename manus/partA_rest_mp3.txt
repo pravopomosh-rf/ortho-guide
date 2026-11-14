@@ -1,0 +1,159 @@
+=== ФАЙЛ walker.mp3 — 28 фраз ===
+1. [walker_he_W03] עמדו ישר, הידיים משוחררות לאורך הגוף. הידיות של ההליכון צריכות להיות בערך בגובה הקפל של שורש כף היד. כשאוחזים בידיות, המרפקים כפופים מעט והגב ישר.
+2. [walker_he_W04] הזיזו את ההליכון מעט קדימה. ארבע הרגליים שלו צריכות לעמוד על רצפה ישרה. כשאתם אוחזים בידיות בשתי הידיים, צעדו עם הרגל המנותחת לאמצע ההליכון, לא עד המוט הקדמי. כשאתם נשענים על הידיות, הביאו את הרגל הבריאה לידה. עשו צעדים קטנים.
+3. [walker_he_W05] הסתובבו לאט, בצעדים קטנים, יחד עם ההליכון. אל תסתובבו בבת אחת על רגל אחת. הסתכלו קדימה, לא על הרגליים.
+4. [walker_he_W06] התקרבו לכיסא יציב והסתובבו עם הגב אליו, עד שתרגישו את המושב בחלק האחורי של הרגליים. העבירו את הידיים מההליכון למשענות הידיים, יד אחת בכל פעם, ושבו לאט. אל תיאחזו בהליכון בזמן הישיבה.
+5. [walker_he_W07] כדי לקום, דחפו עם הידיים ממשענות הידיים או מהמושב. אל תמשכו את ההליכון אליכם: הוא עלול להתהפך. כשאתם עומדים ישר, אחזו בידיות.
+6. [walker_he_W08] פנו שטיחים, כבלים וחפצים מיותרים, והשאירו מעבר רחב. בלילה הדליקו אור. באמבטיה שטיחון נגד החלקה ומאחזי יד. עם הליכון לא עולים במדרגות ולא במדרגות נעות.
+7. [walker_he_W09] אם נפלתם, הכאב בשוק התגבר, הנפיחות ברגל גוברת, או שקשה יותר ללכת, פנו לרופא בדחיפות. בכאב חזק אחרי נפילה, אם אינכם מצליחים לקום, בקוצר נשימה פתאומי או בכאב בחזה, התקשרו למאה ואחת.
+8. [walker_he_W10] אלה המלצות כלליות. להוראות האישיות של הרופא, של הפיזיותרפיסט ושל הצוות הרפואי יש עדיפות.
+9. [walker_ar_W01] رجل عمره ستة وسبعون عامًا، استُبدل مفصل ركبته مؤخرًا. في البيت كان يضع المشّاية بعيدًا جدًا إلى الأمام ويمدّ جسمه نحوها. ومرة كاد يسقط وهو ينهض عن الكرسي ممسكًا بالمشّاية.
+10. [walker_ar_W02] يحدّد الطبيب مقدار الوزن المسموح بنقله إلى الساق التي أُجريت لها العملية. وسيُريكم المعالج الطبيعي كيف تمشون في حالتكم بالتحديد. هنا تظهر مشّاية عادية بأربع أرجل دون عجلات؛ ومع المشّاية ذات العجلات تختلف الطريقة. في المرة الأولى انهضوا فقط مع الطاقم.
+11. [walker_ar_W03] قفوا مستقيمين والذراعان مرتخيتان بجانب الجسم. يجب أن تكون مقابض المشّاية تقريبًا بمستوى ثنية الرسغ. وعند الإمساك بالمقابض يكون المرفقان منثنيين قليلًا والظهر مستقيمًا.
+12. [walker_ar_W04] حرّكوا المشّاية قليلًا إلى الأمام. يجب أن تقف أرجلها الأربع على أرض مستوية. وأنتم ممسكون بالمقابض باليدين، اخطوا بالساق التي أُجريت لها العملية إلى وسط المشّاية، لا حتى العارضة الأمامية. ثم اتّكئوا على المقابض وقرّبوا الساق السليمة إليها. اخطوا خطوات صغيرة.
+13. [walker_ar_W05] استديروا ببطء، بخطوات صغيرة، مع المشّاية. لا تستديروا فجأة على ساق واحدة. وانظروا إلى الأمام لا إلى القدمين.
+14. [walker_ar_W06] اقتربوا من كرسي ثابت واستديروا بظهركم إليه حتى تشعروا بالمقعد خلف ساقيكم. انقلوا يديكم من المشّاية إلى مسندي الذراعين، يدًا بعد يد، واجلسوا ببطء. لا تمسكوا بالمشّاية أثناء الجلوس.
+15. [walker_ar_W07] للنهوض، ادفعوا بأيديكم على مسندي الذراعين أو المقعد. لا تسحبوا المشّاية نحوكم، فقد تنقلب. وعندما تقفون مستقيمين، أمسكوا بالمقابض.
+16. [walker_ar_W08] أزيلوا السجاد والأسلاك والأغراض الزائدة، واتركوا ممرًا واسعًا. وفي الليل أشعلوا الضوء. وفي الحمّام سجادة مانعة للانزلاق ومقابض. ولا يُصعَد الدرج ولا السلّم المتحرّك بالمشّاية.
+17. [walker_ar_W09] إذا سقطتم، أو اشتدّ الألم في ربلة الساق، أو يزداد تورّم الساق، أو أصبح المشي أصعب، فراجعوا الطبيب بشكل عاجل. وعند ألم شديد بعد السقوط، أو إذا لم تستطيعوا النهوض، أو عند ضيق نفس مفاجئ أو ألم في الصدر، اتصلوا بالرقم مئة وواحد.
+18. [walker_ar_W10] هذه توصيات عامة. التعليمات الشخصية من طبيبكم والمعالج الطبيعي والفريق الطبي لها الأولوية.
+19. [walker_en_W01] A seventy-six-year-old man recently had a knee replacement. At home he placed his walking frame too far ahead and stretched to reach it. Once he nearly fell while getting up from a chair holding on to the frame.
+20. [walker_en_W02] Your doctor decides how much weight you may put on the operated leg. Your physiotherapist will show you how to walk in your particular case. This shows a standard four-legged frame without wheels; the technique is different for a wheeled walker. The first time, get up only with the staff.
+21. [walker_en_W03] Stand up straight with your arms relaxed at your sides. The handgrips of the frame should be at about the level of your wrist crease. When you hold the grips, your elbows are slightly bent and your back is straight.
+22. [walker_en_W04] Move the frame a short distance ahead. All four legs should stand on level floor. Holding the grips with both hands, step with the operated leg into the middle of the frame, not up to the front bar. Leaning on the grips, bring your good leg alongside. Take small steps.
+23. [walker_en_W05] Turn slowly, in small steps, together with the frame. Do not twist suddenly on one leg. Look ahead, not down at your feet.
+24. [walker_en_W06] Walk up to a steady chair and turn your back to it until you feel the seat against the back of your legs. Move your hands from the frame to the armrests, one at a time, and lower yourself slowly. Do not hold on to the frame while sitting down.
+25. [walker_en_W07] To stand up, push up with your hands from the armrests or the seat. Do not pull the frame towards you: it can tip over. Once you are standing straight, take hold of the grips.
+26. [walker_en_W08] Clear rugs, cables and clutter and leave a wide path. At night, turn on a light. In the bathroom, use a non-slip mat and grab rails. Do not use stairs or escalators with a walking frame.
+27. [walker_en_W09] If you fall, the pain in your calf increases, swelling in the leg gets worse, or walking becomes harder, see a doctor urgently. For severe pain after a fall, if you cannot get up, or for sudden breathlessness or chest pain, call one-oh-one.
+28. [walker_en_W10] These are general recommendations. Individual instructions from your doctor, physiotherapist and medical team take priority.
+
+=== ФАЙЛ swell.mp3 — 25 фраз ===
+1. [swell_he_E03] כמה פעמים ביום שכבו והניחו את הרגל על כריות, כך שכף הרגל והשוק יהיו מעל גובה הלב. אחרי החלפת מפרק הברך, שמרו על הברך ישרה. אל תניחו כרית רק מתחת לברך, אלא אם הרופא אמר אחרת.
+2. [swell_he_E04] עטפו שקית קרה במגבת, ואל תניחו אותה על עור חשוף. החזיקו חמש עשרה עד עשרים דקות, ואז הפסקה של שעה לפחות. בדקו את העור: אם הוא אדום מאוד, לבן או חסר תחושה, הסירו מיד את שקית הקירור.
+3. [swell_he_E05] אם התחושה בעור מופחתת, יש זרימת דם ירודה ברגל או סוכרת עם פגיעה בעצבים, שאלו קודם את הרופא אם מותר להשתמש בקור. אל תניחו שקית קירור על פצע פתוח. שמרו על התחבושת יבשה.
+4. [swell_he_E06] כופפו ויישרו את כף הרגל, כמו משאבה, כמה פעמים בשעה. עשו את התרגילים של הפיזיותרפיסט. זה עוזר להפחית את הנפיחות ומשפר את זרימת הדם.
+5. [swell_he_E07] אל תעמדו ואל תשבו הרבה זמן עם הרגל למטה. החליפו בין הליכה, תרגילים ומנוחה עם רגל מורמת. גרבי לחץ לבשו כפי שנרשם לכם.
+6. [swell_he_E08] פנו לרופא בדחיפות אם הופיעו כאב, נפיחות, חום מקומי או אודם בשוק; אם הנפיחות גוברת במהירות או לא פוחתת אחרי מנוחה עם רגל מורמת; אם האודם סביב הפצע מתגבר או מתפשט, יש הפרשה מהפצע, חום גבוה או צמרמורת. בקוצר נשימה פתאומי או בכאב בחזה, התקשרו למאה ואחת.
+7. [swell_he_E09] אלה המלצות כלליות. להוראות האישיות של הרופא, של הפיזיותרפיסט ושל הצוות הרפואי יש עדיפות.
+8. [swell_ar_E01] امرأة عمرها ثمانية وستون عامًا، استُبدل مفصل ركبتها قبل أسبوع. في البيت كانت تجلس كثيرًا والساق متدلّية، فكانت الركبة وأسفل الساق تتورّمان كثيرًا مع المساء.
+9. [swell_ar_E02] التورّم بعد عملية في الساق أمر شائع. وعادةً يزداد في المساء وبعد المجهود، ويخفّ تدريجيًا خلال أسابيع وأشهر. لكن هناك علامات تستدعي مراجعة الطبيب بشكل عاجل، وسنذكرها في النهاية.
+10. [swell_ar_E03] عدة مرات في اليوم، استلقوا وضعوا الساق على وسائد بحيث تكون القدم وأسفل الساق أعلى من مستوى القلب. وبعد استبدال مفصل الركبة، أبقوا الركبة مستقيمة. لا تضعوا وسادة تحت الركبة فقط، إلا إذا قال الطبيب غير ذلك.
+11. [swell_ar_E04] لفّوا الكيس البارد بمنشفة، ولا تضعوه على الجلد العاري. أبقوه من خمس عشرة إلى عشرين دقيقة، ثم استراحة لا تقلّ عن ساعة. افحصوا الجلد: إذا أصبح شديد الاحمرار أو أبيض أو فاقدًا للإحساس، فأزيلوا الكمادة الباردة فورًا.
+12. [swell_ar_E05] إذا كان إحساس الجلد ضعيفًا، أو كانت الدورة الدموية في الساق ضعيفة، أو كان لديكم سكري مع إصابة في الأعصاب، فاسألوا الطبيب أولًا هل يُسمح بالبرودة. لا تضعوا الكمادة الباردة على جرح مفتوح. وأبقوا الضمادة جافة.
+13. [swell_ar_E06] اثنوا القدم وافردوها، كالمضخة، عدة مرات في الساعة. وأدّوا تمارين المعالج الطبيعي. هذا يساعد على تخفيف التورّم ويحسّن جريان الدم.
+14. [swell_ar_E07] لا تقفوا ولا تجلسوا طويلًا والساق متدلّية. بدّلوا بين المشي والتمارين والراحة مع رفع الساق. والجوارب الضاغطة البسوها كما وُصفت لكم.
+15. [swell_ar_E08] راجعوا الطبيب بشكل عاجل إذا ظهر ألم أو تورّم أو سخونة أو احمرار في ربلة الساق؛ أو إذا ازداد التورّم بسرعة أو لم يخفّ بعد الراحة مع رفع الساق؛ أو إذا ازداد الاحمرار حول الجرح أو انتشر، أو خرجت إفرازات من الجرح، أو ارتفعت الحرارة كثيرًا، أو ظهرت قشعريرة. وعند ضيق نفس مفاجئ أو ألم في الصدر، اتصلوا بالرقم مئة وواحد.
+16. [swell_ar_E09] هذه توصيات عامة. التعليمات الشخصية من طبيبكم والمعالج الطبيعي والفريق الطبي لها الأولوية.
+17. [swell_en_E01] A sixty-eight-year-old woman had a knee replacement a week ago. At home she sat a lot with her leg down, and by evening her knee and lower leg were very swollen.
+18. [swell_en_E02] Swelling after leg surgery is common. It is usually worse in the evening and after activity, and it eases gradually over weeks and months. But there are signs that need a doctor urgently, which we cover at the end.
+19. [swell_en_E03] Several times a day, lie down and rest your leg on pillows so that your foot and lower leg are above the level of your heart. After a knee replacement, keep the knee straight. Do not put a pillow under the knee only, unless your doctor says otherwise.
+20. [swell_en_E04] Wrap a cold pack in a towel and do not put it on bare skin. Keep it on for fifteen to twenty minutes, then take a break of at least an hour. Check your skin: if it is bright red, white or numb, remove the cold pack immediately.
+21. [swell_en_E05] If the feeling in your skin is reduced, you have poor circulation in the leg, or diabetes with nerve damage, ask your doctor first whether cold is safe. Do not place a cold pack on an open wound. Keep the dressing dry.
+22. [swell_en_E06] Bend and straighten your foot, like a pump, several times an hour. Do your physiotherapist’s exercises. This helps reduce swelling and improves blood flow.
+23. [swell_en_E07] Do not stand or sit for long with your leg down. Alternate walking, exercises and rest with your leg raised. Wear compression stockings as prescribed.
+24. [swell_en_E08] See a doctor urgently if your calf becomes painful, swollen, hot or red; if the swelling increases quickly or does not go down after resting with your leg raised; if redness around the wound increases or spreads, the wound leaks, or you have a high temperature or chills. For sudden breathlessness or chest pain, call one-oh-one.
+25. [swell_en_E09] These are general recommendations. Individual instructions from your doctor, physiotherapist and medical team take priority.
+
+=== ФАЙЛ logroll.mp3 — 26 фраз ===
+1. [logroll_he_G02] אחרי ניתוח בעמוד השדרה בדרך כלל מלמדים להסתובב כמו בול עץ: הכתפיים, האגן והרגליים זזים יחד, בלי לסובב את הגב. את הטכניקה יראה הפיזיותרפיסט, ובפעם הראשונה רק עם הצוות. התחילו לקום רק אחרי שהצוות הרפואי אישר.
+2. [logroll_he_G03] כשאתם שוכבים על הגב, כופפו את הברכיים והניחו את כפות הרגליים על המיטה. הדקו את שרירי הבטן, זה עוזר לשמור על הגב ישר.
+3. [logroll_he_G04] הסתובבו על הצד בתנועה אחת, הכתפיים והאגן יחד. אל תסובבו את הגב ואל תימתחו אל המעקה מעבר לגוף.
+4. [logroll_he_G05] הורידו את השוקיים מקצה המיטה, ובאותו זמן דחפו עם המרפק של היד התחתונה ועם כף היד העליונה. שבו, הגב ישר.
+5. [logroll_he_G06] שבו על קצה המיטה, כפות הרגליים על הרצפה. אם יש סחרחורת, אל תקומו וקראו מיד לצוות, יעזרו לכם לשכב בבטחה. כדי לקום, דחפו עם הידיים מהמיטה. רק כשאתם כבר עומדים, אחזו בהליכון אם הוא נרשם לכם. אל תמשכו את עצמכם למעלה בעזרת ההליכון.
+6. [logroll_he_G07] כדי לשכב, שבו על קצה המיטה, רדו על הצד בעזרת היד, ובאותו זמן הרימו את הרגליים למיטה. אחר כך הסתובבו על הגב, שוב כמו בול עץ.
+7. [logroll_he_G08] חולשה חדשה או חוסר תחושה ברגליים, חוסר תחושה באזור איברי המין או סביב פי הטבעת, חוסר יכולת להטיל שתן, או אובדן שליטה על השתן או על היציאות דורשים הערכה רפואית דחופה. בבית החולים ספרו מיד לצוות. בבית פנו מיד למיון, ובחולשה חזקה או מחמירה, בהפרעה בהטלת שתן או ביציאות, או בחוסר תחושה באזור איברי המין או סביב פי הטבעת, התקשרו למאה ואחת. גם אם הכאב התגבר מאוד, ספרו לרופא בדחיפות.
+8. [logroll_he_G09] אלה המלצות כלליות. להוראות האישיות של הרופא, של הפיזיותרפיסט ושל הצוות הרפואי יש עדיפות.
+9. [logroll_ar_G01] رجل عمره ثمانية وخمسون عامًا، أُجريت له أمس عملية في أسفل العمود الفقري. في الصباح حاول الجلوس بحركة مفاجئة، كعادته، مباشرة من السرير، فشعر بألم حادّ في الظهر.
+10. [logroll_ar_G02] بعد عملية العمود الفقري يُعلَّم المريض عادةً أن يتقلّب مثل جذع الشجرة: الكتفان والحوض والساقان تتحرّك معًا، دون لفّ الظهر. سيُريكم أخصائي العلاج الطبيعي الطريقة، وفي المرة الأولى فقط مع الطاقم. ولا تبدؤوا النهوض إلا بعد موافقة الفريق الطبي.
+11. [logroll_ar_G03] وأنتم مستلقون على الظهر، اثنوا الركبتين وضعوا القدمين على السرير. شدّوا عضلات البطن، فهذا يساعد على إبقاء الظهر مستقيمًا.
+12. [logroll_ar_G04] استديروا على الجنب بحركة واحدة، الكتفان والحوض معًا. لا تلفّوا الظهر ولا تمدّوا يدكم إلى حاجز السرير من فوق جسمكم.
+13. [logroll_ar_G05] أنزلوا الساقين من حافة السرير، وفي الوقت نفسه ادفعوا بمرفق اليد السفلى وكفّ اليد العليا. اجلسوا والظهر مستقيم.
+14. [logroll_ar_G06] اجلسوا على حافة السرير والقدمان على الأرض. وإذا شعرتم بدوار، فلا تنهضوا ونادوا الطاقم فورًا، وسيساعدونكم على الاستلقاء بأمان. للنهوض، ادفعوا بأيديكم على السرير. وبعد أن تقفوا فقط، أمسكوا بالمشّاية إذا كانت موصوفة لكم. لا تسحبوا أنفسكم إلى الأعلى بالمشّاية.
+15. [logroll_ar_G07] للاستلقاء، اجلسوا على حافة السرير، ثم انزلوا على الجنب بالاستناد إلى اليد، وفي الوقت نفسه ارفعوا الساقين إلى السرير. ثم استديروا على الظهر، مرة أخرى مثل جذع الشجرة.
+16. [logroll_ar_G08] الضعف الجديد أو الخدر في الساقين، أو الخدر حول الأعضاء التناسلية أو فتحة الشرج، أو عدم القدرة على التبوّل، أو فقدان السيطرة على البول أو البراز، كلّها تتطلّب تقييمًا طبيًا عاجلًا. في المستشفى أخبروا الطاقم فورًا. وفي البيت توجّهوا فورًا إلى قسم الطوارئ، وعند ضعف شديد أو متزايد، أو اضطراب في التبوّل أو التبرّز، أو خدر حول الأعضاء التناسلية أو فتحة الشرج، اتصلوا بالرقم مئة وواحد. وإذا اشتدّ الألم كثيرًا، فأخبروا الطبيب بشكل عاجل أيضًا.
+17. [logroll_ar_G09] هذه توصيات عامة. التعليمات الشخصية من طبيبكم والمعالج الطبيعي والفريق الطبي لها الأولوية.
+18. [logroll_en_G01] A fifty-eight-year-old man had lower back surgery yesterday. In the morning he tried to sit straight up in one jerk, as usual, and felt a sharp pain in his back.
+19. [logroll_en_G02] After spinal surgery you are usually taught to turn like a log: shoulders, hips and legs move together, without twisting your back. Your physiotherapist will show you the technique, and the first time only with the staff. Only start getting up once the medical team has said you may.
+20. [logroll_en_G03] Lying on your back, bend your knees and put your feet flat on the bed. Tighten your tummy muscles; this helps keep your back straight.
+21. [logroll_en_G04] Roll onto your side in one movement, shoulders and hips together. Do not twist your back or reach across your body for the bed rail.
+22. [logroll_en_G05] Lower your legs over the edge of the bed and, at the same time, push up with the elbow of your lower arm and the hand of your upper arm. Sit up with your back straight.
+23. [logroll_en_G06] Sit on the edge of the bed with your feet on the floor. If you feel dizzy, do not stand up and call the staff straight away; they will help you lie down safely. To stand, push up with your hands from the bed. Only once you are standing, hold the walking frame if you have been given one. Do not pull yourself up on the frame.
+24. [logroll_en_G07] To lie down, sit on the edge of the bed, lower yourself onto your side using your arm, and at the same time lift your legs onto the bed. Then roll onto your back, again like a log.
+25. [logroll_en_G08] New weakness or numbness in the legs, numbness around the genitals or anus (back passage), being unable to pass urine, or losing control of your bladder or bowels need urgent medical assessment. In hospital, tell the staff immediately. At home, go straight to the emergency department; for severe or worsening weakness, bladder or bowel problems, or numbness around the genitals or anus (back passage), call one-oh-one. If the pain suddenly gets much worse, also tell a doctor urgently.
+26. [logroll_en_G09] These are general recommendations. Individual instructions from your doctor, physiotherapist and medical team take priority.
+
+=== ФАЙЛ dress.mp3 — 37 фраз ===
+1. [dress_ru_PV12] Это общие рекомендации. Индивидуальные указания вашего врача и медицинской команды имеют приоритет.
+2. [dress_he_PV01] אחרי הניתוח פצע הניתוח מכוסה בחבישה סטרילית. היא מגינה על הפצע בזמן ששולי הפצע מתאחים. הצוות הרפואי מחליט מתי ואיך להחליף אותה.
+3. [dress_he_PV02] במחלקה שלנו את החבישה המתוכננת הראשונה מחליפים בדרך כלל כארבעים ושמונה שעות אחרי הניתוח. בבתי חולים אחרים המועד תלוי בנוהל המקומי ובסוג החבישה. חבישות מיוחדות מסוימות משאירים זמן רב יותר.
+4. [dress_he_PV03] מחליפים את החבישה מוקדם יותר אם היא ספוגה מאוד בדם או בהפרשות, אם היא התנתקה מהעור או התלכלכה. אל תחכו, ספרו לאחות.
+5. [dress_he_PV04] האחות מחטאת את הידיים, לובשת כפפות ומסירה את החבישה כך שהפצע לא יזדהם. אחר כך היא בודקת את התפר: האם יש אודם, נפיחות או הפרשות, והאם שולי הפצע נפרדים.
+6. [dress_he_PV05] ביומיים הראשונים מנקים את הפצע במידת הצורך בתמיסת מלח פיזיולוגית סטרילית. לאחר מכן, בדרך כלל אין צורך לנקות פצע ניתוח נקי ויבש בתמיסות. הצוות בודק את הפצע, ובמידת הצורך מכסה אותו בחבישה סטרילית חדשה.
+7. [dress_he_PV06] באלכוהול מחטאים עור שלם, למשל לפני זריקה. על תפר טרי ועל פצע פתוח לא שמים אלכוהול: הוא צורב, פוגע בתאי הפצע ועלול להאט את הריפוי.
+8. [dress_he_PV07] תפר נקי רגיל לא צריך חומר חיטוי רק כדי למנוע זיהום. תמיסה עם יוד, למשל פולידין ללא אלכוהול, משמשת לפי התוויה מיוחדת, בהחלטת הרופא או האחות. ספרו לצוות אם הייתה לכם בעבר תגובה לפולידין או לתכשירים אחרים עם פובידון יוד, אם יש לכם מחלה של בלוטת התריס או של הכליות, אם יש הריון או הנקה, או אם אתם נוטלים ליתיום.
+9. [dress_he_PV08] אל תיגעו בתפר בידיים, ואל תסירו או תסדרו את החבישה בעצמכם. אם היא נרטבה, זזה, או שהופיעו מתחתיה גרד, צריבה או פריחה, ספרו לאחות.
+10. [dress_he_PV09] לעיתים קרובות אחרי יומיים אפשר להתקלח, אם הרופא או האחות אישרו. אל תשרו את התפר במים: בלי אמבטיה, בריכה וים עד שהפצע החלים. חלק מהחבישות עמידות במים, שאלו את הצוות.
+11. [dress_he_PV10] בבית החליפו חבישות כפי שכתוב במכתב השחרור: מי מחליף, באיזו תדירות ובמה. אל תמרחו על התפר קרמים, משחות, אלכוהול או יוד אם לא נרשמו לכם.
+12. [dress_he_PV11] פנו מיד לעזרה רפואית אם האודם והנפיחות סביב התפר מתגברים, הופיעו מוגלה או ריח לא נעים, פצע הניתוח נפתח, עלה חום או שהכאב מתגבר. במצב קשה התקשרו מאה ואחת.
+13. [dress_he_PV12] אלה המלצות כלליות. ההוראות האישיות של הרופא ושל הצוות הרפואי קודמות להן.
+14. [dress_ar_PV01] بعد العملية يُغطّى الجرح المخيط بضمادة معقّمة. تحمي الجرح بينما تلتئم حوافّه. الفريق الطبي يقرّر متى وكيف تُغيَّر.
+15. [dress_ar_PV02] في قسمنا، يُجرى أول تغيير مُقرّر للضمادة عادةً بعد نحو ثمانٍ وأربعين ساعة من العملية. في المستشفيات الأخرى يعتمد التوقيت على البروتوكول المحلي ونوع الضمادة. بعض الضمادات الخاصة تُترك مدة أطول.
+16. [dress_ar_PV03] تُغيَّر الضمادة قبل ذلك إذا تبلّلت كثيرًا بالدم أو الإفرازات، أو انفصلت عن الجلد، أو اتّسخت. لا تنتظروا، أبلغوا الممرضة.
+17. [dress_ar_PV04] تطهّر الممرضة يديها، وتلبس القفازات، وتنزع الضمادة بطريقة لا تلوّث الجرح. ثم تفحص الجرح المخيط: هل يوجد احمرار أو تورّم أو إفرازات، وهل تتباعد حوافّه.
+18. [dress_ar_PV05] في اليومين الأولين يُنظَّف الجرح عند الحاجة بمحلول ملحي فيزيولوجي معقّم. بعد ذلك لا يُعالَج الجرح المخيط النظيف والجاف عادةً بالمحاليل: يُفحص، وعند الحاجة يُغطّى بضمادة معقّمة جديدة.
+19. [dress_ar_PV06] يُستعمل الكحول لتعقيم الجلد السليم، مثلًا قبل الحقنة. لا يوضع الكحول على الجرح المخيط الحديث ولا على الجرح المفتوح: فهو يسبب شعورًا بالحرقان، ويؤذي خلايا الجرح، وقد يبطئ الالتئام.
+20. [dress_ar_PV07] الجرح المخيط النظيف العادي لا يحتاج إلى مطهّر للوقاية فقط. محلول اليود، مثل بوليدين بدون كحول، يُستعمل لسبب طبي خاص، بقرار الطبيب أو الممرضة. أبلغوا الطاقم إذا حدث لديكم سابقًا تفاعل مع بوليدين أو مستحضرات أخرى فيها بوفيدون اليود، أو كان لديكم مرض في الغدة الدرقية أو الكلى، أو حمل أو رضاعة، أو كنتم تتناولون الليثيوم.
+21. [dress_ar_PV08] لا تلمسوا الجرح بأيديكم، ولا تنزعوا الضمادة ولا تعدّلوها بأنفسكم. إذا تبلّلت أو انزلقت، أو ظهرت تحتها حكّة أو حرقان أو طفح، أبلغوا الممرضة.
+22. [dress_ar_PV09] غالبًا يمكن الاستحمام بالدوش بعد يومين، إذا سمح الطبيب أو الممرضة. لا تغمروا الجرح بالماء: لا حوض استحمام ولا مسبح ولا بحر حتى يلتئم الجرح. بعض الضمادات مقاومة للماء، اسألوا الطاقم.
+23. [dress_ar_PV10] في البيت غيّروا الضمادات كما هو مكتوب في رسالة الخروج: من يغيّرها، وكم مرة، وبماذا. لا تضعوا على الجرح كريمات أو مراهم أو كحولًا أو يودًا إن لم تُوصف لكم.
+24. [dress_ar_PV11] اطلبوا المساعدة الطبية فورًا إذا ازداد الاحمرار والتورّم حول الجرح، أو ظهر صديد أو رائحة كريهة، أو انفتح الجرح، أو ارتفعت الحرارة، أو اشتدّ الألم. في الحالة الخطيرة اتصلوا بمئة وواحد.
+25. [dress_ar_PV12] هذه توصيات عامة. التعليمات الفردية من طبيبكم والفريق الطبي لها الأولوية.
+26. [dress_en_PV01] After surgery, the incision is covered with a sterile dressing. It protects the wound while the edges heal together. The medical team decides when and how to change it.
+27. [dress_en_PV02] On our ward, the first planned dressing change is usually done about forty-eight hours after surgery. In other hospitals, the timing depends on the local protocol and the type of dressing. Some special dressings are left on longer.
+28. [dress_en_PV03] The dressing is changed sooner if it is heavily soaked with blood or fluid, has come loose, or is dirty. Don't wait. Tell the nurse.
+29. [dress_en_PV04] The nurse cleans their hands, puts on gloves and removes the dressing without contaminating the wound. Then they check the incision for redness, swelling, discharge, or edges coming apart.
+30. [dress_en_PV05] In the first two days, the wound is cleaned if needed with sterile saline. After that, a clean, dry incision usually needs no solutions: it is checked and, if needed, covered with a new sterile dressing.
+31. [dress_en_PV06] Alcohol is used on intact skin, for example before an injection. It is not put on a fresh incision or an open wound: it stings, damages wound cells and can slow healing.
+32. [dress_en_PV07] A normal clean incision does not need antiseptic just to prevent infection. An iodine solution, such as alcohol-free Polydine, is used only for a specific reason, as decided by the doctor or nurse. Tell the staff if you have had a reaction to Polydine or other povidone-iodine products, have thyroid or kidney disease, are pregnant or breastfeeding, or take lithium.
+33. [dress_en_PV08] Do not touch the incision, and do not remove or adjust the dressing yourself. If it gets wet or slips, or you notice itching, burning or a rash under it, tell the nurse.
+34. [dress_en_PV09] Often you can shower after two days, if the doctor or nurse allows it. Do not soak the incision: no bath, pool or sea until it has healed. Some dressings are waterproof, so ask the staff.
+35. [dress_en_PV10] At home, change dressings as written in your discharge letter: who does it, how often, and with what. Do not put creams, ointments, alcohol or iodine on the incision unless prescribed.
+36. [dress_en_PV11] Get medical help urgently if redness and swelling around the incision increase, there is pus or a bad smell, the incision opens, you develop a fever, or the pain gets worse. If your condition is serious, call one zero one.
+37. [dress_en_PV12] This is general advice. Individual instructions from your doctor and medical team come first.
+
+=== ФАЙЛ dura.mp3 — 34 фраз ===
+1. [dura_ru_DU11] Это общие рекомендации. Индивидуальные указания вашего врача и медицинской команды имеют приоритет.
+2. [dura_he_DU01] חוט השדרה ושורשי העצבים מוקפים בקרום חזק. בתוכו נמצא נוזל שקוף שמקיף את העצבים.
+3. [dura_he_DU02] לפעמים במהלך ניתוח בעמוד השדרה הקרום הזה נקרע. זהו סיבוך מוכר, במיוחד בניתוחים חוזרים ובהיצרות משמעותית של התעלה. בדרך כלל המנתח תופר או מדביק את מקום הקרע מיד.
+4. [dura_he_DU03] אם נוזל ממשיך לדלוף דרך הקרע, הלחץ סביב המוח יורד. זה עלול לגרום לכאב ראש מסוג מיוחד. ברוב המקרים, אחרי התפירה הכול מחלים בלי השלכות.
+5. [dura_he_DU04] אחרי קרע, ההנחיות שונות. לחלק מהמטופלים מותר לקום בזמן הרגיל, ולאחרים מורים לשכב שטוח לזמן מה. אחרי סגירת הקרע, מחקרים לא מצאו יתרון משכנע למנוחה ממושכת במיטה לעומת קימה מוקדמת. אבל ההנחיות תלויות במצב הספציפי, ולכן ההחלטה היא של המנתח. הקפידו על ההוראות שלו.
+6. [dura_he_DU05] בזמן שאתם שוכבים, הזיזו את כפות הרגליים, עשו תרגילי נשימה ושתו, אם הותר לכם. אם נרשם טיפול למניעת קרישי דם, חשוב לא לדלג עליו. קומו ושבו רק כשהדבר מותר, ורק עם הצוות.
+7. [dura_he_DU06] ספרו לצוות אם הופיע כאב ראש שמתגבר בישיבה או בעמידה ונחלש בשכיבה. הוא יכול להופיע יחד עם בחילה, כאב בצוואר ורעש באוזניים. זה יכול להיות סימן לדליפת נוזל.
+8. [dura_he_DU07] ספרו לצוות מיד אם החבישה נרטבת בנוזל שקוף ומימי, אם נוזל כזה הופיע במכל של הנקז, או אם הופיעה נפיחות רכה מתחת לפצע. הפרשה שקופה לא תמיד מעידה על דליפה, אבל חובה לבדוק אותה.
+9. [dura_he_DU08] השתדלו להימנע ממאמץ, במיוחד מלחיצות בזמן יציאה. אם יש עצירות, ספרו על כך, ייתכן שיתנו לכם תרופה משלשלת. אל תרימו דברים כבדים עד שהמנתח יתיר.
+10. [dura_he_DU09] ספרו מיד לצוות הרפואי אם כאב הראש חזק מאוד, אם הופיעו חום, כאב ונוקשות בצוואר, רגישות לאור או בלבול. ספרו מיד גם על חולשה חדשה או חוסר תחושה ברגליים, ירידה בתחושה באזור איברי המין, סביב פי הטבעת או ביניהם, קושי חדש במתן שתן או אובדן שליטה על שתן או צואה.
+11. [dura_he_DU10] אם סימנים כאלה הופיעו בבית, פנו מיד לחדר המיון. בבלבול, בחולשה חדשה וניכרת, באובדן שליטה על שתן או צואה או במצב קשה אחר, התקשרו מאה ואחת. אל תנהגו בעצמכם.
+12. [dura_he_DU11] אלה המלצות כלליות. ההוראות האישיות של הרופא ושל הצוות הרפואי קודמות להן.
+13. [dura_ar_DU01] الحبل الشوكي وجذور الأعصاب محاطة بغشاء قوي. وفي داخله سائل شفاف يحيط بالأعصاب.
+14. [dura_ar_DU02] أحيانًا يتمزّق هذا الغشاء أثناء عملية العمود الفقري. هذه مضاعفة معروفة، خاصةً في العمليات المتكرّرة وعند التضيّق الشديد في القناة. عادةً يخيط الجرّاح مكان التمزّق أو يغلقه بمادة لاصقة فورًا.
+15. [dura_ar_DU03] إذا استمرّ السائل بالتسرّب من التمزّق، ينخفض الضغط حول الدماغ. وقد يسبّب ذلك صداعًا من نوع خاص. في معظم الحالات يلتئم كل شيء بعد الخياطة دون عواقب.
+16. [dura_ar_DU04] بعد التمزّق تختلف التعليمات. يُسمح لبعض المرضى بالنهوض في الوقت المعتاد، ويُطلب من آخرين الاستلقاء بشكل مستوٍ لفترة. بعد إغلاق التمزّق لم تُظهر الدراسات فائدة مقنعة للراحة الطويلة في السرير مقارنةً بالنهوض المبكر. لكن التعليمات تعتمد على الحالة، لذلك القرار للجرّاح. التزموا بتعليماته.
+17. [dura_ar_DU05] أثناء الاستلقاء حرّكوا القدمين، وقوموا بتمارين التنفّس، واشربوا إذا سُمح لكم. وإذا وُصفت وقاية من الجلطات فمن المهم عدم تفويتها. انهضوا أو اجلسوا فقط عندما يُسمح بذلك، وفقط بمساعدة الطاقم.
+18. [dura_ar_DU06] أبلغوا الطاقم إذا ظهر صداع يشتدّ عند الجلوس أو الوقوف ويخفّ عند الاستلقاء. قد يرافقه غثيان وألم في الرقبة وطنين في الأذنين. قد يكون ذلك علامة على تسرّب السائل.
+19. [dura_ar_DU07] أخبروا الطاقم فورًا إذا تبلّلت الضمادة بسائل شفاف مائي، أو ظهر مثل هذا السائل في وعاء التصريف، أو ظهر انتفاخ طري تحت الجرح. الإفراز الشفاف لا يعني دائمًا وجود تسرّب، لكن يجب فحصه.
+20. [dura_ar_DU08] حاولوا تجنّب الشدّ والضغط، خصوصًا عند التبرّز. إذا كان لديكم إمساك فأخبروا الطاقم، فقد يُوصف لكم مليّن. لا ترفعوا أشياء ثقيلة حتى يسمح الطبيب المعالج.
+21. [dura_ar_DU09] أبلغوا الفريق الطبي فورًا إذا كان الصداع شديدًا جدًا، أو ظهرت حمّى، أو ألم وتيبّس في الرقبة، أو انزعاج العينين من الضوء، أو تشوّش. وأبلغوا فورًا أيضًا عن ضعف أو خدر جديد في الساقين، أو خدر حول الأعضاء التناسلية أو فتحة الشرج أو بينهما، أو صعوبة جديدة في التبوّل، أو فقدان السيطرة على البول أو البراز.
+22. [dura_ar_DU10] إذا ظهرت هذه العلامات في البيت، توجّهوا فورًا إلى قسم الطوارئ. عند التشوّش، أو ضعف جديد وواضح، أو فقدان السيطرة على البول أو البراز، أو أي حالة صعبة أخرى، اتصلوا بمئة وواحد. لا تقودوا السيارة بأنفسكم.
+23. [dura_ar_DU11] هذه توصيات عامة. التعليمات الفردية من طبيبكم والفريق الطبي لها الأولوية.
+24. [dura_en_DU01] The spinal cord and nerve roots are surrounded by a tough membrane. Inside it is a clear fluid that bathes the nerves.
+25. [dura_en_DU02] Sometimes this membrane tears during spine surgery. This is a known complication, especially in repeat operations and when the canal is severely narrowed. Usually the surgeon stitches or seals the tear straight away.
+26. [dura_en_DU03] If fluid keeps leaking through the tear, the pressure around the brain drops. This can cause a particular kind of headache. In most cases, once repaired, everything heals without lasting effects.
+27. [dura_en_DU04] After a tear, the routine varies. Some patients may get up at the usual time; others are told to lie flat for a while. Once the tear is closed, studies have not shown a convincing benefit of prolonged bed rest over getting up early. But it depends on the situation, so the surgeon decides. Follow your surgeon's instructions.
+28. [dura_en_DU05] While lying down, move your feet, do breathing exercises and drink if you are allowed. If clot prevention has been prescribed, do not miss it. Sit or stand up only when allowed, and only with the staff.
+29. [dura_en_DU06] Tell the staff if you get a headache that gets worse when sitting or standing and eases when lying down. It may come with nausea, neck pain or ringing in the ears. This can be a sign of a fluid leak.
+30. [dura_en_DU07] Tell the staff straight away if your dressing gets wet with clear, watery fluid, if such fluid appears in the drain container, or if a soft swelling appears under the wound. Clear discharge does not always mean a leak, but it must be checked.
+31. [dura_en_DU08] Try not to strain. If you are constipated, say so; you may be given a laxative. Do not lift anything heavy until the surgeon allows it.
+32. [dura_en_DU09] Tell the medical team immediately if the headache is very severe, or you develop a fever, neck pain and stiffness, sensitivity to light, or confusion. Also report immediately any new weakness or numbness in the legs, numbness around the genitals or anus, new difficulty passing urine, or loss of bladder or bowel control.
+33. [dura_en_DU10] If these signs appear at home, go to the emergency department immediately. If there is confusion, new marked weakness, loss of bladder or bowel control, or another serious condition, call one zero one. Do not drive yourself.
+34. [dura_en_DU11] This is general advice. Individual instructions from your doctor and medical team come first.
