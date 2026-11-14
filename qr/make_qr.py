@@ -13,7 +13,7 @@ import qrcode
 
 BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://pravopomosh-rf.github.io/ortho-guide").rstrip("/")
 OPS = ["thr", "thr-anterior", "tkr", "hip-fracture", "kyphoplasty", "laminectomy",
-       "fusion-discectomy", "spine-other", "preop", "postop", "after-surgery", "why-wait", "ankle-fracture", "knee-arthroscopy", "osteosynthesis", "enoxaparin-injections", "amputation", "shoulder-fracture", "wrist-fracture", "delirium", "falls", "pain", "pressure-sores", "breathing", "walker", "swelling", "log-roll", "spine-path", "hip-path", "knee-path", "shoulder-path", "achilles-repair", "after-anaesthesia", "cellulitis", "cpe-vre", "diabetic-foot", "dressings", "durotomy", "oxygen-sleep", "purulent-infection", "rotator-cuff", "shoulder-replacement", "thr-home"]
+       "fusion-discectomy", "spine-other", "preop", "postop", "after-surgery", "why-wait", "ankle-fracture", "knee-arthroscopy", "osteosynthesis", "enoxaparin-injections", "amputation", "shoulder-fracture", "wrist-fracture", "delirium", "falls", "pain", "pressure-sores", "breathing", "walker", "swelling", "log-roll", "spine-path", "hip-path", "knee-path", "shoulder-path", "achilles-repair", "after-anaesthesia", "cellulitis", "cpe-vre", "diabetic-foot", "dressings", "durotomy", "oxygen-sleep", "purulent-infection", "rotator-cuff", "shoulder-replacement", "thr-home", "rehab", "ankle-path", "wrist-path"]
 LANGS = ["he", "ar", "ru", "en"]
 HERE = os.path.dirname(os.path.abspath(__file__))
 
