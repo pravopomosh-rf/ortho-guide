@@ -234,7 +234,7 @@ header.ph{background:linear-gradient(160deg,rgba(17,84,77,.93) 0%,rgba(28,111,10
 @keyframes phIn{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
 @keyframes kb{from{transform:scale(1)}to{transform:scale(1.07)}}
 body.hasph main section:not(.danger):not(.warn):not(.vtop){background:linear-gradient(rgba(255,255,255,.93),rgba(255,255,255,.96)),var(--ph) center/cover}
-main section.rv{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
+main section.rv{opacity:1;transform:none}
 main section.rv.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.phero,.phero img{animation:none}}
 /* карта тела на главной */
@@ -288,3 +288,10 @@ body.big main{zoom:1.18}
 @media (prefers-reduced-motion:reduce){.phero .bgi{animation:none}}
 .card span.bgi{position:absolute;inset:0;padding:0;background:#ddd center/cover no-repeat;z-index:0}
 .card span:not(.bgi){z-index:1}
+/* 14.11: крупнее мелкие подписи и чипы, выше контраст */
+a.pc .pt{font-size:17px}
+a.pc .chip{font-size:15px;padding:4px 12px}
+.subh{font-size:19px}
+.srr small,.srn{font-size:16px}
+figcaption,.ill,.sref{font-size:16px;opacity:1;color:var(--ink2)}
+a.totop{font-size:17px;min-height:48px;line-height:48px}
