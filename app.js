@@ -118,3 +118,8 @@ if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduc
 })();
 /* крупный шрифт (А+) — запоминается на этом устройстве */
 (function(){try{var on=localStorage.big==='1';if(on)document.body.classList.add('big');document.querySelectorAll('.lang').forEach(function(lg){var b=document.createElement('button');b.type='button';b.className='bigbtn';b.textContent='A+';b.setAttribute('aria-pressed',on?'true':'false');b.setAttribute('aria-label','A+');b.onclick=function(){var v=document.body.classList.toggle('big');b.setAttribute('aria-pressed',v?'true':'false');try{localStorage.big=v?'1':'0'}catch(e){}};lg.parentNode.insertBefore(b,lg.nextSibling)})}catch(e){}})();
+/* обложки и миниатюры — фоном (background-size:cover): на iPhone/Telegram object-fit сплющивал фото (14.11) */
+(function(){var L=document.querySelectorAll('.phero img,.th img,.card img,.regh img');if(!L.length)return;
+var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var s=e.target;s.style.backgroundImage='url("'+s.dataset.bg+'")';io.unobserve(s)}})},{rootMargin:'400px 0px'}):null;
+L.forEach(function(im){var s=document.createElement('span');s.className='bgi';var a=im.getAttribute('alt');if(a){s.setAttribute('role','img');s.setAttribute('aria-label',a)}else s.setAttribute('aria-hidden','true');
+s.dataset.bg=new URL(im.getAttribute('src'),location.href).href;im.parentNode.replaceChild(s,im);if(io)io.observe(s);else s.style.backgroundImage='url("'+s.dataset.bg+'")'})})();
