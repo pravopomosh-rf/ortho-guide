@@ -18,7 +18,7 @@ def ant(l):
 ILL={'acdf':'p/spine-other.webp','breath':'p/breathing.webp','delir':'p/delirium.webp','falls':'p/falls.webp','fusion':'spine_disc_fusion.svg',
  'kyphoplasty':'vcf.webp','laminectomy':'lami_{l}.webp','logroll':'p/log-roll.webp','osteo':'p/osteosynthesis.webp','pain':'p/pain.webp',
  'postop':'p/postop.webp','preopv':'sec_preop.webp','preop':'sec_preop.webp','press':'p/pressure-sores.webp','shoulder':'p/shoulder-fracture.webp',
- 'swell':'p/swelling.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp',
+ 'swell':'p/swelling.webp','drain':'p/drain.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp',
  'wrist':'p/wrist-fracture.webp','ankle':'ankle_anatomy.svg','thr3av':'p/walker.webp','thr2v':'thr_ill.webp'}
 FR={'amp':(2,430),'anest':(2,405),'arth':(2,650),'cuff':(0,470),'enox':(5,340),'hipfxv':(1,300),'o2':(0,360),'stairs':(6,470),
  'thr_anterior':(0,950)}
