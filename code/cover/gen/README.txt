@@ -1,1 +1,2 @@
 Обложки роликов 15.11: python3 build.py (данные из index/ops) → frames.py (кадры для FR) → npm i @fontsource/{unbounded,inter,heebo,noto-kufi-arabic}, шрифты в fonts/ → node render.js [темы] → out/*.png → 720x1280 jpg в video/c/. meta.json строится в чате (карточки и разделы index).
+Карточки 4:3 (15.11): node render43.js [темы] → t/*.png → 800x600 jpg q80 в video/t/; в index .th src=video/t/<v>_<l>.jpg. anest кадр i=4.
