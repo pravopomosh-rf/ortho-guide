@@ -36,5 +36,6 @@
  "7_enox": "enox.json (ru, he, ar, en E01..E12)",
  "8_osteo": "osteo.json (ru, he, ar, en O01..O12)",
  "9_postop": "postop.json (ru, he, ar, en P01..P10)",
- "_hirurg": "11.11 RU-тексты osteo/wait/acdf/shoulder/wrist/drain/spinimp/tibplat/stage/dura/achil: «хирург» → «травматолог-ортопед»/«спинальный хирург — ортопед или нейрохирург»/«лечащий врач» — ОДОБРЕНО ChatGPT (hirurg_check.txt). Уже озвученные arth/ankle/fusion/cuff не трогали."
+ "_hirurg": "11.11 RU-тексты osteo/wait/acdf/shoulder/wrist/drain/spinimp/tibplat/stage/dura/achil: «хирург» → «травматолог-ортопед»/«спинальный хирург — ортопед или нейрохирург»/«лечащий врач» — ОДОБРЕНО ChatGPT (hirurg_check.txt). Уже озвученные arth/ankle/fusion/cuff не трогали.",
+ "02_pjv": "pjv.json — 15.11 ОДОБРЕНО ChatGPT: ролик «Первые дни после замены сустава» (tkr+thr), ru/he/ar/en PJ01–PJ11 + cap_* + vis_*; озвучка AI Studio u1–u4 (44 клипа), затем рендер 3D"
 }
