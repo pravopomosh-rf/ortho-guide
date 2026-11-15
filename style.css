@@ -288,3 +288,17 @@ body.big main{zoom:1.18}
 @media (prefers-reduced-motion:reduce){.phero .bgi{animation:none}}
 .card span.bgi{position:absolute;inset:0;padding:0;background:#ddd center/cover no-repeat;z-index:0}
 .card span:not(.bgi){z-index:1}
+/* 15.11: читаемость для пожилых — мелкий текст крупнее, контраст выше, зоны нажатия ≥48px */
+.bigbtn{min-height:48px;min-width:64px}
+a.totop{display:inline-flex;align-items:center;min-height:48px;font-size:17px}
+a.pc .chip{font-size:15px;padding:4px 11px}
+a.pc .pt{font-size:17px}
+.srr small,.srn{font-size:16px}
+.srr a{min-height:48px}
+.pathbar small,a.warnbar small,a.qa .qt small{font-size:16px}
+.pathbar .pwi{font-size:15px}
+figcaption,.ill,.sref,.vdur,.vnote{opacity:1;color:var(--ink2)}
+figcaption{font-size:16px}
+.ill{font-size:15px}
+a.op.topic small{opacity:1;color:var(--ink2)}
+.bmap text{font-size:16px}
