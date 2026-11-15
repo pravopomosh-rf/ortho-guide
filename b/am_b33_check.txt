@@ -1,0 +1,37 @@
+АМХАРСКИЙ, пакет 33 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	When opening an abscess, the doctor may take a pus sample to identify the germ. If a deep infection after surgery or an infection around an implant is suspected, several samples are usually taken from deep tissues during the operation.
+002	Culture results help choose or change the antibiotics. With a severe infection, treatment is not delayed until the results arrive.
+003	Sometimes more than one operation is needed before the wound is clean. This does not necessarily mean treatment is going badly.
+004	With an infection around an implant (a plate, a screw or a joint replacement), the treatment plan is special: sometimes the implant is kept, and sometimes it has to be replaced or removed. The surgeon decides this together with you.
+005	The wound after surgery
+006	After the pus and dead tissue are removed, the surgeon decides how to close the wound. Sometimes it is left open or partly open to allow further treatment and drainage. In other cases it is closed straight away or at the next operation.
+007	This depends on how deep the infection is, the state of the tissues and whether more surgical cleaning is needed.
+008	There may be a drain (a small tube) to let fluid out.
+009	Sometimes a vacuum dressing is used (VAC, negative pressure wound therapy): a sealed dressing with a tube and a small machine that draws off fluid. Do not switch off the machine or touch the tube.
+010	The vacuum dressing helps remove fluid and keeps conditions right for healing, but on its own it does not replace surgical cleaning or antibiotics when they are needed.
+011	If the machine stops working or beeps, the dressing is no longer sealed, or fresh blood appears in the tube, tell staff straight away.
+012	Dressings are changed by the medical staff. The doctor decides which solution to use and how often to change the dressing, based on how the wound looks.
+013	You can ask for pain relief in advance, before the dressing change.
+014	What helps healing
+015	Well-controlled blood sugar, if you have diabetes.
+016	Good nutrition with enough protein; if needed, a dietitian will adjust your diet.
+017	Stopping smoking: smoking slows wound healing.
+018	Movement and limb position — as the doctor and physiotherapist instruct.
+019	If the infection is on the foot, especially with diabetes, the doctor may limit weight-bearing and prescribe a special offloading device. Do not put weight on the affected area against the team's instructions. If blood flow to the leg is poor, an assessment by a vascular specialist may be needed.
+020	Clean hands — yours, visitors' and staff's. Do not touch the wound or the dressing with your hands.
+021	Tell staff straight away if
+022	Fever, chills, severe weakness or confusion.
+023	Pain suddenly gets much worse, or redness or swelling spreads quickly.
+024	The dressing is soaked with blood or pus, or there is a bad smell.
+025	The skin around the wound darkens, or blisters or numbness appear.
+026	Especially dangerous: sudden confusion, fast breathing, sudden severe weakness, a marked worsening of your general condition, and pain much stronger than the wound's appearance would suggest. These may be signs of a severe infection, sepsis or flesh-destroying (necrotising) infection. In older patients and people with diabetes, a severe infection sometimes happens without a high fever.
+027	If a rash or itching appears after an antibiotic, tell staff straight away. If you have sudden swelling of the face, lips or tongue, difficulty breathing, severe dizziness or you pass out, call the medical staff immediately; at home, call an ambulance on 101.
+028	After you go home
+029	Dressing changes at home or at the clinic — exactly as set out in your discharge plan.
+030	If antibiotics were prescribed, take them for the whole prescribed time.
+031	Come to your follow-up with the surgeon on the appointed date.
+032	Seek help urgently (if severely unwell, call an ambulance on 101): high fever, quickly increasing pain, redness or swelling, pus, bleeding, or feeling unwell.
+033	IWGDF/IDSA — Guidelines on the Diagnosis and Treatment of Diabetes-related Foot Infections (Senneville et al., Clin Infect Dis 2023)
+034	IDSA — Diagnosis and Management of Prosthetic Joint Infection (Osmon et al., Clin Infect Dis 2013)

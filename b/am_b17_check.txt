@@ -1,0 +1,74 @@
+АМХАРСКИЙ, пакет 17 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	Call staff immediately, with the call button or by calling out loudly, if the person is hard to wake, is breathing very slowly, with pauses or shallowly, if the lips or face turn blue, or if there is shortness of breath, chest pain or sudden confusion. Do not wait for the lips to turn blue or for saturation to drop: on oxygen the number can sometimes stay normal even when breathing is dangerously weak.
+002	Oxygen safety
+003	Oxygen safety. No smoking nearby, including e-cigarettes, and no open flames. Do not put petroleum jelly or oily creams on the face or lips. If the lips are dry, ask the nurse which water-based product can be used. Make sure the oxygen tubing does not kink or tangle around the feet. If the patient needs to get up, call staff first.
+004	When oxygen is stopped
+005	As recovery from anaesthesia continues, the need for oxygen often decreases. But if saturation drops again, staff look for the cause. Oxygen is stopped by the care team's decision, when the patient keeps the target level without it.
+006	MedlinePlus (U.S. National Library of Medicine) — Pulse Oximetry
+007	British Thoracic Society — Guideline for oxygen use in adults in healthcare and emergency settings (2017)
+008	Rehabilitation (
+009	) helps you regain movement, strength, independence and the ability to return to everyday activities.
+010	Not everyone needs inpatient rehabilitation. Recovery may take place at home, in a clinic, a day rehabilitation centre or a specialist unit.
+011	Your rehabilitation plan depends on the operation, your health and how safely you can move and care for yourself.
+012	Before discharge, ask where you will receive rehabilitation, who will arrange it and which movements you are allowed to make.
+013	What is rehabilitation and why does it matter?
+014	After surgery, you may find it difficult to walk, get out of bed, get dressed, shower or use the toilet. Your muscles may be weaker, movement may be restricted and pain may interfere with everyday activities.
+015	Rehabilitation helps you gradually regain abilities affected by surgery.
+016	Depending on your needs, your team may include a physiotherapist, occupational therapist, nurse, rehabilitation physician and other professionals.
+017	The aim is not only to improve movement but also to help you live safely at home, depend less on others and return to your usual activities.
+018	Where can you receive rehabilitation in Israel?
+019	Inpatient rehabilitation
+020	You stay temporarily in a rehabilitation ward or specialist hospital. This option is considered when you need intensive rehabilitation, professional assistance and medical monitoring.
+021	Day rehabilitation
+022	You attend treatment and exercise sessions during the day and return home afterwards. This option is suitable if you do not need to stay in hospital overnight.
+023	Physiotherapy through your health fund
+024	You attend physiotherapy appointments and perform prescribed exercises at home. Additional rehabilitation services may be arranged if needed.
+025	Rehabilitation at home
+026	Healthcare professionals provide treatment in your home if this option suits your condition and meets the programme's eligibility criteria.
+027	Who decides and how is it arranged?
+028	Your medical team assesses whether you need rehabilitation. Your treating doctor and, when necessary, a rehabilitation physician recommend the appropriate setting. A social worker, discharge coordinator or liaison nurse helps arrange further care.
+029	Your health fund reviews the referral and approves services according to its rules. A hospital recommendation does not automatically guarantee approval for a particular facility.
+030	If rehabilitation is recommended, clarify the approval process before discharge.
+031	What to prepare before surgery
+032	If your surgery is planned, prepare your home for your return.
+033	Remove loose rugs, cables and other obstacles. Make sure lighting is good, especially at night.
+034	Plan a safe route to the toilet, bathroom and bed.
+035	Arrange help with shopping, cooking, cleaning and travel to appointments.
+036	Ask whether you will need a walker, crutches, grab rails, shower chair or other equipment.
+037	Prepare a list of your medicines and medical documents.
+038	If you live alone or have many stairs at home, tell your medical team in advance.
+039	Do not buy specialist equipment unnecessarily. The right equipment depends on your operation and professional recommendations.
+040	Rehabilitation after different operations
+041	Hip replacement
+042	Learn to get up, sit down and walk safely using appropriate support.
+043	Follow movement restrictions if your orthopaedic surgeon has prescribed them. Restrictions depend on the operation.
+044	Gradually increase activity according to your physiotherapy programme.
+045	The main goal is to regain the ability to get up, walk and manage everyday activities safely.
+046	Ask whether you may put your full weight on the operated leg.
+047	Preventing further falls and assessing bone health are important.
+048	Knee replacement
+049	Exercises help restore knee bending and straightening.
+050	Increase walking and weight-bearing gradually.
+051	Tell your physiotherapist if pain or swelling makes exercises difficult.
+052	Shoulder surgery: replacement, fracture or rotator cuff repair
+053	Wear your sling for as long as your orthopaedic surgeon instructs.
+054	Passive movements, when a professional or your other arm moves the operated arm, and active movements are allowed at different stages.
+055	Do not lift heavy objects or start shoulder exercises independently without permission.
+056	Spine surgery: laminectomy, fusion or kyphoplasty
+057	Walking is usually an important part of recovery once your medical team allows it.
+058	Restrictions on bending, twisting and lifting depend on the operation.
+059	Not everyone needs a back brace. Use one only if prescribed by your spine surgeon, who may be an orthopaedic surgeon or neurosurgeon.
+060	Signs of progress and when to seek urgent help
+061	Recovery is usually gradual. Good signs include feeling more confident when moving, managing everyday activities more independently and finding exercises less difficult.
+062	Some variation in pain and tiredness is possible. However, increasing pain, worsening mobility, fever, wound discharge, spreading redness, or calf pain and swelling should not be ignored. Seek urgent medical help.
+063	Call an ambulance on 101 immediately in Israel if you develop sudden shortness of breath, severe chest pain, loss of consciousness or serious difficulty breathing.
+064	After spine surgery, new leg weakness, loss of sensation around the genitals or back passage, new urinary problems or loss of bowel control require immediate assessment in an emergency department, or an ambulance call on 101 if you cannot get there safely.
+065	Questions to ask before discharge
+066	Do I need rehabilitation? Which type is recommended for me?
+067	Who arranges the referral and approval from my health fund?
+068	When and where will treatment begin? Who should I contact if it has not been arranged?
+069	Which exercises should I do at home, and which movements must I avoid?
+070	May I put my full weight on the operated leg or use the operated arm?
+071	What equipment will I need at home, and who can help me choose it?

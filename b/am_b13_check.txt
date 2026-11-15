@@ -1,0 +1,51 @@
+АМХАРСКИЙ, пакет 13 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	If your kidneys do not work well, or you have ever had a serious reaction to heparin with a drop in platelets, make sure your doctor knows. With some kidney conditions the enoxaparin dose must be changed, and after certain reactions to heparin the medicine may not be allowed. Never change the dose yourself.
+002	Before the injection
+003	Before every injection, check the name of the medicine, the prescribed dose, the expiry date and that the syringe is undamaged. The solution should be clear. If the syringe is damaged, out of date or the solution is cloudy, do not use it. This helps avoid a dose error or giving a medicine that is not fit for use.
+004	Wash your hands with soap and water and dry them well — this lowers the risk of infection at the injection site.
+005	Sit or lie down comfortably.
+006	Choose a spot on the right or left side of your belly, at least 5 cm from the belly button.
+007	Do not inject into scars, bruises, or areas that are sore, red or swollen. If redness, pain, swelling or discharge from the skin remains after a previous injection, tell the nurse or doctor. This may be a sign of a local complication.
+008	Choose a new suitable injection site on your abdomen each time, alternating between the right and left sides. Do not inject into bruised, hardened or irritated skin. This helps avoid repeated injury to the same area.
+009	Wipe the skin with an alcohol wipe or with soap and water and let it dry.
+010	How to give the injection
+011	Right or left side of the belly, at least 5 cm from the belly button. Change sides each time.
+012	Gently pinch a fold of belly skin between your thumb and index finger and hold it for the whole injection.
+013	Insert the whole length of the needle into the fold at a right angle and press the plunger slowly until all the medicine has gone in.
+014	Pull the needle straight out, without changing direction.
+015	Diagram, not to scale. The syringe safety device works as described in the instructions for your syringe (see below).
+016	Carefully pull off the needle cap. Do not let the needle touch anything — it must stay sterile.
+017	If the prefilled syringe contains exactly your prescribed dose, do not push out the air bubble and do not press the plunger before the injection — otherwise you may lose some of the medicine. If your prescribed dose is smaller than the contents of the syringe, change the amount yourself only after special training by a nurse or doctor.
+018	Hold the syringe in the hand you write with. With your other hand, gently pinch a fold of belly skin between your thumb and index finger, and hold the fold for the whole injection.
+019	Insert the whole length of the needle into the skin fold at a right angle.
+020	Press the plunger slowly until all the medicine has gone in.
+021	After the whole dose is in, keep your finger on the plunger and pull the needle straight out, without changing direction. Point the needle away from yourself and others. Only after the needle is out, press the plunger firmly to activate the Crusia safety system. The safety sleeve covers the needle, usually with a click. Then let go of the skin fold. This helps prevent an accidental needle-stick from the used needle.
+022	Do not rub or scratch the injection site: this makes bruising more likely.
+023	After the injection
+024	Put the used syringe straight into a special strong container for sharp medical waste. Do not put the cap back on, do not reuse the syringe and do not throw it in the ordinary rubbish bin. This prevents accidental needle-sticks. Ask your clinic or pharmacy in advance where to get a container and where to return it when it is full.
+025	Store unused syringes below 25°C, do not freeze them, and keep them away from children. Do not leave the medicine in a hot car or in direct sunlight. Wrong storage can affect the quality of the medicine.
+026	A small bruise or a small lump at the injection site is common and usually goes away by itself.
+027	Mark each injection you give on a calendar — this lowers the risk of forgetting or repeating a dose.
+028	If you missed an injection or made a dose error
+029	If you forgot a Crusia injection, the manufacturer’s instructions say to give the missed dose as soon as you remember. Do not give a double dose on the same day to make up for it: this increases the risk of bleeding. If it is nearly time for the next injection, or you are not sure whether you gave the medicine, ask your doctor or pharmacist what to do next.
+030	If you accidentally gave too much or too little, contact your doctor, nurse or pharmacist straight away, even if you feel fine. Do not try to make up for the error with another injection: too high a dose increases the risk of bleeding.
+031	When to get help
+032	Enoxaparin reduces blood clotting and increases the risk of bleeding. If you notice blood in your urine, repeated nosebleeds, or unusually large bruises, seek medical help the same day. If your stools are black and tarry, go to the emergency department immediately: this may be a sign of bleeding in the digestive tract.
+033	If you vomit blood, have heavy bleeding that cannot be stopped, a sudden very severe headache, loss of consciousness or sudden weakness on one side of the body — call an ambulance on 101 immediately. These may be signs of serious bleeding, a stroke, or another medical emergency.
+034	If you have had spinal or epidural anesthesia, a lumbar puncture, or spine surgery, and develop new severe pain in the middle of your back, numbness or increasing weakness in your legs, or loss of bladder or bowel control, go to the emergency department immediately. If your condition worsens rapidly, call an ambulance on 101.
+035	If you fall and hit your head during treatment, go to the emergency department immediately, even if you feel well for now. Hidden bleeding is possible while you take this medicine.
+036	If after an injection your lips, tongue or throat swell or you have difficulty breathing — call an ambulance on 101 immediately: this may be a severe allergic reaction.
+037	Do not add aspirin, ibuprofen or other anti-inflammatory medicines on your own: together with enoxaparin they increase the risk of bleeding. If your doctor has already prescribed aspirin, do not stop it yourself.
+038	New pain, swelling or redness in the calf — get medical help the same day: it may be a blood clot.
+039	Sudden shortness of breath or chest pain — call an ambulance on 101 straight away.
+040	Israeli Ministry of Health — Crusia / Crusia Forte: official patient leaflet (May 2023)
+041	CDC — Signs and Symptoms of Stroke
+042	DailyMed (NLM) — Enoxaparin sodium injection: prescribing information (spinal/epidural hematoma)
+043	This is general information. Your treating doctor’s individual instructions take priority over the recommendations on this page.
+044	Preventing falls: in hospital and at home after surgery
+045	After surgery the risk of falling is higher: weakness, dizziness, medicines, night trips to the toilet.
+046	In hospital, get up only with staff if told to; keep the call button within reach.
+047	If you fall at home and have severe pain or cannot get up: do not get up yourself, call an ambulance on 101.
+048	Video: Preventing falls: in hospital and at home after surgery

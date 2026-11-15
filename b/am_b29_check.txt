@@ -1,0 +1,48 @@
+АМХАРСКИЙ, пакет 29 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	Sometimes this membrane tears during spine surgery. This is a known complication, especially in repeat operations and when the canal is severely narrowed. Usually the surgeon stitches or seals the tear straight away.
+002	What it can cause
+003	If fluid keeps leaking through the tear, the pressure around the brain drops. This can cause a particular kind of headache. In most cases, once repaired, everything heals without lasting effects.
+004	The surgeon decides
+005	After a tear, the routine varies. Some patients may get up at the usual time; others are told to lie flat for a while. Once the tear is closed, studies have not shown a convincing benefit of prolonged bed rest over getting up early. But it depends on the situation, so the surgeon decides. Follow your surgeon's instructions.
+006	If you need to stay in bed
+007	While lying down, move your feet, do breathing exercises and drink if you are allowed. If clot prevention has been prescribed, do not miss it. Sit or stand up only when allowed, and only with the staff.
+008	Headache
+009	Tell the staff if you get a headache that gets worse when sitting or standing and eases when lying down. It may come with nausea, neck pain or ringing in the ears. This can be a sign of a fluid leak.
+010	Wound and drain
+011	Tell the staff straight away if your dressing gets wet with clear, watery fluid, if such fluid appears in the drain container, or if a soft swelling appears under the wound. Clear discharge does not always mean a leak, but it must be checked.
+012	No straining
+013	Try not to strain. If you are constipated, say so; you may be given a laxative. Do not lift anything heavy until the surgeon allows it.
+014	Urgent
+015	Tell the medical team immediately if the headache is very severe, or you develop a fever, neck pain and stiffness, sensitivity to light, or confusion. Also report immediately any new weakness or numbness in the legs, numbness around the genitals or anus, new difficulty passing urine, or loss of bladder or bowel control.
+016	If these signs appear at home, go to the emergency department immediately. If there is confusion, new marked weakness, loss of bladder or bowel control, or another serious condition, call an ambulance on 101. Do not drive yourself.
+017	AO Spine — Incidental lumbar durotomy (Clinical Expert Advice Forum)
+018	Incidental durotomy in spine surgery: management (PMC10362543)
+019	Hip replacement through the anterior approach: what is important to know
+020	Follow your surgeon’s instructions on weight-bearing, movement and exercises.
+021	Fever, wound discharge or calf swelling: seek urgent medical assessment.
+022	This page is for people who have already had a hip replacement through the anterior approach. It gathers general information about recovery and possible complications. The instructions from your surgeon, physical therapist, and medical team, based on your own operation, take priority.
+023	Source: NICE, 2020 (NG157); AAOS OrthoInfo
+024	What the anterior approach is
+025	The anterior approach means the surgeon reaches the hip joint from the front, usually using the gap between muscles. Even so, the soft tissues are still moved aside and shifted; it cannot be guaranteed that they will not be damaged. With other approaches, the joint is reached from behind or from the side. The type and parts of the implant are chosen separately, based on your anatomy and clinical situation, not only on the surgical approach.
+026	According to the 2023 guidelines of the American Academy of Orthopaedic Surgeons, there is no single approach that is best for all patients. Each has its own advantages and risks. The choice is discussed by the patient and the surgeon, taking into account medical factors and the surgeon's experience.
+027	Source: AAOS, 2023; AAOS OrthoInfo
+028	The hip joint
+029	Illustration: Blausen.com staff (2014), WikiJournal of Medicine, CC BY 3.0
+030	Hip joint implant
+031	What to expect during recovery
+032	In a 2023 meta-analysis of 24 randomized trials, patients after the anterior approach, on average, had better function scores at about 6 weeks compared with the posterior approach. At later time points the differences usually became smaller. The average length of hospital stay was about 0.33 days shorter than with the posterior approach, which is about 8 hours; this is an average difference across the studies, not a promise of earlier discharge.
+033	These studies did not find a statistically significant difference in dislocations, fractures around the implant, or venous blood clots. This does not mean the risks are exactly the same: rare complications need larger studies.
+034	Source: Meta-analysis of RCTs, 2023; AAOS, 2023
+035	How to recover
+036	If your condition allows, rehabilitation and help with the first steps are usually offered on the day of surgery or within the next 24 hours. Your medical team decides how much weight you may put on the leg, whether you need a walker or crutches, and your exercise program. Increase your activity gradually, following their advice, and avoid falls.
+037	Take the medicines prescribed after surgery, including medicines to prevent blood clots, strictly as written in your discharge papers. Do not stop them on your own. Wound and dressing care and the timing of your follow-up visit are also set by your individual instructions.
+038	Movements and restrictions
+039	After hip replacement, movement restrictions depend on the surgical approach, the stability of the implant, and the patient's characteristics. Studies after the posterior approach showed that standard restrictions did not convincingly reduce the risk of dislocation in the groups of patients studied; confidence in these data is limited. These results cannot automatically be applied to your operation.
+040	After the anterior approach, some patients are allowed more movement, but this does not mean that everyone can right away cross their legs, sit on low chairs, or excessively rotate or move the hip out to the side. Before discharge, ask your surgeon or physical therapist about your specific restrictions and how long they last. Do not stop following them on your own.
+041	Source: Korfitsen et al., 2023; Chan et al., 2025; RCT, 2020; AAOS OrthoInfo
+042	After the anterior approach, numbness, tingling, or burning of the skin on the front and outer side of the thigh sometimes occurs. This may be due to irritation of the lateral femoral cutaneous nerve. It is responsible for skin sensation, so damage to it alone does not cause muscle weakness. In many people the sensations gradually lessen, but in some patients they remain.
+043	Problems with wound healing, infection, nerve injury, fracture, dislocation, and blood clots are possible, as with other types of joint replacement. Some comparative reviews found more wound or nerve complications with the anterior approach, but the results depend on the studies and the experience of the surgical team. There is no basis to consider this approach completely safe or dangerous for all patients.
+044	Source: Meta-analysis of RCTs, 2023; Meta-analysis, 2022; Systematic review, 2021; AAOS, 2023
+045	Before discharge

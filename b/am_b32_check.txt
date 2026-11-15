@@ -1,0 +1,66 @@
+АМХАРСКИЙ, пакет 32 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	IWGDF 2023 — Guidelines on the prevention and management of diabetes-related foot disease
+002	IWGDF 2023 — Guidelines on offloading foot ulcers in persons with diabetes
+003	ADA — 12. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026
+004	Cellulitis is a bacterial infection of the skin and the tissue under it, often on the leg.
+005	Raise the leg when resting and take the antibiotic exactly as prescribed.
+006	Redness spreading fast past the marker line, or severe pain: tell the staff at once.
+007	What it is
+008	Cellulitis is a bacterial infection of the deep layers of the skin and the tissue under it. It is most often on the leg, but it can appear anywhere on the body.
+009	This is not cosmetic “cellulite” (orange-peel skin) — it is something completely different.
+010	Ordinary cellulitis without pus is most often caused by streptococci. Staphylococcus aureus is less common, mainly when there is an open wound or a penetrating skin injury.
+011	Bacteria get in through damaged skin: a small cut, a crack, a bite, athlete's foot between the toes, an ulcer or a surgical incision.
+012	Erysipelas is a similar infection of the more superficial layers of the skin; it is treated in a similar way.
+013	Cellulitis usually does not pass from person to person through ordinary everyday contact.
+014	What it looks like
+015	Red skin that may spread.
+016	Swelling, skin that feels hot to the touch, and tenderness.
+017	Sometimes blisters on the skin.
+018	There may be fever, chills and weakness.
+019	Usually only one leg is affected. Redness on both legs at once is more often due to other causes (for example, blood pooling in the veins or a skin reaction) — the doctor decides.
+020	Who is at higher risk
+021	Leg swelling, poor lymph drainage (lymphoedema), varicose veins.
+022	Diabetes, a weakened immune system.
+023	Excess weight.
+024	Cracked skin, athlete's foot, eczema, wounds and ulcers.
+025	Having had cellulitis before: it can come back.
+026	The doctor examines the skin and rules out other causes of redness and swelling, such as blood pooling in the veins, a skin reaction or a deep vein thrombosis. In ordinary cellulitis, cultures are usually not needed. Blood tests, a wound culture and an ultrasound scan are ordered when needed, depending on the patient's condition.
+027	The main treatment is antibiotics. The doctor prescribes them as tablets or into a vein, depending on how severe the infection is.
+028	If a collection of pus (an abscess) has formed under the skin, it may need to be opened and drained. Antibiotics alone are sometimes not enough.
+029	The edge of the redness is often outlined with a marker pen. This makes it easier to see whether the infection is shrinking or spreading. Do not wipe this line off.
+030	The leg is kept raised: this reduces swelling and pain and helps healing.
+031	The first signs of improvement usually appear within two to three days of starting treatment. In the first 24–48 hours the redness sometimes spreads a little, but rapid worsening needs a doctor's assessment straight away. Even when treatment works, redness and swelling of the skin can last longer, sometimes several weeks.
+032	Take the antibiotic for the whole time the doctor prescribed, even if you feel better. Do not stop the treatment on your own.
+033	The “entry point” of the infection is treated too: athlete's foot between the toes, cracks, dry skin and wounds.
+034	Tell staff straight away, and at home seek urgent help (if severely unwell, call an ambulance on 101), if
+035	The redness spreads quickly beyond the line drawn with the marker.
+036	Severe pain that seems out of proportion to how the skin looks.
+037	The skin darkens or turns bluish or black, blisters with dark fluid appear, or the skin goes numb.
+038	High fever, chills, severe weakness, confusion, fast breathing or a fast heartbeat, dizziness.
+039	If a rash or itching appears after starting the antibiotic, tell the medical staff straight away. If you have sudden swelling of the face, lips or tongue, difficulty breathing, severe dizziness or you pass out, call staff immediately; at home, call an ambulance on 101.
+040	If redness, increasing pain, swelling or discharge appear around the surgical wound, especially after a joint replacement, tell the surgeon straight away. This may be a surgical site infection, which needs its own assessment and treatment.
+041	There is no improvement after 2–3 days of treatment.
+042	How to lower the risk of it coming back
+043	Check your legs and feet every day, especially if you have diabetes.
+044	Moisturise dry skin, and treat athlete's foot and cracks.
+045	Reduce leg swelling: raise your legs when resting; use compression stockings only if a doctor recommends them.
+046	Wash your hands and look after small cuts; keep any wound clean.
+047	If cellulitis keeps coming back, the doctor may discuss special preventive treatment.
+048	At the first signs of it coming back, see a doctor — do not wait.
+049	NICE NG141 — Cellulitis and erysipelas: antimicrobial prescribing (2019)
+050	IDSA — Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections (Stevens et al., Clin Infect Dis 2014)
+051	For an abscess, the main treatment is usually to open it and drain the pus.
+052	Dressings exactly as planned; antibiotics, if prescribed, for the full course.
+053	Fever, chills, sudden worse pain or fast-spreading redness: tell the staff at once.
+054	An abscess is a contained collection of pus in the tissues, like a “pocket” of pus.
+055	A phlegmon is a spreading infection-related inflammation of soft tissues without clear borders. Unlike an abscess, it usually does not form a separate, well-defined pocket of pus. Not every spreading infection needs surgery: treatment depends on how deep and severe the infection is and whether there is pus or dead tissue.
+056	A pus-forming infection can develop after a wound, a bite or a puncture, with a diabetic foot, or at a surgical site or around a metal implant.
+057	Signs: increasing pain, redness, swelling, hot skin, sometimes softening or pus coming out, fever and weakness.
+058	When and why surgery is needed
+059	With a formed abscess, the main treatment is opening it and draining the pus. If there is dead or infected tissue, the surgeon may remove it. This is called surgical wound cleaning, or debridement.
+060	Not every infection needs surgery. But with a deep abscess, dead tissue, or a suspected fast-spreading flesh-destroying (necrotising) infection, surgery may be needed urgently.
+061	Antibiotics are prescribed according to the type and severity of the infection. For a small surface abscess that has been fully drained, they are not always needed.
+062	With a spreading infection, signs of general deterioration, a markedly weakened immune system, a deep infection, or infection of the tissues around an implant, antibiotics are usually an important part of treatment.
+063	Having diabetes does not by itself mean antibiotics are always needed after opening any small abscess. However, a diabetic foot infection needs special attention and sometimes urgent surgery.

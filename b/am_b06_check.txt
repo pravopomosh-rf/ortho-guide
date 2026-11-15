@@ -1,0 +1,56 @@
+АМХАРСКИЙ, пакет 06 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	After spinal anaesthesia or a nerve block, your leg may temporarily feel heavy, weak or numb. The duration depends on the medicine and anaesthetic technique. Some nerve blocks can last up to 48 hours. While sensation or strength is reduced, do not get up without staff assistance. Do not use heating pads or apply ice on your own. Pain may increase as the block wears off, so ask for pain relief in advance as prescribed. Tell staff immediately if numbness or weakness gets worse or lasts longer than expected.
+002	Nausea after surgery
+003	Nausea and vomiting can occur after anaesthesia or with some pain medicines. Tell your nurse so treatment can be provided if needed. In our ward, patients usually do not eat for the first 1–2 hours after returning from the operating theatre area. Start eating and drinking only when your nurse says it is safe. The timing depends on your condition, the type of anaesthesia and the operation.
+004	Sore throat or a lump in the throat
+005	During general anaesthesia, a breathing tube or a special airway mask may be used. Afterwards, you may experience a sore throat, irritation, a lump sensation or hoarseness. These symptoms usually improve gradually. Once drinking is allowed, small sips of water may help. Report breathing difficulty or severe or worsening swallowing difficulty immediately.
+006	Why cold packs are used
+007	Cold therapy may reduce pain and swelling. Use a cold pack only as instructed by staff, usually for 15–20 minutes at a time with breaks. Place a cloth between the pack and your skin. Do not wet the dressing or place the pack directly on your skin. If your skin becomes white or blotchy or you experience unusual discomfort, stop cooling and tell your nurse. If sensation is reduced after a nerve block, cold therapy should only be used under staff supervision.
+008	Why your leg is elevated
+009	Proper leg positioning may help reduce swelling after surgery. Follow the physiotherapist's and nurse's instructions. Position your leg as shown by staff. Follow any individual movement precautions prescribed by your orthopaedic surgeon after hip replacement.
+010	When is the postoperative X-ray taken
+011	An X-ray is taken after surgery to assess the position of the artificial joint components. In our ward, this is usually done the day after surgery. If needed, the orthopaedic surgeon may arrange the examination at a different time. The orthopaedic surgeon reviews the result.
+012	When rehabilitation begins
+013	Rehabilitation should begin as early as possible if your condition allows. Our ward has 3–4 physiotherapists. Usually, on the day after surgery, a physiotherapist helps you sit up, stand and take your first steps with a suitable walking aid, such as a walking frame. Sometimes rehabilitation begins on the day of surgery. Do not get up for the first time without staff assistance. Your orthopaedic surgeon determines how much weight you may put on the operated leg, and the physiotherapist explains how to move safely.
+014	Why early movement is important
+015	Early, safe movement helps restore strength, mobility and independence. Together with other preventive measures, it helps reduce complications of prolonged bed rest, including leg vein thrombosis, breathing problems and pressure injuries. Exercise and walk within the limits set by your medical team. Mild discomfort can occur, but stop and tell staff if pain is severe, sudden or increasing. Discuss pain relief before exercise sessions.
+016	What if you still have questions
+017	Ask your nurse, physiotherapist or doctor during ward rounds. Writing down your questions in advance may help. If your condition changes, do not wait for the next round. Instructions from your treating medical team take priority over the general advice on this website.
+018	Preventing infection in hospital: what patients and families can do
+019	Clean hands.
+020	Clean your hands with hand sanitiser or soap and water when entering and leaving the room, and before and after touching the patient. Wash your hands with soap and water after using the toilet, before eating and whenever your hands are visibly dirty. Hand sanitiser is usually by the room entrance or next to the bed. You may politely ask staff to clean their hands before an examination.
+021	Wound and tubes.
+022	Do not touch the wound, dressing, drain, catheter or IV line, and do not remove the dressing yourself. If the dressing gets wet, dirty or slips, tell the nurse.
+023	Leave others' things alone.
+024	Do not sit on other patients' beds, and do not touch their equipment, wounds or belongings.
+025	Avoid other patients' rooms.
+026	Do not walk around other rooms and wards of the hospital without need. Relatives with fever, cough, runny nose, vomiting or diarrhoea should not visit until they have recovered.
+027	Resistant bacteria.
+028	Some bacteria are resistant to antibiotics. If these bacteria are found in a patient, staff may introduce additional precautions, such as isolation, gowns and gloves, or special visiting rules. The measures depend on the type of bacteria and the situation. If staff give you special precautions, follow them carefully to help protect patients and families.
+029	Higher risk.
+030	Take extra care to prevent infection with open fractures, significant soft tissue injuries, external fixators (pins or wires pass through the skin into the bone), diabetes, and after complex or prolonged operations. The risk of infectious complications may be higher in these situations.
+031	Tell the nurse straight away if:
+032	there is fever or chills; redness, increasing pain, swelling or discharge from the wound; redness or discharge around the external fixator pin or wire sites, or around the IV catheter site.
+033	Part 3a. Discharge and rehabilitation
+034	Part 3b. At home after discharge
+035	Stairs with a cane
+036	Israel Ministry of Health — Medical Administration circular 24/2001: procedures for preventing infection in operating rooms
+037	NICE NG157 — Joint replacement (primary): hip, knee and shoulder (2020)
+038	AAOS OrthoInfo — Total Hip Replacement
+039	WHO — Global guidelines for the prevention of surgical site infection (2018)
+040	NICE NG125 — Surgical site infections: prevention and treatment
+041	ASA — Practice Guidelines for Preoperative Fasting (2017; modular update 2023)
+042	ACCP (CHEST) — Perioperative Management of Antithrombotic Therapy (2022)
+043	ADA — Standards of Care in Diabetes 2026, Section 16: Diabetes Care in the Hospital
+044	FDA — Jardiance (empagliflozin) label (2025), §2.3
+045	FDA — Farxiga (dapagliflozin) label (2024), §2.4
+046	FDA — Steglatro (ertugliflozin) label (2026), §2.3
+047	Moreno-Benet C. et al. — Utility of postoperative drainage in total hip arthroplasty: a systematic review (2025)
+048	Royal Children's Hospital Melbourne — Nursing guidelines: Surgical drains
+049	Johns Hopkins Medicine — Jackson-Pratt Drain
+050	Cochrane — Closed suction surgical wound drainage after orthopaedic surgery (Parker MJ et al., 2007)
+051	Do prescribed exercises and follow your weight-bearing instructions.
+052	Calf pain or swelling, wound redness or fever: seek medical assessment today.
+053	Sudden shortness of breath or chest pain: call an ambulance on 101 at once.

@@ -1,0 +1,67 @@
+АМХАРСКИЙ, пакет 10 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	If you have no fluid restrictions, drink enough; eat a balanced diet (AAOS).
+002	After surgery, especially while taking opioid pain medicines, constipation is possible. Tell the nurse if you have trouble opening your bowels or have not had a bowel movement for several days. If you have severe abdominal pain, marked bloating, or vomiting, tell the nurse immediately.
+003	The wound, drain, and catheter
+004	Staff change the dressing. Do not touch the wound or remove the dressing yourself.
+005	Keep the dressing dry. The medical team will tell you when you can wash and how to protect the dressing from water.
+006	If you have a drain or a urinary catheter, do not pull on the tubes; tell the staff if a tube comes out, leaks, or causes pain.
+007	Tell the staff right away if the dressing becomes heavily soaked with blood or other fluid, or if redness, swelling, or pain around the wound gets worse. After spine surgery, it is especially important to report clear, watery fluid from the wound or a new severe headache (CUH NHS; Eur Spine J 2015).
+008	After spine surgery, new numbness in the area between your legs (perineum), increasing weakness in your legs, or problems controlling your bladder or bowels need immediate medical assessment (NICE NG127).
+009	Where you go after discharge: rehabilitation
+010	After a hip or knee replacement, a hip fracture or an amputation, patients from our ward usually go to a rehabilitation hospital. The medical team will discuss with you whether further rehabilitation is needed and the appropriate setting — in hospital, as an outpatient or at home — based on your condition. Arrangements will be coordinated with your health fund. There, the rehabilitation team helps you get up, move around safely — walking or using a wheelchair if needed — and manage everyday activities. This helps prepare you for a safe return home. If you would prefer rehabilitation at home, tell the ward team in advance. This depends on your condition, your home situation and approval from your health fund. If home rehabilitation is arranged, a physiotherapist will come to your home.
+011	Before you go home (discharge), make sure you have in writing
+012	the doctor's discharge summary and prescriptions for the medicines you will need after discharge;
+013	which medicines to take, how much and for how long (including injections to prevent blood clots), and which of your own medicines to restart;
+014	what has changed in your medicines during your hospital stay and why;
+015	if you have been prescribed injections to prevent blood clots or other treatments at home — who will give them and how to do it correctly;
+016	wound care, when the stitches or staples will be removed, and when you can shower or bathe;
+017	how much weight you may put on your leg or arm, movement restrictions, exercises, and walking aids;
+018	what help you will need at home, whether it is safe for you to get up, walk, and use the toilet on your own, and whether you need physical therapy at home or further rehabilitation;
+019	if you will need equipment at home (for example, a walker or an oxygen concentrator) — how to get it before discharge and how to use it;
+020	the date of your follow-up visit and whom to call with questions;
+021	warning signs and when to call 101 (see the page
+022	“After surgery: warning signs”
+023	If anything is unclear, ask for it to be explained again. A good way to check yourself is to tell the nurse in your own words how to take your medicines and what to do at home. Also ask who will help you book your follow-up visit and any tests arranged at discharge.
+024	At home
+025	Remove rugs and cords, and make sure there is light at night; grab bars in the shower and by the toilet, a raised toilet seat, and a stable chair with armrests can help (AAOS).
+026	Increase your walking gradually and do the exercises your physical therapist gave you.
+027	Only start driving again after checking with your doctor and when you can drive safely. Do not drive if you feel sleepy or while taking opioid pain medicines that affect your attention and reactions (AAOS).
+028	NICE NG157 — Joint replacement (primary): hip, knee and shoulder, 2020, 1.10.1
+029	NICE CG124 — Hip fracture: management
+030	NICE NG180 — Perioperative care in adults
+031	NICE NG89 — Venous thromboembolism in over 16s
+032	NICE NG249 — Falls: assessment and prevention in older people and in people 50 and over at higher risk, 2025
+033	NICE NG125 — Surgical site infections
+034	CUH NHS — Post-operative recovery following lumbar decompression surgery
+035	Khazim R. et al. Incidence and treatment of delayed symptoms of CSF leak following lumbar spinal surgery. Eur Spine J. 2015;24:2069–2076
+036	NICE NG127 — Suspected neurological conditions
+037	NICE CG103 — Delirium
+038	FDA — Opioid medications, safety information
+039	AAOS OrthoInfo — Total Hip Replacement (recovery)
+040	Pain after surgery: how to keep it under control
+041	Report pain honestly and early; do not wait until it is very bad.
+042	Take painkillers exactly as prescribed; do not combine two products containing paracetamol.
+043	Hard to wake, slow or shallow breathing: in hospital call staff at once, at home call an ambulance on 101.
+044	Video: Pain after surgery: how to keep it under control
+045	Why pain control matters
+046	Some pain after surgery is expected, and it usually cannot be removed completely. But severe pain makes it hard to move, breathe deeply, cough and sleep, and early movement and exercises are important for recovery. The aim of pain relief is to keep the pain bearable so that you can do your exercises.
+047	In hospital
+048	The nurse will regularly ask about your pain on a scale from 0 to 10. Answer honestly.
+049	Tell the staff when the pain starts to increase; do not wait until it becomes very bad.
+050	If moving hurts, ask for pain relief in advance, before exercises or getting up.
+051	Several medicines are usually combined: paracetamol, anti-inflammatories (if they are suitable for you) and, for severe pain, opioids; sometimes a nerve block. The doctor decides the plan, taking your illnesses and medicines into account.
+052	Tell your doctor about all the medicines and supplements you take, and about any problems with painkillers in the past.
+053	Strong painkillers (opioids)
+054	They help with severe pain in the first days after surgery.
+055	Possible side effects: drowsiness, nausea, itching, constipation, dizziness. Tell the staff about them; they can usually be reduced.
+056	They are usually given for a short time and reduced as the pain eases, as your doctor advises.
+057	To prevent constipation: ask your doctor or nurse in advance whether you should take a laxative to prevent it. Drink enough if your fluids are not restricted, move as your doctor allows, and eat foods rich in fibre; if you have not opened your bowels, tell the staff.
+058	Without medicines
+059	Cold through a cloth, for as long as the staff allow.
+060	Raising the operated leg or arm.
+061	Rest between exercises and a comfortable position.
+062	Do this unless your doctor has said not to.
+063	Take painkillers exactly as prescribed; do not take more than the stated dose.
+064	Check the ingredients: do not take two medicines containing paracetamol at the same time.

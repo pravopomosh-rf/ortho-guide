@@ -1,0 +1,60 @@
+АМХАРСКИЙ, пакет 24 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	A new snap or a feeling of a kick behind the calf, calf pain or swelling: seek urgent medical help.
+002	The Achilles tendon
+003	The Achilles tendon connects two calf muscles, the gastrocnemius and soleus, to the heel bone. It lets us stand on tiptoe, walk and run.
+004	The rupture
+005	A rupture often happens during a sudden push-off or a jump. It can feel as if someone kicked you in the back of the lower leg, sometimes closer to the heel. Sometimes there is a snap, and it is hard to stand on tiptoe.
+006	The operation
+007	During the operation, the surgeon stitches the ends of the tendon together. Sometimes a rupture is treated without surgery, in a cast or a boot. The treatment is chosen together with the surgeon.
+008	After surgery, the foot is held in a splint or boot, usually with the toes pointing down. This keeps the repair from stretching. Do not remove the splint or boot or change the position of your foot without permission and instructions from the medical team.
+009	For the first few days, keep your leg raised when sitting or lying down. Wiggle your toes if this is allowed.
+010	The wound
+011	Keep the dressing clean and dry. After this operation, wound healing problems can occur, so the wound needs to be watched carefully. Do not get it wet, and do not remove the dressing unless told to.
+012	Blood clots
+013	When the leg is immobilised, the risk of blood clots goes up. If prevention has been prescribed, do not miss it. Report pain, swelling or redness in the calf urgently. If you suddenly feel short of breath or have chest pain, call the staff at once; at home, call an ambulance on 101.
+014	Weight-bearing on the operated leg
+015	Put weight on the leg only as the surgeon allows. Crutches or a walker are usually used. Following the doctor's plan, the foot is gradually brought back towards its normal position. If the boot has wedges under the heel, they are removed on a set schedule. Do not do this yourself.
+016	Recovery
+017	Recovery takes months. A physiotherapist chooses your exercises. Do not smoke: smoking slows healing.
+018	Re-rupture
+019	Do not stand on tiptoe or make sudden movements until you are allowed. If you suddenly feel a new snap or a blow to the back of the lower leg, or notice sudden weakness of the foot, stop putting weight on it and contact your surgeon urgently.
+020	See a doctor the same day if the dressing gets soaked, redness of the wound increases, or there is discharge or a fever. If there is severe pain or pressure under the boot, new numbness, or cold or pale toes, get medical help immediately.
+021	AAOS OrthoInfo — Achilles Tendon Rupture (Tear)
+022	StatPearls (NCBI Bookshelf) — Achilles Tendon Rupture
+023	Keep the arm raised, hand above the elbow; keep the cast dry.
+024	Move your fingers as much as you can.
+025	Fingers hard to move because of pain or swelling: do not wait, seek urgent help.
+026	Video: Broken wrist (radius fracture)
+027	A fracture of the radius near the wrist is the most common arm fracture. The radius is one of the two forearm bones, on the thumb side. It often happens after a fall on an outstretched hand; in older people, especially with osteoporosis, it can happen even after a simple fall. There may be pain, swelling and bruising, and the wrist may look bent. The diagnosis is confirmed with an X-ray, sometimes a CT scan.
+028	Treatment
+029	If the pieces are in a good position — a splint, then a cast.
+030	If they have moved — they are often put back in place without a cut, with pain relief, then held still. Repeat X-rays show whether they have moved again.
+031	Surgery is considered if the pieces cannot be put back or held in a cast: the bone is fixed with a plate and screws, wires or an external frame. The surgeon chooses the method.
+032	If you need surgery
+033	Fasting, showering and medicines follow the general leaflet "Preparing for surgery". Do not stop blood thinners yourself — your doctor will tell you which ones to stop and when.
+034	Keep your arm raised, with your hand above your elbow.
+035	Keep the cast and splint dry; cover them with a bag in the shower. Do not push anything under the cast.
+036	Move your fingers as early as possible, unless told not to.
+037	The cast is usually removed after 4–6 weeks; physiotherapy is often needed after that. Wrist stiffness eases over months; most people can use the hand for everything after about 3 months, and recovery may take about a year, sometimes longer.
+038	If the cast gets wet, cracks, becomes too tight or loose, rubs your skin, or there is discharge or an unpleasant smell from underneath it, contact your medical team without delay. Do not try to repair or remove the cast yourself.
+039	A fracture after a simple fall can be the first sign of fragile bones: ask your doctor about a bone density test and preventing falls.
+040	Pain or swelling makes it difficult to move your fingers after a cast or splint is applied — do not wait a day: seek urgent medical help, the cast or splint may be too tight.
+041	Fingers numb or tingly, pale, bluish or cold; severe pain that does not ease or gets worse; severe pain when the fingers are gently straightened; weakness of the thumb or index finger — get medical help urgently.
+042	After surgery: fever, redness or discharge from the wound — see a doctor the same day.
+043	AAOS OrthoInfo — Distal Radius Fractures (Broken Wrist)
+044	NHS — Broken arm or wrist
+045	Many upper arm fractures near the shoulder heal without surgery, in a supporting sling.
+046	From the first days, move your fingers, hand and elbow.
+047	Fingers numb, pale, bluish or cold, or pain suddenly worse: seek urgent help.
+048	Video: Broken upper arm near the shoulder
+049	A fracture of the top part of the upper arm bone (next to the shoulder joint) is common, especially in people over 65 after a fall. There may be severe pain, swelling, bruising and limited shoulder movement. The diagnosis is confirmed with an X-ray, sometimes a CT scan.
+050	Many of these fractures heal without surgery if the pieces have not moved much: the arm is supported in a sling, followed by exercises guided by a physiotherapist.
+051	In the PROFHER study, in adults with a displaced fracture of the top of the upper arm bone involving the surgical neck, no statistically significant difference in shoulder function was found between surgical and non-surgical treatment over two years.
+052	For some severely displaced or complex fractures, the surgeon may recommend surgery: the fragments are fixed with a plate and screws, pins or a rod, and in some cases the joint is replaced. The surgeon chooses the treatment together with you.
+053	Wear the sling for as long as your doctor says, usually several weeks; take it off for washing, dressing and exercises if this is allowed.
+054	Move your fingers, hand and elbow from the first days unless told not to. The shoulder is rehabilitated following your physiotherapist's programme.
+055	Bruising and swelling may move down the arm to the elbow and hand — this is normal and fades.
+056	In the first weeks, many people find it more comfortable to sleep half sitting up, with pillows.
+057	When dressing, put the injured arm in first; when undressing, take the uninjured arm out first.

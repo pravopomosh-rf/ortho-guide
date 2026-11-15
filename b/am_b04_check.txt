@@ -1,0 +1,68 @@
+АМХАРСКИЙ, пакет 04 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	Before surgery, you may need blood tests, an ECG, X-rays or other investigations. These depend on your condition, the type of operation and results already available.
+002	If a blood transfusion may be needed during treatment, staff will explain the procedure and the consent process. Tell your doctor in advance about any medical, personal or religious objections.
+003	If your condition changes
+004	Tell staff promptly if you develop a fever, new cough, diarrhoea, vomiting, a wound, rash or skin redness, especially near the planned surgical site.
+005	Tell staff if you have taken a medicine that affects blood clotting, even if you were instructed to stop it temporarily. Do not stop or restart these medicines on your own.
+006	Instructions from your treating doctor and medical team take priority over the general guidance on this page.
+007	Official sources
+008	Министерство здравоохранения Израиля — циркуляр 15/2022: меры профилактики распространения устойчивых микроорганизмов в медицинских учреждениях; приложения CPE/VRE.
+009	Worn parts of the joint are replaced with artificial ones: an artificial joint.
+010	Shower before surgery using the product specified by your ward.
+011	Fever, chills, redness or discharge from the wound: tell the nurse at once.
+012	Admission
+013	Preparation
+014	Surgery
+015	After surgery
+016	Rehabilitation and home care
+017	What this operation is
+018	During the operation, worn or damaged parts of the joint are replaced with artificial ones, called a prosthesis (implant).
+019	The head of the thigh bone is replaced with a metal or ceramic ball on a stem, which is fixed inside the thigh bone.
+020	The socket of the pelvic bone is replaced with a cup with a liner.
+021	The goal is to reduce pain and improve movement. The most common cause is wear of the cartilage (osteoarthritis); less often it is a hip fracture or other diseases.
+022	Hip joint: the head of the thigh bone (the "ball") and the hip socket of the pelvis. Author: Blausen.com staff (BruceBlaus), CC BY 3.0,
+023	source: Wikimedia Commons
+024	; changes: resized, webp format
+025	X-ray: severe osteoarthritis of the hip joint. Author: Mikael Häggström, CC0,
+026	Hip joint prosthesis: stem in the thigh bone, ball and cup. Author: BruceBlaus (Blausen Medical), CC BY-SA 4.0,
+027	X-ray after hip replacement. Author: Photographer unknown (X-ray Image ID 3684), Public domain,
+028	Admission to the ward
+029	On the day of admission, a nurse will assess you, ask about your health, medicines and allergies, and measure your blood pressure, pulse, temperature and oxygen saturation. Your height and weight will also be measured if needed.
+030	Your admission will be completed, you will receive an identification wristband, and staff will show you your room, the nurse call button, toilet, shower and drinking water dispenser.
+031	The doctor will explain the surgical plan, and the anaesthetist will explain the anaesthesia plan. You will be asked to give informed consent for surgery and anaesthesia. The anaesthetic assessment may take place later, but before surgery.
+032	Leaflet
+033	Full details: the “Preparing for surgery” page.
+034	How to prepare
+035	Shower.
+036	Take a shower the evening before surgery and, as the ward instructs, in the morning on the day of surgery. Use the soap recommended by the ward. If you were given an antiseptic product with chlorhexidine, use it strictly as directed, avoiding the eyes, ears, and mucous membranes. Wash your face with regular soap and your hair with shampoo. If you have ever had an allergic reaction to chlorhexidine, tell the staff before using it.
+037	Do not shave
+038	the surgical area. If needed, the staff will remove the hair with clippers.
+039	Remove
+040	jewelry, nail polish, and contact lenses.
+041	Smoking:
+042	it is best to stop as early as possible, preferably at least 4 weeks before surgery.
+043	If you develop a
+044	fever, signs of infection, or skin inflammation
+045	before surgery, tell the ward in advance. Do not wait until the day of surgery.
+046	Medicines before surgery
+047	Give your doctor and the anesthesiologist a
+048	complete list
+049	of all your medicines.
+050	If you take
+051	Eliquis, Xarelto, Coumadin, aspirin
+052	, or other medicines that affect blood clotting, ask your doctor in advance whether you need to stop the treatment temporarily and when. Some medicines, including aspirin in certain situations, are continued before surgery. Do not stop these medicines on your own.
+053	If you take medicines such as Jardiance (empagliflozin), Forxiga (dapagliflozin), or combination tablets such as Jardiance Duo or Xigduo, tell your doctor before surgery, even if you do not have diabetes. Empagliflozin and dapagliflozin belong to a group called SGLT2 inhibitors. Some medicines in this group are also used for heart failure and chronic kidney disease. Combination tablets may contain other active ingredients, such as metformin. Before surgery, tell your doctor the full names of all your medicines and show the packages or your medication list. Before planned surgery, empagliflozin and dapagliflozin are usually stopped at least 3 days beforehand, and ertugliflozin at least 4 days beforehand. This is to reduce the risk of ketoacidosis, which can occur even without a marked rise in blood sugar. Your doctor decides the exact plan for stopping and restarting treatment. Do not change your treatment on your own.
+054	Insulin and other diabetes medicines:
+055	get instructions from your doctor in advance about which medicines to take and in what doses. In type 1 diabetes, basal insulin is usually continued, with a dose adjustment as your doctor directs. You must not stop it on your own.
+056	Ozempic or Mounjaro
+057	injections, be sure to tell your doctor and the anesthesiologist.
+058	On the morning of surgery, some medicines are taken with a small sip of water. Your doctor or anesthesiologist will tell you which ones.
+059	Fasting before anesthesia:
+060	after a light meal, at least 6 hours is usually required; after a fatty or heavy meal, at least 8 hours. Clear liquids (for example, water or tea without milk) are usually allowed until 2 hours before anesthesia starts. Some wards ask you not to eat after midnight. Follow the ward's individual instructions strictly, even if they differ from these general times.
+061	The day of surgery
+062	Follow the instructions you have been given about fasting, drinking and taking medicines. Shower using the cleanser specified by the ward, at the instructed time.
+063	Before going to the operating theatre, put on a hospital gown and remove jewellery and your watch. Remove contact lenses, removable dentures and hearing aids as instructed by staff; some items may be kept until you meet the anaesthetist. Do not remove your identification wristband.
+064	When the theatre team is ready, staff will take you to the operating theatre area on a bed or trolley. The nurse will hand over the necessary information to the receiving team.
+065	Before surgery, staff will confirm your name, the procedure, the side or site of surgery, and any allergies. Repeating these questions is a routine safety check.

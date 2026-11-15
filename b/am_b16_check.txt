@@ -1,0 +1,43 @@
+АМХАРСКИЙ, пакет 16 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	Urgent assessment — if the skin around it is hot and swollen, there is pus, a fever, or the pain gets worse.
+002	NICE CG179 — Pressure ulcers: prevention and management
+003	NHS — Pressure ulcers (pressure sores)
+004	After general anaesthesia: what you may feel
+005	Key points
+006	After surgery, you may have a sore or itchy throat, feel like coughing, feel dizzy, or be very sleepy. These symptoms are common after general anaesthesia and usually improve gradually. We will explain why they happen and when to call the medical team.
+007	How general anaesthesia works
+008	During general anaesthesia, the anaesthetist and anaesthesia team continuously monitor your condition. They check your breathing, blood oxygen level, pulse, and blood pressure. When needed, they adjust your medicines and support your body's functions.
+009	Most often, medicine is given through a vein, and you quickly become unconscious. During surgery, anaesthesia is maintained with medicines through a vein or with anaesthetic gases. Pain relief is also given to reduce pain during and after the operation.
+010	Anaesthetic medicines can weaken your breathing and relax your muscles. The anaesthetist may use a breathing machine to help you breathe. This may involve a tube in your windpipe or a special mask placed above your voice box. Many orthopaedic operations use spinal anaesthesia, when a breathing tube is usually not needed.
+011	At the end of surgery, the anaesthetic medicines are stopped. If needed, the effects of muscle-relaxing medicines are reversed. Once you can breathe well enough on your own, the breathing device is usually removed. You are then monitored in the recovery room.
+012	Throat and voice
+013	When you wake up, your throat may feel sore, itchy, or dry. You may also feel as though there is a lump or something stuck in your throat. This is usually caused by irritation from the breathing tube or mask, and sometimes by medicines or anaesthetic gases.
+014	Your voice may sound hoarse, and you may have a mild cough or feel like clearing your throat. These symptoms often improve within one or two days. If hoarseness lasts longer than a week, contact your family doctor, especially if it is getting worse.
+015	Breathing and coughing
+016	After surgery, the medical team may recommend slow, deep breaths and gentle coughing to clear mucus. This helps your lungs expand and keeps your airways clear. Follow the exercises you have been shown, while respecting any restrictions after your operation.
+017	Sleepiness and dizziness
+018	After anaesthesia, you may feel sleepy, tired, weak, or a little slow in your thinking. Medicines, surgery, pain, and poor sleep can all affect how you feel. Your thinking usually becomes clearer gradually. If you become very confused or the confusion gets worse, tell the nurse immediately.
+019	You may feel dizzy the first time you sit up or stand. This can be caused by medicines, low blood pressure, dehydration, or the effects of surgery. Do not get up alone. Call the medical team first and wait for permission and help.
+020	Other symptoms
+021	After anaesthesia, you may feel sick, shiver, feel cold, have a dry mouth, or experience muscle aches. These symptoms do not necessarily mean something is wrong. Tell your nurse how you feel. The team can help you warm up and provide treatment to ease the symptoms.
+022	When the team says you can drink, start with small sips of water. Do not silently put up with a very sore throat, nausea, or dizziness. Tell your nurse. If your throat feels dry, ask whether you can have a throat lozenge or gargle.
+023	When to get help immediately
+024	If you have difficulty breathing, noisy breathing, chest pain, cannot swallow your saliva, cough up blood, or develop swelling of your tongue or neck, call the medical team immediately. If these symptoms happen after discharge, call an ambulance on 101. Your treating doctor's individual instructions take priority.
+025	NHS. General anaesthetic (reviewed 29 November 2024)
+026	Royal College of Anaesthetists. Risks associated with your anaesthetic: Sore throat
+027	Royal College of Anaesthetists. Your airway and breathing during anaesthesia (2020)
+028	3D: Z-Anatomy, BodyParts3D — CC BY-SA 4.0
+029	During sleep after anaesthesia saturation can drop; the team will check the cause and treat as needed.
+030	Do not remove the cannula or touch the oxygen control; no smoking nearby.
+031	Hard to wake, breathing slowly or with pauses, blue lips: call the staff at once.
+032	The number dropped in sleep
+033	Your loved one has come back from surgery and fallen asleep. The number on the monitor dropped, the machine beeped, and the nurse gave oxygen through small tubes in the nose. Let's calmly look at what is happening. This number is called oxygen saturation: it shows how saturated the blood is with oxygen. It is measured by a sensor on the finger. In most adults it is usually ninety-five percent or higher. The care team sets the target level for each patient: if there is a risk of carbon dioxide building up, it may be lower. For example, if you have chronic obstructive pulmonary disease and are at risk of carbon dioxide buildup, your doctor may set an oxygen saturation target of eighty-eight to ninety-two percent.
+034	Why during sleep
+035	Why does saturation drop during sleep? After anaesthesia and some painkillers, breathing can become slower and shallower. During sleep the airway can sometimes narrow or become blocked, especially in people who stop breathing in their sleep. Also, some areas of the lungs expand less well after anaesthesia. So when a person falls asleep, saturation may drop, even if it is higher while they are awake. After general anaesthesia this can happen even after minor operations. But a marked or repeated drop in saturation should not be considered normal. That is why staff check breathing, the patient's condition, and how easily the person wakes up.
+036	Nasal cannula
+037	If saturation is low, the nurse checks the sensor and the patient, may wake them and ask them to take deep breaths, and if needed gives oxygen through a nasal cannula: two soft tubes in the nose. The flow is adjusted to keep saturation within the target range. Oxygen helps raise saturation, but it does not always fix the cause of the breathing problem. So the care team keeps checking breathing and the patient's condition.
+038	How you can help
+039	How you can help. Stay close and stay calm. Do not remove the nasal cannula or touch the oxygen control. Do not give medicines, food or drink without the nurse's permission. When the person is fully awake, they can take a few deep breaths and cough, unless the nurse has said otherwise. Sometimes the monitor beeps for reasons that are not about breathing: for example cold fingers, hand movement, or a sensor that has slipped. Do not switch the monitor off yourself. Call the nurse to check. If the person uses a CPAP or BiPAP machine while sleeping at home, tell the medical team in advance and ask whether to bring their machine and mask to the hospital.
+040	Call staff immediately

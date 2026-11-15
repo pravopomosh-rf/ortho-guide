@@ -1,0 +1,60 @@
+АМХАРСКИЙ, пакет 11 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	If you take blood thinners, do not start ibuprofen, naproxen or other non-steroidal anti-inflammatory medicines yourself: the combination can increase the risk of bleeding.
+002	Do not combine opioids with sleeping tablets or sedatives without your doctor’s agreement: this can cause dangerous drowsiness and slowed breathing.
+003	Do not drink alcohol or drive while taking strong painkillers.
+004	Keep medicines out of the reach of children and other people; ask your pharmacist what to do with any left over.
+005	If you need painkillers for longer than expected, discuss it with your doctor.
+006	The person is hard to wake, breathing becomes slow or shallow, or there is sudden breathlessness or chest pain — in hospital, call the staff immediately; at home, call an ambulance on 101.
+007	The pain suddenly gets much worse, is not relieved by the prescribed medicines, or other new symptoms appear — see a doctor urgently.
+008	AAOS — Pain Management After Orthopaedic Surgery, patient handout
+009	AAOS OrthoInfo — Prescription Safety
+010	Faculty of Pain Medicine — Opioids Aware
+011	After Surgery: Warning Signs
+012	Sudden breathlessness, chest pain or heavy bleeding: call an ambulance on 101.
+013	After spine surgery, new leg weakness or urinary problems: go to emergency immediately.
+014	Fever of 38 °C or higher, wound redness or discharge: see a doctor today.
+015	Call 101 (Magen David Adom) right away
+016	Three levels of urgency: 101, the emergency department (ER), contact on the same day
+017	sudden shortness of breath, chest pain, or coughing up blood — this may be a blood clot in the lung (CDC);
+018	loss of consciousness, seizures, or sudden severe confusion;
+019	heavy bleeding from the wound that does not stop when you press on it;
+020	a foot or leg that suddenly becomes cold, pale, or blue, especially with severe pain, new numbness, or weakness — this may mean that blood flow is blocked (Society for Vascular Surgery);
+021	after neck surgery: rapidly increasing neck swelling, difficulty breathing, or a sudden inability to swallow saliva (Cambridge University Hospitals).
+022	Go to the emergency department (ER) immediately
+023	After spine surgery, new or rapidly worsening weakness or numbness in an arm or leg, numbness around the genitals, between the legs, or around the anus (saddle area), being unable to urinate, or new loss of bladder or bowel control must be checked immediately in an emergency department (ER). Do not wait for a scheduled visit or for a reply from the ward. If your condition is getting worse quickly, or you cannot get there safely on your own, call an ambulance on 101.
+024	(Source: Guy's and St Thomas' NHS)
+025	Pain that suddenly gets much worse and does not go away with the pain medicine you were prescribed, or your leg is in an unusual position.
+026	If you develop new pain, swelling, redness or warmth in your calf or thigh, especially on one side, go to the emergency department immediately: these may be signs of a blood clot. Call an ambulance on 101 for sudden shortness of breath or chest pain (CDC; NICE NG89; NICE NG158).
+027	Contact the ward or see a doctor the same day
+028	If your temperature reaches 38 °C or higher, stays high or keeps coming back, or you have chills, contact the ward where you had your operation or get medical care the same day. If you are feeling worse overall, get help no matter what the thermometer says (AAOS).
+029	Redness, heat, swelling, or tenderness around the wound that is getting worse, pus or unusual discharge, a dressing that keeps soaking through, a bad smell, or the edges of the wound coming apart all need to be examined the same day (AAOS; NICE NG125).
+030	Moderate pain, and slight swelling and bruising around the wound, are common after surgery and slowly get better. If you are not sure, call the ward.
+031	The wound and preventing blood clots
+032	Do not remove or change the dressing yourself unless the ward told you to. Whether you can shower depends on the type of dressing and the condition of the wound. Follow the instructions you were given at discharge (NICE NG125).
+033	If you were prescribed medicines to prevent blood clots or compression stockings, follow the plan from your discharge papers. Do not stop the medicines on your own. If the stockings cause pain, strong squeezing, blisters, or a change in skin color, stop using them and contact medical staff right away. If you use stockings, check your skin every day (NICE NG89).
+034	Move and walk as you were advised.
+035	Guy's and St Thomas' NHS, Recovering from lumbar spine decompression or discectomy
+036	AAOS, After Your Joint Replacement Surgery
+037	NICE NG89, Venous thromboembolism in over 16s
+038	CDC, About Venous Thromboembolism (Blood Clots)
+039	A tube by the wound
+040	After surgery you may have a drain: a thin tube that comes out from the operated area and is connected to a container. Not everyone gets one. The surgeon decides whether a drain is needed.
+041	Why it is used
+042	Blood and fluid that collect in the wound after surgery drain out through the tube. If the wound becomes infected and pus forms, it may also drain through the tube.
+043	Types
+044	Most often it is a closed drain with a container: a concertina, a bulb or a bag. Some containers create gentle suction and draw the fluid out softly. A separate treatment is a vacuum dressing. It is sealed over the wound and connected to a device that creates suction. This is not the same as a drain tube.
+045	What is in the container
+046	The container usually holds blood-stained fluid. Over time there is less of it and it becomes lighter. The nurse measures the amount, records it, and empties or changes the container.
+047	Moving with a drain
+048	The drain is secured, and you can move with it. Get up only when staff say so. Keep the container below the wound, do not pull the tube, and make sure it is not kinked or trapped under your body. The container can be attached to your clothes, as the nurse will show you.
+049	What not to do
+050	In hospital, do not open or empty the container yourself. Do not disconnect the tube, squeeze the concertina or touch the dressing unless staff tell you to. If you go home with a drain, the nurse will explain how to look after it at home.
+051	Tell staff straight away
+052	Tell the nurse straight away if the tube has come out, moved or come apart; if the dressing around it is soaked; if a lot of bright red blood is quickly filling the container; if the concertina has expanded; if pain or swelling gets worse, you develop a fever, or the fluid becomes cloudy, pus-like or smells unpleasant.
+053	When it comes out
+054	How long it stays depends on the operation and the amount of fluid. Sometimes the drain is removed after one or two days, sometimes it stays longer. The surgeon decides when to remove it. A nurse or doctor takes it out: it is quick, it may be uncomfortable, and you will be given pain relief if needed. A dressing is put over the tube site.
+055	After removal
+056	In the first hours a little fluid may leak from the drain site; staff will change the dressing. At home, if redness is spreading, pus comes from the wound or the drain site, pain is increasing or you have a fever, get medical help as soon as possible.
+057	Vacuum dressing

@@ -1,0 +1,60 @@
+АМХАРСКИЙ, пакет 20 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	A repeat swab helps detect carriage that was not found before. It does not necessarily mean the doctors suspect an infection.
+002	If the result is positive
+003	A positive swab does not necessarily mean illness. If the bacterium is found but is not causing an infection, this is carriage, and on its own it usually does not need antibiotics.
+004	In hospital, staff use contact isolation so the bacteria do not pass to other patients: depending on the bacterium, a separate room or a dedicated area, separate equipment, gowns and gloves.
+005	Isolation is not a punishment. The treatment you need continues, with safety measures in place.
+006	Information about carriage is kept in your medical record: at future hospital stays or transfers it helps staff choose precautions in advance.
+007	A negative repeat swab on its own does not mean the carriage is gone and isolation can be stopped.
+008	When isolation is stopped
+009	Carriage sometimes lasts for months.
+010	The decision to stop isolation is made by the hospital infection control team according to special rules; several negative tests at set intervals may be needed.
+011	One negative swab is not a reason to decide for yourself that the carriage is over. Do not stop isolation measures without instructions from staff.
+012	What you and your family can do
+013	After using the toilet, wash your hands with soap and water. Before eating and when entering or leaving the room, wash your hands or use an alcohol-based hand sanitiser if your hands are not visibly dirty. Follow any additional isolation instructions from the staff.
+014	Always sanitise your hands before and after caring for a wound, a catheter or another medical device. If you may touch blood, stool or other body fluids, wear gloves as staff instruct.
+015	Do not sit on other patients' beds, and do not share personal items.
+016	At home, ordinary hygiene is usually enough; healthy family members generally do not need special isolation.
+017	Whenever you next go to a hospital, clinic or rehabilitation centre, always tell them about any CPE or VRE carriage found in the past.
+018	משרד הבריאות — חוזר מנהל רפואה 15/2022: התמודדות עם מחוללים רבי עמידות במוסדות רפואיים, נספח 2.2 (CRE)
+019	משרד הבריאות — חוזר מנהל רפואה 15/2022, נספח 2.3: מניעת התפשטות של VRE במוסדות אשפוז
+020	CDC — About Carbapenem-resistant Enterobacterales (CRE)
+021	CDC — About Vancomycin-resistant Enterococci (VRE)
+022	Getting out of bed after spinal surgery
+023	Turn "like a log": shoulders, pelvis and legs move together, without twisting.
+024	Get up the first time only with staff; the physiotherapist will show you how.
+025	New leg weakness or numbness, numbness around the genitals, urinary problems: go to the emergency department immediately.
+026	Video: Getting out of bed after spinal surgery
+027	Why
+028	After spinal surgery you are usually taught to turn and get out of bed like a log: shoulders, hips and legs move together, without twisting your back. Your physiotherapist will show you the technique once the care team allows you to get up. When you first get up depends on the type of surgery and your condition. The first time, only with the staff.
+029	How to get up
+030	Lying on your back, bend your knees with your feet on the bed. Tighten your tummy muscles.
+031	Roll onto your side in one movement, shoulders and hips together. Do not twist or reach across your body for the bed rail.
+032	Lower your legs over the edge of the bed and, at the same time, push up with the elbow of your lower arm and the hand of your upper arm. Sit up with your back straight.
+033	Sit on the edge of the bed with your feet on the floor. If you feel dizzy, do not stand up and call the staff straight away; they will help you lie down safely. To stand, push up with your hands from the bed. Only once you are standing, hold the walking frame if you have been given one. Do not pull yourself up on the frame.
+034	How to lie down
+035	Sit on the edge of the bed, near the head end.
+036	Lower yourself onto your side using your arm and, at the same time, lift your legs onto the bed.
+037	Roll onto your back like a log.
+038	When lying on your side, put a pillow between your knees so your back does not twist, unless the care team has told you otherwise.
+039	New weakness or numbness in the legs, numbness around the genitals or anus (back passage), being unable to pass urine, or losing control of your bladder or bowels need urgent medical assessment. In hospital, tell the staff immediately. At home, go straight to the emergency department; for severe or worsening weakness, bladder or bowel problems, or numbness around the genitals or anus (back passage), call an ambulance on 101. If the pain suddenly gets much worse, also tell a doctor urgently.
+040	Guy's and St Thomas' NHS Foundation Trust — Recovering from lumbar spine decompression or discectomy
+041	Knee Arthroscopy
+042	A camera and thin instruments are passed into the knee through small cuts.
+043	In the first days, keep the leg raised often and apply cold through a cloth.
+044	Fever of 38 °C or higher, worsening knee pain, swelling or redness: seek urgent medical help.
+045	Video: Knee Arthroscopy
+046	Arthroscopy is an operation on the knee joint, usually done through two or three small cuts a few millimetres long. Their number and size depend on the operation. An arthroscope — a thin tube with a camera — is passed through one cut, and thin instruments through the others. The surgeon sees the joint on a screen and can examine and treat damaged structures without opening the joint widely. This is why there is usually less pain and a faster recovery after arthroscopy than after open surgery (AAOS; NHS).
+047	It is often done as day surgery: you usually go home the same day, sometimes the next day.
+048	When it is done
+049	Some meniscus tears, especially after an injury, when the knee truly locks mechanically, or when symptoms continue despite treatment without surgery. Not every meniscus tear needs an operation: with age-related changes, exercises and other non-surgical treatment are often recommended first.
+050	Reconstruction of the anterior cruciate ligament.
+051	Loose pieces of cartilage or bone in the joint, some injuries of the cartilage and kneecap, inflammation of the joint lining (synovium) (AAOS).
+052	For knee osteoarthritis, arthroscopic washing out and “cleaning” of the joint is not recommended: it does not give meaningful long-term improvement (NICE NG226). If the knee is truly mechanically blocked, for example by a displaced piece of meniscus or a loose fragment inside the joint, the surgeon assesses separately whether this obstruction needs to be removed.
+053	Whether an operation is needed, and which one, is decided by the surgeon after examination and imaging (often an MRI).
+054	Before the operation
+055	General preparation rules — fasting, showering, medicines — are on the “Preparing for surgery” page.
+056	Tell your doctor in advance if you take blood-thinning medicines: they may need to be changed for a while. Do not stop them on your own.
+057	Do not shave your leg yourself before the operation: small razor cuts increase the risk of infection. If hair is in the way, the staff will remove it with clippers (NICE NG125).

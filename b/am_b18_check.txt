@@ -1,0 +1,73 @@
+АМХАРСКИЙ, пакет 18 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	When is my next follow-up appointment, and which symptoms require urgent medical attention?
+002	Before discharge, ask for written instructions covering your rehabilitation plan, movement restrictions, medicines and follow-up care.
+003	AAOS OrthoInfo — Preparing your home for joint replacement surgery; recovery after orthopaedic surgery
+004	Kol Zchut — שיקום במסגרת אשפוז לחולה שיקומי
+005	Kol Zchut — שיקום בקהילה או בבית לחולה שיקומי
+006	Prepare your home in advance: remove rugs and cables, clear walkways.
+007	Not everyone needs movement restrictions: your surgeon will tell you which apply.
+008	Leg swelling suddenly worse or new calf pain: seek urgent medical help.
+009	Who this page is for
+010	For people after hip replacement and their families. Here are general tips on how to prepare your home and which aids make life easier in the first weeks. Your surgeon, physiotherapist or occupational therapist will tell you which restrictions you need and for how long.
+011	Prepare your home in advance
+012	Remove rugs, and carpets if needed, that you could slip or trip on.
+013	Clear walkways: move furniture and remove phone cords, extension leads and other obstacles.
+014	Put things you use every day at a comfortable height so you bend less.
+015	Place a small table at seat height next to your chair for the things you need.
+016	Chair and bed
+017	A stable chair with a firm seat, a backrest and armrests.
+018	As a guide, the seat and bed should be about 45–50 centimetres from the floor; the exact height is set individually according to your height.
+019	If you must not bend your hip more than ninety degrees, the seat should be high enough that your knees do not rise above the level of your hips.
+020	If furniture is too low, use a firm, stable cushion or special raisers that are securely fixed.
+021	Toilet
+022	If needed, a stable raised toilet seat (usually about 10 centimetres; the height is set individually).
+023	Securely fixed grab bars, usually angled, at about 60–90 centimetres, on one or both sides, so that sitting down and standing up is safe. It is best to agree the type and position with an occupational therapist.
+024	Bath and shower
+025	You may use a bath transfer bench or shower chair if your doctor allows this method of washing. Do not immerse your surgical wound in water until your doctor approves. Follow your wound and dressing care instructions.
+026	In the shower, use a stable shower chair.
+027	A non-slip mat.
+028	Grab bars on the wall in the shower, by the bath and near where you wash. The sink and towel rail are not supports: do not hold on to them.
+029	A long-handled sponge, and soap and shampoo at a comfortable height.
+030	Dressing
+031	Get dressed sitting down.
+032	When putting on trousers, start with the operated leg, then the other leg. When taking them off, start with the other leg, then the operated leg.
+033	Helpful aids: a long-handled reacher, a sock aid, elastic laces and a long shoehorn.
+034	If your surgeon has given you movement restrictions
+035	Not everyone needs restrictions. They are given more often after the posterior approach; after the anterior approach, ask your doctor about your own restrictions. If you have been given them, the usual advice is (until your doctor says otherwise):
+036	Sitting: do not cross your legs; keep your knees apart; if your doctor has prescribed a bending restriction, do not bend your operated hip joint beyond 90 degrees (for example, avoid leaning far forward); do not pull the operated leg up to your chest; do not rest the foot of the operated leg on a high stool.
+037	Standing: if your doctor has prescribed a hip bending restriction, avoid bending your operated hip joint beyond 90 degrees. Use a reacher to pick up objects from the floor. Avoid twisting the operated leg and turning sharply on it. Turn with small steps, moving your whole body. Ask your surgeon exactly which movements are restricted.
+038	Lying down: keep to the sleeping position you were advised. If recommended, use a pillow between your legs. Ask the medical team whether you may lie on your side, and on which side.
+039	Swelling
+040	Raising the operated leg can reduce swelling.
+041	To help prevent blood clots, the most important things are to walk as the team advises and to take the medicines you were prescribed.
+042	If the leg swelling suddenly gets worse, or you get new pain in your calf, redness or unusual warmth of the skin, get medical help urgently. If you suddenly become short of breath or have chest pain, call an ambulance on 101 immediately. A fever, discharge from the wound or increasing pain around the joint also need an urgent medical check.
+043	After discharge
+044	See your family doctor to continue treatment and follow-up.
+045	If needed, rehabilitation at home and/or adapting your home.
+046	Where to get aids
+047	Yad Sarah lends medical and rehabilitation equipment for temporary use; branches and opening hours are at
+048	yad-sarah.net/branches
+049	Orthopaedic supply shops and websites.
+050	Databases of assistive devices: Azarim —
+051	azarim.org.il
+052	; Milbat —
+053	sheba.co.il
+054	Occupational therapy information sheet, orthopaedic department (hip replacement)
+055	AAOS OrthoInfo — Activities After Total Hip Replacement
+056	RNOH — Hip precautions following primary or revision total hip replacement
+057	Why You Should Not Live with Joint Pain for Years
+058	In osteoarthritis, the cartilage and bone of the joint change.
+059	Taking anti-inflammatory painkillers for years carries risks: discuss them with your doctor.
+060	Vomiting blood, black stools or fainting while on painkillers: do not take another dose; call an ambulance on 101 immediately.
+061	Video: Why You Should Not Live with Joint Pain for Years
+062	What happens in a worn joint
+063	In osteoarthritis, several tissues in the joint change, including the cartilage and the bone. The cartilage that covers the joint can get thinner, and bony growths called osteophytes (bone spurs) can form along the edges of the bones. Pain, stiffness, and limited movement are different from person to person. When the cartilage is badly damaged, the bone surfaces can touch each other, and over time the shape of the joint can change. Having pain does not mean you definitely need surgery: there are treatments that do not involve surgery.
+064	Source: NIAMS; AAOS OrthoInfo; NICE, 2022
+065	What osteoarthritis looks like
+066	Illustration: BruceBlaus (Blausen Medical), CC BY-SA 4.0, Wikimedia Commons
+067	Hip osteoarthritis on an X-ray
+068	X-ray: Mikael Häggström, CC0, Wikimedia Commons — an example of severe osteoarthritis
+069	Taking pain medicine for years: what is the risk
+070	Anti-inflammatory pain medicines — for example ibuprofen, naproxen, and diclofenac — can reduce pain and improve how the joint works. But you should not take them for months without a doctor reviewing it. Possible complications include ulcers and bleeding in the stomach or bowel, kidney problems, higher blood pressure, and heart and blood vessel events. Some complications can happen even without earlier symptoms; the risk often goes up with high doses and long-term use.

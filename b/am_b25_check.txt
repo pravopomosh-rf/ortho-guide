@@ -1,0 +1,73 @@
+АМХАРСКИЙ, пакет 25 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	In the first weeks, do not lift or carry objects with the injured arm unless your doctor allows it; do not bear weight on it, push or pull with it. Drive only when it is safe and your doctor allows it.
+002	Movement returns over months, strength over up to a year.
+003	A fracture after a simple fall can be a sign of osteoporosis: ask your doctor about a bone check and preventing falls.
+004	Your hand or fingers become numb, tingly, pale, bluish or cold, or the pain suddenly gets much worse — get medical help urgently.
+005	AAOS OrthoInfo — Shoulder Trauma (Fractures and Dislocations)
+006	Gloucestershire Hospitals NHS — Proximal humeral fracture, GHPI1844 (June 2024)
+007	Sherwood Forest Hospitals NHS — Proximal humerus fracture, PIL202403
+008	NIHR Evidence — PROFHER trial (Rangan et al., JAMA 2015)
+009	The tendon is stitched back to the bone through small keyhole cuts.
+010	Wear the sling as your surgeon said, usually for several weeks, including at night.
+011	Dressing soaked, spreading redness, discharge or fever: see a doctor the same day.
+012	The rotator cuff
+013	The rotator cuff is four muscles that run from the shoulder blade to the head of the upper arm bone. Their tendons wrap around it like a cuff. They hold it in the joint and help you lift and rotate your arm.
+014	A tear
+015	The tendon can tear after an injury or gradually, with age and strain. A tear can make lifting the arm painful and difficult, and pain at night is common. Sometimes a tear causes almost no symptoms.
+016	Most often the operation is done through small cuts, arthroscopically. The surgeon pulls the tendon back and attaches it to the bone with special anchors and stitches.
+017	After surgery, your arm is held in a sling, often with a pillow under the arm. Wear it as your surgeon told you, usually for several weeks, including at night. Do not take it off without permission.
+018	While the tendon heals, do not lift anything with this arm, do not lean on it, and do not raise it yourself until you are allowed. The repair could come apart.
+019	If allowed, move your fingers, open and close your hand, and bend and straighten your elbow and wrist. Shoulder exercises start according to your physiotherapist's plan.
+020	Many people find it easier to sleep half sitting up, with a pillow under the elbow. When dressing, start with the operated arm. When undressing, start with the other arm.
+021	Take pain relief as prescribed. Once feeling in the shoulder skin has returned, cold through a cloth can reduce pain and swelling. Use it only with the staff's permission, and keep the dressing dry.
+022	Keep the dressings on the wounds clean and dry. Wash the way the medical team explained.
+023	The tendon heals slowly. Recovery usually takes several months. Do your physiotherapy exercises regularly. Do not smoke: smoking slows healing.
+024	See a doctor the same day if the dressing becomes very wet, redness around the wounds increases, or there is discharge or a fever. After a nerve block, the arm may stay numb for a while. But if numbness is new or getting worse, the fingers are cold or pale, or severe pain does not ease after pain relief, get medical help immediately. If you suddenly feel short of breath or have chest pain, call the staff at once in hospital, and at home, call an ambulance on 101.
+025	AAOS OrthoInfo — Rotator Cuff Tears: Surgical Treatment Options
+026	Thigpen CA et al. ASSET consensus statement on rehabilitation following arthroscopic rotator cuff repair. J Shoulder Elbow Surg 2016;25:521–535
+027	Cambridge University Hospitals — Rotator cuff repair (patient information)
+028	Damaged surfaces of the shoulder joint are replaced with artificial ones.
+029	Use the sling and move your arm as your surgeon and physiotherapist instructed.
+030	Fever, wound discharge, spreading redness or worsening pain: see a doctor the same day.
+031	What is shoulder replacement?
+032	Shoulder replacement is an operation in which damaged joint surfaces are replaced with artificial components. The aim is to reduce pain and improve your ability to use your arm in everyday life.
+033	The operation may be recommended for severe arthritis, serious rotator cuff damage with joint destruction, or a complex fracture of the upper arm bone.
+034	The decision depends on your examination, the condition of your bones and tendons, and your overall health.
+035	Anatomical or reverse shoulder replacement?
+036	Anatomical shoulder replacement.
+037	The artificial parts follow the natural shape of the shoulder. The ball is on the upper arm bone, and the socket is on the shoulder blade.
+038	This type usually works best when the rotator cuff tendons are intact and working well.
+039	Reverse shoulder replacement.
+040	In a reverse replacement, the ball and socket switch places. The ball is attached to the shoulder blade, and the socket is placed on the upper arm bone.
+041	This design allows the deltoid muscle to help lift the arm even when the rotator cuff tendons are badly damaged.
+042	Your orthopaedic surgeon will choose the type of implant based on your condition. Reverse shoulder replacement is not automatically the best option for everyone.
+043	Preparing for surgery and the operation
+044	Before surgery, tell the team about all the medicines you take, any allergies, and any long-term medical conditions.
+045	Do not stop your regular medicines on your own.
+046	The anaesthetist will discuss general anaesthesia, a regional nerve block, or a combination of both.
+047	During the operation, your orthopaedic surgeon places the selected implant components.
+048	After surgery, you will be monitored in the recovery room.
+049	Your first days on the ward
+050	Your arm will usually be supported in a sling. The team will check your dressing, pain, sensation, movement, and blood flow to your fingers.
+051	Tell the team if your pain is severe or getting worse.
+052	Do not remove your sling without permission.
+053	Use cold packs only as instructed by the team.
+054	Do not put weight through your operated arm to get out of bed.
+055	Tell the nurse immediately if you develop numbness, significant hand swelling, or a change in finger colour.
+056	Physiotherapy and movement restrictions
+057	Recovery happens gradually. At first, it is important to protect the tissues affected by surgery. Then you will slowly regain movement and, later, increase the amount of weight and effort your arm can manage.
+058	Your plan depends on the type of implant, the condition of your tendons, what happened during surgery, and your orthopaedic surgeon's instructions.
+059	Exercises after anatomical and reverse shoulder replacement may be different.
+060	Until your doctor gives permission:
+061	Do not lift heavy objects.
+062	Do not move your arm sharply out to the side.
+063	Do not reach far behind your back.
+064	Do not push yourself up from a bed or chair with your operated arm.
+065	Do not start exercises that are not part of your rehabilitation plan.
+066	Sleeping, dressing, showering, and wound care at home
+067	Prepare loose clothes with fastenings at the front.
+068	Sleeping on your back or with your upper body raised may be more comfortable. Support your arm with a pillow.
+069	Keep your dressing as instructed in your discharge information.
+070	Do not get the wound wet or soak it in water until the medical team says it is safe.

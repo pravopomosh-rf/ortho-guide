@@ -1,0 +1,49 @@
+АМХАРСКИЙ, пакет 19 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	Diclofenac rectal suppositories do not protect the stomach and bowel from these complications: the drug is absorbed into the blood. The official package insert for the suppositories also includes warnings about bleeding in the digestive tract.
+002	It is especially important to talk with your doctor about the risk if you have had an ulcer or bleeding, if you have heart, kidney, or liver disease, if you are older, or if you take medicines that affect blood clotting, corticosteroids (such as prednisone), or certain antidepressants. Do not combine several anti-inflammatory pain medicines on your own.
+003	If you need medicine for knee osteoarthritis, the guidelines first suggest an anti-inflammatory gel that you put on the skin. Tablets are used if the treatment applied to the skin did not help or is not suitable. Use the lowest effective dose for the shortest possible time. If you are prescribed anti-inflammatory tablets, your doctor should also consider stomach protection. NICE recommends offering a proton pump inhibitor, a medicine that reduces stomach acid, while you take these tablets. This protection lowers some of the risks, but it does not make the treatment completely safe.
+004	Source: AAOS, 2023; NICE, 2022; FDA, 2024; SmPC diclofenac supp., 2025
+005	Get help right away if you have these signs
+006	If, while taking an anti-inflammatory pain medicine, you start vomiting blood, have black, tarry stools, see blood in your stool, faint, or suddenly feel very weak and bleeding is suspected — do not take the next dose and call an ambulance right away at 101 (Magen David Adom).
+007	If you get severe or lasting stomach pain, stop taking this pain medicine and contact a doctor urgently. If you have chest pain, sudden shortness of breath, weakness on one side of the body, or trouble speaking, call an ambulance on 101 (Magen David Adom) right away.
+008	Source: FDA, 2024; SmPC diclofenac supp., 2025
+009	When joint replacement is discussed
+010	A referral to an orthopedic surgeon to discuss joint replacement is considered when pain, stiffness, loss of function, or a worsening deformity of the joint greatly reduce your quality of life, and treatment without surgery does not help or is not suitable. The decision to refer is based on a clinical assessment, not only on questionnaire scores or an image. Age, body weight, smoking, and other health conditions should not automatically rule out a referral on their own, but they can affect the risks and how you prepare for surgery. The final decision is made by the patient and the surgeon after discussing the expected benefit, the alternatives, and possible complications.
+011	Source: NICE, 2022
+012	What waiting does
+013	Waiting a long time with severe osteoarthritis can come with more limits on what you can do, less physical activity, and a lower quality of life. In a 2024 systematic review that included almost 90,000 patients, joint function and quality of life got worse on average while people waited for surgery. However, the review could not reliably show whether the length of the wait itself affects the result after surgery. Some earlier observational studies linked worse function before surgery, or a longer wait, with less favorable results, but this does not prove that waiting is the cause.
+014	You should not put up with pain for years without having your treatment reviewed again. This does not mean surgery is needed right away: the timing and whether surgery makes sense are discussed individually.
+015	Source: Cooper et al., 2024; Fortin et al., 1999; Garbuz et al., 2006
+016	Modern surgery
+017	In joint replacement, the damaged joint surfaces are replaced with artificial parts. Many patients have less pain and better movement after surgery. In a Canadian study published in 2010, 89% of patients after hip replacement and 81% after knee replacement reported being satisfied overall. These figures apply to the participants of that specific study and do not guarantee the same result for every person. Like any surgery, joint replacement has risks; the decision is made after talking with an orthopedic surgeon.
+018	Source: Bourne et al., 2010
+019	NICE, 2022, NG226, Osteoarthritis in over 16s, sections 1.3, 1.4, 1.6
+020	AAOS, 12/01/2023, Management of Osteoarthritis of the Hip, CPG, recommendations on NSAIDs and surgical approach, pp. 8, 34–35
+021	FDA, November 2024, Celebrex (celecoxib) FDA Prescribing Information, boxed warning; section 5 and Medication Guide
+022	emc / UK-registered SmPC, Diclofenac Sodium 100 mg Suppositories, 09/19/2025, sections 4.4–4.5 and 5.2
+023	NIAMS/NIH, Osteoarthritis: Overview, Symptoms & Causes, official page
+024	AAOS OrthoInfo, Osteoarthritis of the Hip, official patient information
+025	Cooper GM et al., Scientific Reports 2024, systematic review and meta-analysis, n = 89,996; DOI 10.1038/s41598-024-58050-6
+026	Fortin PR et al., Arthritis & Rheumatism 1999, function before surgery and outcomes; PMID 10446873
+027	Garbuz DS et al., Clinical Orthopaedics and Related Research 2006, waiting for surgery and outcomes; PMID 16505716
+028	Bourne RB et al., Clinical Orthopaedics and Related Research 2010, satisfaction after hip/knee replacement: 89%/81%; PMID 19760472
+029	CPE and VRE are bacteria resistant to some antibiotics.
+030	A positive swab often means carriage, not illness.
+031	Wash your hands with soap and water after the toilet; follow the isolation rules.
+032	What CPE and VRE are
+033	CPE and VRE are groups of bacteria that are resistant to certain antibiotics.
+034	CPE are bacteria, such as E. coli or Klebsiella, that produce enzymes able to break down antibiotics of the carbapenem group.
+035	VRE are enterococci that are resistant to the antibiotic vancomycin.
+036	They can live in the gut without causing illness. This is called carriage. A person can feel completely well, but the bacteria can be passed on to other patients.
+037	In hospital they spread mainly by contact: through contaminated hands, medical equipment and surrounding objects. If these bacteria cause an infection, finding an effective antibiotic can be harder.
+038	How the swab is taken
+039	A nurse or another trained staff member gently inserts a sterile swab a short way into the anus to take a sample from the rectum.
+040	It takes only a short time. It usually does not hurt, but you may feel brief discomfort.
+041	For a reliable test, a small amount of stool should be on the swab. In some cases a stool sample is used instead.
+042	Why on admission and during the hospital stay
+043	In Israel there are rules for finding carriers of resistant bacteria in hospitals.
+044	For CPE, screening is especially important after a transfer from another healthcare facility, after a recent hospital stay, after contact with a known carrier, and in high-risk wards.
+045	For VRE, the hospital infection control team decides which groups of patients are tested on admission and when repeat tests are needed.
+046	On our ward the swab is usually taken on admission and repeated after about fourteen days if the patient is still in hospital. This is a local routine, not a uniform requirement for all hospitals in Israel.

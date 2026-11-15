@@ -1,0 +1,47 @@
+АМХАРСКИЙ, пакет 27 (продолжение перевода сайта для пациентов ортопедии). Правила те же, что в пакете 01: простой вежливый амхарский (እርስዎ) для выходцев из Эфиопии в Израиле, в т.ч. пожилых; смысл строго как в английском, ничего не добавлять и не убирать; 101 цифрами; названия лекарств латиницей как в оригинале; термины — строго по нашему глоссарию из пакета 01. Строки-ссылки на источники (названия статей, организаций, руководств на английском) НЕ переводить — оставить как есть.
+Ответ: ТОЛЬКО строки «NNN<TAB>перевод», все номера по порядку, без пропусков и комментариев; в конце ОДОБРЕНО (если перевод медицински точен) или в конце список замечаний.
+
+001	In the hospital, tell the nurse right away. After you go home, go to the emergency department (ER) immediately if you develop new or worsening weakness or numbness in your legs, numbness around the genitals, between the legs, or around the anus (saddle area), difficulty starting or passing urine, loss of the usual feeling that you need to urinate, inability to urinate, or new loss of bladder or bowel control. Do not drive yourself. If you cannot get to the ER safely, call an ambulance on 101 (Magen David Adom). These can be signs of dangerous nerve compression. Urgent medical evaluation is also needed for clear, watery discharge from the wound, or a headache that clearly gets worse when sitting or standing and eases when lying down; this may be related to a leak of spinal fluid. Seek medical help without delay for fever, spreading redness, swelling, pus-like discharge, or the wound opening up, and also for pain, swelling, redness, or unusual warmth in one lower leg. If you have sudden shortness of breath, chest pain, coughing up blood, or fainting, call an ambulance right away at 101 (Magen David Adom).
+002	NICE, Low back pain and sciatica, NG59, rec. 1.3.8–9
+003	NHS, Lumbar decompression surgery
+004	University College London Hospitals NHS, Single level lumbar decompression
+005	Cambridge University Hospitals NHS, Post-operative recovery following lumbar decompression surgery
+006	Schnake KJ et al., Eur Spine J 2022, PMID 35092451
+007	NICE, Surgical site infections: prevention and treatment, NG125, rec. 1.2.1, 1.2.4–5
+008	FDA, Jardiance (empagliflozin), label revised 10/2025, §2.3 and §5.1
+009	FDA, Farxiga (dapagliflozin), label revised 06/2024, §2.4 and §5.1
+010	FDA, Steglatro (ertugliflozin), label revised 06/2026, §2.3 and §5.1
+011	NHS, Sciatica: emergency neurological symptoms
+012	Johns Hopkins Medicine, Jackson-Pratt Drain
+013	CHEST 2022 — Perioperative Management of Antithrombotic Therapy (Douketis et al.)
+014	Spinal Fusion and Discectomy
+015	Discectomy removes part of a herniated disc; fusion joins vertebrae so they no longer move.
+016	You start moving and walking with staff when it is safe.
+017	Spinal fusion and discectomy: what you need to know
+018	What these operations are
+019	Discectomy
+020	is removal of part of an intervertebral disc (a herniation) that presses on a nerve root. It is often done through a small incision (microdiscectomy) or with an endoscope (AAOS).
+021	Spinal fusion
+022	is an operation in which two or more vertebrae are joined together so that there is no movement between them. A bone graft is used for this (your own bone, donor bone, or a synthetic bone-graft substitute), and often also screws, rods, or plates that hold the vertebrae while the bone heals together (AAOS).
+023	Left: a herniated disc presses on the nerves in the spinal canal and is removed (discectomy). Right: spinal fusion — the vertebrae are joined with screws and a rod, with a cage containing bone graft between the vertebral bodies. The screws pass through the pedicles of the vertebrae, beside the spinal canal; in this side view they appear to overlap the canal. Simplified drawing
+024	When they are done
+025	Most people with a herniated disc get better without surgery within several weeks or months (AAOS). Surgery (decompression) is considered for sciatica when treatment without surgery has not helped and the images match the symptoms (NICE NG59, 1.3.8).
+026	New inability to urinate or trouble passing urine, loss of control over urine or stool, numbness around the genitals, between the legs, or around the anus (saddle area), and rapidly worsening leg weakness can point to compression of nerve structures. This is an emergency that needs immediate evaluation in a hospital. If you get worse quickly, call an ambulance on 101.
+027	(Sources: AAOS; Guy's and St Thomas' NHS)
+028	Spinal fusion is done for some spine conditions when a segment of the spine needs to be stabilized: for example, instability, spondylolisthesis, certain deformities, or fractures. For non-specific low back pain without such a surgical indication, NICE does not recommend spinal fusion outside a randomized trial. The surgeon decides after your examination whether the operation is needed (AAOS; NICE NG59, 1.3.9).
+029	See the leaflet "Preparing for Surgery": fasting, medicines (especially blood thinners - only as your doctor tells you), showering. Smoking raises the risk that the bones will not fuse after spinal fusion (AAOS) - talk with your doctor about quitting smoking.
+030	After surgery, the staff will help you start moving and walking as soon as it is safe, given your condition and the type of operation. The surgeon and the rehabilitation team decide the timing, how much weight and activity are allowed, whether you need a brace, and any restrictions (NICE NG89; AAOS).
+031	After spine surgery, prevention of blood clots is chosen individually, taking into account the risk of clots forming and of bleeding after surgery. Mechanical prevention methods may be used. Your doctor decides whether and when to start medicines against clots. Do not start such medicines on your own (NICE NG89).
+032	Wound care - follow the instructions you get at discharge.
+033	Possible complications
+034	Infection of the surgical wound is a possible complication. Preventive antibiotics are given before spinal fusion surgery when implants are placed. For other spine operations without implants, the need for preventive antibiotics depends on the type of procedure and the hospital protocol (NICE NG125).
+035	Blood clots in the leg veins.
+036	Possible complications also include injury to nerve structures, bleeding, and leakage of spinal fluid. These complications do not happen to every patient (CUH; NHS).
+037	After spinal fusion: the bones may not fuse (pseudarthrosis), more often in smokers, with diabetes, and in older age; sometimes a repeat operation is needed (AAOS).
+038	After discectomy, part of the intervertebral disc stays in place, so the herniation may form again later and symptoms may return (UCLH).
+039	If you have new or rapidly worsening leg weakness, numbness around the genitals, between the legs, or around the anus (saddle area), difficulty starting or passing urine, loss of the usual feeling that you need to urinate, inability to urinate, or new loss of bladder or bowel control, go to the emergency department (ER) immediately. Do not drive yourself. If you cannot get there safely, call an ambulance on 101 (Magen David Adom). If you have sudden shortness of breath or chest pain, call an ambulance on 101 immediately.
+040	Go to the emergency department (ER) urgently if clear, watery fluid leaks from your surgical wound, even without other symptoms, or if you develop a new headache that gets worse when sitting or standing and improves when lying down. These may be signs of a spinal fluid leak.
+041	Fever, redness, or discharge from the wound; pain and swelling in the leg - see a doctor the same day (see the leaflet "After surgery: warning signs").
+042	NICE NG59, Low back pain and sciatica, 1.3.8–1.3.9
+043	AAOS OrthoInfo, Spinal Fusion
+044	AAOS OrthoInfo, Herniated Disk in the Lower Back
