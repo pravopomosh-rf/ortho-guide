@@ -288,3 +288,12 @@ body.big main{zoom:1.18}
 @media (prefers-reduced-motion:reduce){.phero .bgi{animation:none}}
 .card span.bgi{position:absolute;inset:0;padding:0;background:#ddd center/cover no-repeat;z-index:0}
 .card span:not(.bgi){z-index:1}
+.stnav{position:sticky;top:0;z-index:5;display:flex;gap:6px;overflow-x:auto;padding:8px 2px;margin:4px 0 14px;background:var(--bg);scrollbar-width:none}
+.stnav::-webkit-scrollbar{display:none}
+.stnav a{flex:none;display:flex;align-items:center;gap:6px;padding:7px 12px 7px 7px;border-radius:999px;background:var(--card);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap}
+.stnav b{display:grid;place-items:center;width:24px;height:24px;border-radius:50%;background:var(--teal);color:#fff;font-size:13px}
+.stage{margin:26px 0 8px;scroll-margin-top:60px}
+.sthead{display:flex;align-items:center;gap:12px;margin:0 0 12px;padding-bottom:10px;border-bottom:2px solid var(--teal)}
+.sthead h2{margin:0;font-size:24px;color:var(--teal)}
+.stcard{margin-top:12px}
+.stage section{scroll-margin-top:60px}
