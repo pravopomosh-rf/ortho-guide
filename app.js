@@ -1,6 +1,7 @@
+var AMFB='ይህ ገጽ እስካሁን ወደ አማርኛ አልተተረጎመም። ለጊዜው በዕብራይስጥ ቀርቧል። ትርጉሙ በቅርቡ ይጨመራል።';
 document.documentElement.classList.add('js');
-function setL(l){var bc=document.body.className.split(' ').filter(function(c){return c&&!/^(ru|he|ar|en)$/.test(c)});document.body.className=[l].concat(bc).join(' ');try{var h=location.hash.replace(/^#/,''),nh=/(^|&)lang=(ru|he|ar|en)/.test(h)?h.replace(/lang=(ru|he|ar|en)/,'lang='+l):(h?h+'&':'')+'lang='+l;if(h!=nh)history.replaceState(null,'',location.pathname+location.search+'#'+nh)}catch(e){}var d=(l=='ru'||l=='en')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
-document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==l);b.setAttribute('aria-pressed',b.dataset.k==l?'true':'false')});var h1=document.querySelector('header [data-l='+l+'] h1');if(h1)document.title=h1.textContent.trim();try{localStorage.lang=l}catch(e){}
+function setL(l){var want=l;if(l=='am'&&!document.querySelector('main [data-l=am]'))l='he';var bc=document.body.className.split(' ').filter(function(c){return c&&c!='amfb'&&!/^(ru|he|ar|en|am)$/.test(c)});if(want!=l)bc.push('amfb');document.body.className=[l].concat(bc).join(' ');try{var h=location.hash.replace(/^#/,''),nh=/(^|&)lang=(ru|he|ar|en|am)/.test(h)?h.replace(/lang=(ru|he|ar|en|am)/,'lang='+want):(h?h+'&':'')+'lang='+want;if(h!=nh)history.replaceState(null,'',location.pathname+location.search+'#'+nh)}catch(e){}var d=(l=='ru'||l=='en'||l=='am')?'ltr':'rtl';document.documentElement.dir=d;document.documentElement.lang=l;
+document.querySelectorAll('.lang button').forEach(function(b){b.classList.toggle('on',b.dataset.k==want);b.setAttribute('aria-pressed',b.dataset.k==want?'true':'false')});var h1=document.querySelector('header [data-l='+l+'] h1');if(h1)document.title=h1.textContent.trim();try{localStorage.lang=want}catch(e){}if(want!=l&&!document.querySelector('.amnote')){var mn=document.querySelector('main');if(mn)mn.insertAdjacentHTML('beforebegin','<p class="amnote" lang="am">'+AMFB+'</p>')}
 var fv=0;document.querySelectorAll('video:not(.hero)').forEach(function(v){if(v.closest('[data-l='+l+']')){if(!fv&&v.preload=='none')v.preload='metadata';fv=1}else{v.pause();if(v.networkState!=1)v.preload='none'}});
 if(window.__rv)window.__rv()}
 function seek(l,t){var v=document.getElementById('v_'+l);v.currentTime=t;v.play();return false}
@@ -64,9 +65,9 @@ a.innerHTML=ic(n)+'<span class="tx">'+a.innerHTML+'</span>';if(/postop/.test(h))
 /* главная: рассвет + подзаголовок */
 var hd=document.querySelector('header');
 if(hd&&!document.querySelector('header .back')){
-var tg={en:'Your surgery explained clearly, step by step',ru:'Понятно о вашей операции — шаг за шагом',he:'הסבר ברור על הניתוח שלכם — צעד אחר צעד',ar:'شرح واضح لعمليتكم — خطوة بخطوة'};
+var tg={en:'Your surgery explained clearly, step by step',ru:'Понятно о вашей операции — шаг за шагом',he:'הסבר ברור על הניתוח שלכם — צעד אחר צעד',ar:'شرح واضح لعمليتكم — خطوة بخطوة',am:'የቀዶ ጥገናዎ ሂደት በቀላሉ፣ ደረጃ በደረጃ'};
 hd.querySelectorAll('[data-l]').forEach(function(d){d.insertAdjacentHTML('beforeend','<p class="tag">'+tg[d.dataset.l]+'</p>')});
-hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="en">Everyone recovers differently. Agree with your doctor or physiotherapist on when to change walking aids and when to walk without them.</span><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>');startHero()}
+hd.querySelector('.lang').insertAdjacentHTML('beforebegin',heroSVG()+'<p class="herocap"><span data-l="am">እያንዳንዱ ሰው የሚያገግምበት ፍጥነት የተለየ ነው። የመራመጃ መሣሪያዎን መቼ መቀየር እንደሚችሉና ያለ መሣሪያ መቼ መራመድ እንደሚችሉ ከሐኪምዎ ወይም ከፊዚዮቴራፒ ባለሙያዎ ጋር ተስማሙ።</span><span data-l="en">Everyone recovers differently. Agree with your doctor or physiotherapist on when to change walking aids and when to walk without them.</span><span data-l="ru">Восстановление у каждого проходит по-разному. Переход между средствами опоры и ходьбу без них согласуйте с врачом или физиотерапевтом.</span><span data-l="he">ההחלמה שונה אצל כל אחד. את המעבר בין אמצעי העזר להליכה ואת ההליכה בלעדיהם תאמו עם הרופא או הפיזיותרפיסט.</span><span data-l="ar">يختلف التعافي من شخص لآخر. نسّقوا الانتقال بين وسائل المساعدة على المشي والمشي من دونها مع الطبيب أو أخصائي العلاج الطبيعي.</span></p>');startHero()}
 function startHero(){var v=document.querySelector('video.hero');if(!v)return;v.muted=true;v.defaultMuted=true;var p=v.play();if(p&&p.catch)p.catch(function(){})}
 function heroSVG(){var base=location.pathname.indexOf('/ops/')>-1?'../':'';
 var red=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -82,7 +83,7 @@ window.__rv=function(){els.forEach(function(e){if(!e.classList.contains('in'))io
 setTimeout(function(){els.forEach(function(e){if(e.getBoundingClientRect().top<innerHeight)e.classList.add('in')})},60)}
 })();
 
-var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
+var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
 (function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
 /* 04.11: duration on the video label */
 document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('video'),d=s.querySelector('.vdur');if(!v||!d)return;function f(){if(!isFinite(v.duration))return;var t=Math.floor(v.duration),m=Math.floor(t/60),x=t%60;d.textContent='· '+m+':'+(x<10?'0':'')+x}v.addEventListener('loadedmetadata',f);f()});
@@ -94,10 +95,10 @@ document.addEventListener('play',function(e){var t=e.target;if(t.tagName!='VIDEO
 (function(){var m=location.hash.match(/to=([a-z0-9]+)/);if(!m)return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById(m[1]+'_'+l);if(e)e.scrollIntoView({block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,500)})();
 
 /* 08.11 (аудит): язык меняется при ручной смене #lang= без перезагрузки */
-window.addEventListener('hashchange',function(){var q=(location.hash.match(/lang=(ru|he|ar|en)/)||[])[1];if(q&&q!=document.body.className.split(' ')[0])setL(q)});
+window.addEventListener('hashchange',function(){var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];if(q&&q!=document.body.className.split(' ')[0])setL(q)});
 /* 08.11 (аудит): «101» в тексте — кнопка звонка; в разделах тревоги — крупная красная кнопка */
 (function(){
-var CALL={ru:'Позвонить 101',he:'להתקשר ל־101',ar:'اتصلوا بـ 101',en:'Call 101'};
+var CALL={ru:'Позвонить 101',he:'להתקשר ל־101',ar:'اتصلوا بـ 101',en:'Call 101',am:'ወደ 101 ይደውሉ'};
 function wrap(root){var w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null),list=[],n;
 while(n=w.nextNode()){if(/(^|[^\d])101([^\d]|$)/.test(n.nodeValue)&&!n.parentNode.closest('a,button,header,h1,h2,h3'))list.push(n)}
 list.forEach(function(t){var f=document.createDocumentFragment(),parts=t.nodeValue.split(/(101)/);parts.forEach(function(x,i){if(x==='101'&&!/\d$/.test(parts[i-1]||'')&&!/^\d/.test(parts[i+1]||'')){var a=document.createElement('a');a.href='tel:101';a.className='tel';a.textContent='101';f.appendChild(a)}else f.appendChild(document.createTextNode(x))});t.parentNode.replaceChild(f,t)})}

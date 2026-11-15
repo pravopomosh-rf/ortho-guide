@@ -3,6 +3,7 @@
 var T={ru:{ph:'Поиск: колено, уколы, пролежни…',lb:'Поиск по темам',no:'Ничего не нашлось. Попробуйте другое слово или выберите раздел ниже.'},
 he:{ph:'חיפוש: ברך, זריקות, פצעי לחץ…',lb:'חיפוש נושא',no:'לא נמצא. נסו מילה אחרת או בחרו נושא למטה.'},
 ar:{ph:'بحث: الركبة، الحقن، قرح الفراش…',lb:'البحث في المواضيع',no:'لا توجد نتائج. جرّبوا كلمة أخرى أو اختاروا قسمًا أدناه.'},
+am:{ph:'ይፈልጉ፦ ጉልበት፣ መርፌዎች፣ የግፊት ቁስሎች…',lb:'ርዕሶችን ይፈልጉ',no:'ምንም አልተገኘም። ሌላ ቃል ይሞክሩ ወይም ከታች አንድ ክፍል ይምረጡ።'},
 en:{ph:'Search: knee, injections, pressure sores…',lb:'Search topics',no:'Nothing found. Try another word or choose a section below.'}};
 function norm(s){return (s||'').toLowerCase().replace(/ё/g,'е').replace(/[\u0591-\u05C7\u064B-\u065F\u0670]/g,'').replace(/[إأآٱ]/g,'ا').replace(/ة/g,'ه').replace(/ى/g,'ي').replace(/[^\p{L}\p{N}]+/gu,' ').trim()}
 function stem(w){return w.length>=5?w.slice(0,Math.max(4,w.length-2)):(w.length==4&&/^[а-я]+$/.test(w)?w.slice(0,3):w)}

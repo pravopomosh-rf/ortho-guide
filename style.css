@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&family=Noto+Sans+Arabic:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&family=Noto+Sans+Arabic:wght@400;600;700&family=Noto+Sans+Ethiopic:wght@400;600;700&display=swap");
 /* Палитра «надежда»: мягкий бирюзово-зелёный + тёплый светлый фон, акцент «рассвет», красный — только для тревоги */
 :root{--bg:#fbf7f0;--bg2:#f3efe6;--card:#fff;--ink:#1d2b2a;--ink2:#46595a;--teal:#1f7a70;--teal-d:#14564f;--teal-l:#e3f2ee;--dawn:#f0a24f;--coral:#e98a6e;--dawn-l:#fff3e3;--red:#b3261e;--red-l:#fdecea;--line:#e6ded0;--shadow:0 2px 6px rgba(40,60,55,.06),0 10px 28px rgba(40,60,55,.08);--r:20px}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;font:18px/1.62 Rubik,"Noto Sans Arabic",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:var(--ink);background:var(--bg)}
 body.ar{font-family:"Noto Sans Arabic",Rubik,system-ui,sans-serif;line-height:1.75}
-[data-l]{display:none}body.ru [data-l=ru],body.he [data-l=he],body.ar [data-l=ar],body.en [data-l=en]{display:block}
+[data-l]{display:none}body.ru [data-l=ru],body.he [data-l=he],body.ar [data-l=ar],body.en [data-l=en],body.am [data-l=am]{display:block}
 /* шапка с рассветом */
 header{position:relative;overflow:hidden;color:#fff;padding:18px 16px 20px;background:linear-gradient(160deg,#155f57 0%,#1c6f66 55%,#1f7867 100%)}
 header::before{content:"";position:absolute;inset-inline-end:-60px;bottom:-90px;width:240px;height:240px;border-radius:50%;background:radial-gradient(circle,rgba(255,214,150,.75) 0%,rgba(240,162,79,.35) 40%,rgba(240,162,79,0) 70%);pointer-events:none}
@@ -297,3 +297,8 @@ body.big main{zoom:1.18}
 .sthead h2{margin:0;font-size:24px;color:var(--teal)}
 .stcard{margin-top:12px}
 .stage section{scroll-margin-top:60px}
+
+/* 15.11: амхарский (አማርኛ) */
+body.am{font-family:"Noto Sans Ethiopic",Rubik,system-ui,sans-serif;line-height:1.75}
+.amnote{display:none;background:#eef6f3;border:1px solid #bfe0d6;color:#0f5c4d;border-radius:14px;padding:12px 16px;margin:12px 16px 0;font:16px/1.6 "Noto Sans Ethiopic",Rubik,sans-serif;direction:ltr;text-align:left}
+body.amfb .amnote{display:block}
