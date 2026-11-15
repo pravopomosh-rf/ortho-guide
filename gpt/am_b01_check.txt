@@ -1,0 +1,125 @@
+ЗАДАНИЕ: перевод сайта для пациентов ортопедии на АМХАРСКИЙ (አማርኛ) — для выходцев из Эфиопии в Израиле, в т.ч. пожилых. Пакет 01 (главная, маршруты операций, карта сайта, кнопки).
+Требования:
+- простой, понятный разговорный амхарский; вежливое обращение (እርስዎ / plural polite), как в больничной памятке;
+- медицинский смысл строго как в английском, ничего не добавлять и не убирать; номер скорой 101 оставить цифрами;
+- названия лекарств оставить латиницей как в оригинале; не писать название больницы и телефоны;
+- последовательные термины (дай в начале ответа мини-глоссарий из 15–25 ключевых терминов EN = AM: orthopaedic surgeon, nurse, physiotherapist, anaesthetist, hip replacement, knee replacement, walker/walking frame, crutches, dressing, wound, drain, blood clot, pressure sore, nerve block, ward, operating theatre, admission, rehabilitation, pain relief и т. п.) — я буду использовать его во всех следующих пакетах;
+- строки короткие (кнопки, заголовки) — переводи коротко.
+Формат ответа: сначала глоссарий, затем строки СТРОГО в формате «NNN<TAB>перевод», по одной на строку, все номера по порядку, без пропусков и без комментариев; в конце слово ОДОБРЕНО (если перевод медицински точен).
+
+001	Your surgery explained clearly, step by step
+002	Everyone recovers differently. Agree with your doctor or physiotherapist on when to change walking aids and when to walk without them.
+003	Call 101
+004	Search: knee, injections, pressure sores…
+005	Search topics
+006	Nothing found. Try another word or choose a section below.
+007	This page has not yet been translated into Amharic. For now it is shown in Hebrew. The translation will be added soon.
+008	Orthopedics Department
+009	Patient Information Sheets
+010	Preview version — not for patients
+011	Hello! We are with you at every step.
+012	Where does it hurt? Tap a joint
+013	Shoulder
+014	Wrist
+015	Spine
+016	Hip
+017	Knee
+018	Ankle
+019	Choose a section
+020	Tap a body area or a topic to see information pages and videos.
+021	Preparing for surgery
+022	Shoulder and arm
+023	Lower leg, ankle and foot
+024	After surgery in the ward
+025	Going home
+026	Photos are illustrations, not real patients.
+027	Warning signs
+028	When to call an ambulance on 101 or seek urgent care
+029	Preparing for surgery: fasting, medicines, shower, documents
+030	Read
+031	Why you should not live with joint pain without help for years
+032	▶ Video
+033	↑ All sections
+034	Hip surgery: everything in order
+035	Preparation → surgery → after surgery → at home → rehabilitation
+036	Total hip replacement
+037	At home after hip replacement: aids and safe movements
+038	Hip fracture
+039	Anterior approach: what is important to know after surgery
+040	Knee surgery: everything in order
+041	Total knee replacement
+042	Knee arthroscopy
+043	Shoulder surgery: everything in order
+044	Wrist surgery: everything in order
+045	Rotator cuff repair
+046	Shoulder replacement
+047	Broken upper arm near the shoulder
+048	Broken wrist (radius fracture)
+049	Fracture surgery: plates, screws and rods
+050	Lower leg and ankle surgery: everything in order
+051	Ankle fracture
+052	Achilles tendon repair
+053	Foot wound with diabetes
+054	Leg amputation
+055	Spinal surgery: everything in order
+056	Laminectomy
+057	Spinal fusion and discectomy
+058	Kyphoplasty
+059	Other spine operations
+060	Tear in the dura during spine surgery (incidental durotomy)
+061	Getting up after spinal surgery
+062	After surgery on the ward and getting ready to go home
+063	Rehabilitation after orthopaedic surgery
+064	Pain after surgery: pain relief
+065	Breathing exercises after surgery
+066	Oxygen saturation during sleep after anaesthesia, and oxygen
+067	After general anaesthesia: throat, sleepiness, dizziness
+068	Preventing falls after surgery
+069	Walking frame: how to walk safely
+070	Confusion after surgery (delirium)
+071	Preventing pressure ulcers
+072	Leg swelling after surgery
+073	Wound and infections
+074	Changing the dressing on a surgical wound: when and with what
+075	Wound drain after surgery
+076	Cellulitis: a bacterial skin infection
+077	Pus-forming infection: abscess, spreading soft-tissue infection and wound-cleaning surgery
+078	CPE and VRE swab: why it is taken
+079	Admission to the ward: what to expect
+080	After surgery: warning signs — when to call 101 or seek urgent care
+081	Injections to prevent blood clots at home: enoxaparin (Clexane, Crusia)
+082	In the ward:
+083	Need help? Press the call button by your bed.
+084	At home:
+085	If warning signs appear, seek urgent medical help. If you have life-threatening symptoms, call an ambulance on 101.
+086	This is general information. Your treating doctor's individual instructions take priority over the recommendations on this page.
+087	Site map: all pages and videos
+088	← All topics
+089	Five steps, from preparation to rehabilitation. Open the step you need.
+090	Getting ready for surgery
+091	Your operation
+092	Choose your operation. If you don't know its name, ask your doctor or nurse.
+093	The first days after surgery on the ward
+094	Discharge and at home
+095	Rehabilitation
+096	Read the page about a dural tear only if your doctor has told you about it.
+097	Site map
+098	All pages of the site by topic. Each page shows whether it has a video and in which languages. Tap a title to open the page.
+099	Joints: hip, knee, shoulder
+100	▶ Video:
+101	Russian
+102	Hebrew
+103	Arabic
+104	English
+105	video in development
+106	Shoulder replacement: anatomical and reverse
+107	Fractures
+108	After surgery and rehabilitation
+109	Warning signs after surgery — when to seek medical help
+110	General topics
+111	Videos in progress
+112	Preparing for planned surgery (English)
+113	How to use the site
+114	Choose the language with the buttons at the top of every page.
+115	On a surgery page the video comes first, followed by the text in sections and the sources.
+116	If there is no video yet, the top of the page says “Video in development”.
