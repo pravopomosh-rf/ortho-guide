@@ -10,3 +10,10 @@ https://www.nhs.uk/tests-and-treatments/general-anaesthesia/
 https://www.orthoinfo.org/en/treatment/knee-arthroscopy/
 https://ebi.aomrc.org.uk/interventions/knee-arthroscopy-for-patients-with-osteoarthritis/
 https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35993965&resultType=core&format=json
+https://www.orthoinfo.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/
+https://www.nhs.uk/conditions/broken-arm-or-wrist/
+https://www.bssh.ac.uk/professionals/vte_guidelines.aspx
+https://www.boa.ac.uk/resource/boast-16-pdf.html
+https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35383613&resultType=core&format=json
+https://www.ema.europa.eu/hr/events/pharmacovigilance-risk-assessment-committee-prac-23-26-november-2026
