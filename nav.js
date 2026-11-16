@@ -89,7 +89,7 @@ function search(q,l){var D=data(l);q=norm(q);if(q.length<2)return null;
   if(!hit&&!sc)return null;var nw=W.filter(function(x){return !x.ph}).length;if(hit==nw||phr)sc*=1.6;
   var head='';if(why){for(var i=0;i<o.heads.length&&!head;i++){var hf={w:o.heads[i].n.trim().split(' ').reduce(function(a,w){return a.concat(strip(w,l))},[]),s:o.heads[i].n};if(hm(why,hf)>=.8)head=o.heads[i].h}}
   return {o:o,sc:sc+(o.e.v?.2:0),head:head}}).filter(Boolean).sort(function(a,b){return b.sc-a.sc||a.o.i-b.o.i});
- var top=res.length?res[0].sc:0;res=res.filter(function(r){return r.sc>=top*.25}).slice(0,12);
+ var top=res.length?res[0].sc:0;res=res.filter(function(r){return r.sc>=top*.35}).slice(0,12);
  /* мало результатов — добавить соседние темы из тех же разделов */
  if(res.length&&res.length<4){var have={};res.forEach(function(r){have[r.o.e.h]=1});var rel=[];
   D.d.secs.forEach(function(sc){if(sc.items.some(function(i){return have[i.h]}))sc.items.forEach(function(i){if(!have[i.h]&&!i.p){have[i.h]=1;var o=D.docs.filter(function(d){return d.e.h==i.h})[0];if(o)rel.push({o:o,sc:0,head:'',rel:1})}})});
