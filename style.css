@@ -305,3 +305,14 @@ body.amfb .amnote{display:block}
 
 /* 15.11: амхарский отложен до окончания запуска на 4 языках (решение Георгия) — кнопку скрыть */
 .lang button[data-k=am]{display:none}
+
+/* 16.11: читаемость — мелкие элементы крупнее, цели нажатия ≥48px, блоки без скрытия до прокрутки */
+main section.rv{opacity:1;transform:none;transition:none}
+.bigbtn{min-height:48px}
+.stnav a{min-height:48px;font-size:16px}
+.stnav b{width:28px;height:28px;font-size:15px}
+.pathbar .pwi{font-size:15px}
+a.pc .chip{font-size:15px;padding:4px 10px}
+a.pc .pt{font-size:17px}
+a.totop{font-size:17px;min-height:48px;line-height:48px}
+.srr small{font-size:15px}
