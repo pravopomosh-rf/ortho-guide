@@ -18,13 +18,14 @@ def ant(l):
 ILL={'acdf':'p/spine-other.webp','breath':'p/breathing.webp','delir':'p/delirium.webp','falls':'p/falls.webp','fusion':'spine_disc_fusion.svg',
  'kyphoplasty':'vcf.webp','laminectomy':'lami_{l}.webp','logroll':'p/log-roll.webp','osteo':'p/osteosynthesis.webp','pain':'p/pain.webp',
  'postop':'p/postop.webp','preopv':'sec_preop.webp','preop':'sec_preop.webp','press':'p/pressure-sores.webp','shoulder':'p/shoulder-fracture.webp',
- 'swell':'p/swelling.webp','drain':'p/drain.webp','dress':'p/dressings.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp',
+ 'swell':'p/swelling.webp','drain':'p/drain.webp','dress':'p/dressings.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp','first':'p/after-surgery.webp',
  'wrist':'p/wrist-fracture.webp','ankle':'ankle_anatomy.svg','thr3av':'p/walker.webp','thr2v':'thr_ill.webp'}
 FR={'amp':(2,430),'anest':(2,405),'arth':(2,650),'cuff':(0,470),'enox':(5,340),'hipfxv':(1,300),'o2':(0,360),'stairs':(6,470),
  'thr_anterior':(0,950),'pjv':(8.85,440)}
 out=[]
 for f in sorted(glob.glob(R+'/video/*.mp4')):
     b=os.path.basename(f)[:-4]; v,l=b.rsplit('_',1)
+    if os.environ.get('ONLY') and v not in os.environ['ONLY'].split(','): continue
     d=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f]))
     tagkey=(sec.get(v,{}).get(l) or [None])[0]
     if v in('thr2v','thr3av','thr3bv','stairs','thr_anterior'): tagkey='hip'
