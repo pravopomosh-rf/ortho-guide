@@ -312,3 +312,4 @@ body.amfb .amnote{display:block}
 .vitem{margin:0 0 26px}
 .vitem:last-child{margin-bottom:4px}
 .vitem .vplay{background:var(--teal,#1f7a70)}
+@media (max-width:700px){.phero{aspect-ratio:21/9;margin:12px 0 2px}.vfirst{margin-top:10px}}
