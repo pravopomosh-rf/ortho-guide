@@ -11,7 +11,7 @@ for(const o of D){ if(only&&!only.split(',').includes(o.v))continue;
  else {src='file://'+path.resolve('ill/'+(o.v=='thr3bv'?'stairs':o.v)+'_'+o.l+'.png');cls='fr';}
  const durTxt=rtl? `${t[1]} · <span dir="ltr">${o.dur}</span>`:`${t[1]} · ${o.dur}`;
  const h=`<div class="brand">${t[0]}</div><div class="tag">${esc(o.tag)}</div><h1>${esc(o.h1)}</h1>${o.sub?`<div class="sub">${esc(o.sub)}</div>`:''}<div class="card"><img class="${cls}" src="${src}"></div><div class="play"><div class="btn"></div><div class="dur">${durTxt}<small>${t[2]}</small></div></div>`;
- await p.evaluate(([h,l,rtl])=>{document.body.className=l;document.documentElement.dir=rtl?'rtl':'ltr';document.body.innerHTML=h;
+ await p.evaluate(async([h,l,rtl])=>{document.body.className=l;document.documentElement.dir=rtl?"rtl":"ltr";document.body.innerHTML=h;await document.fonts.ready;await new Promise(r=>setTimeout(r,300));
   const e=document.querySelector('h1');let f=96;e.style.fontSize=f+'px';
   const fit=()=>e.scrollWidth>e.clientWidth||e.offsetHeight>f*1.4*3;
   while(fit()&&f>52){f-=2;e.style.fontSize=f+'px'}},[h,o.l,rtl]);
