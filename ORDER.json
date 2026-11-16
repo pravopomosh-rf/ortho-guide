@@ -41,5 +41,8 @@
  "03_cpe": "cpe.json — ролик «Мазок на CPE и VRE» CV01–CV10 ×4 (ОДОБРЕНО с правками 16.11) → озвучка → 3D по vis_* → ops/cpe-vre.html",
  "04_admv": "admv.json — ролик «Поступление в отделение» AD01–AD11 ×4 + cap_* + vis_* — ОДОБРЕНО с правками ChatGPT 16.11 (после pjv и cpe)",
  "52_opday": "opday.json (ru, he, ar, en OD01..OD10) — «День операции», этап 3 маршрутов, 17 страниц операций — ОДОБРЕНО ChatGPT 16.11 (gpt/opday_gpt_1611.txt); голос в manus/todo.json (Claude, после dura)",
- "53_rehabv": "rehabv.json (ru, he, ar, en RH01..RH11) — ролик «Реабилитация (шикум)» сверху ops/rehab.html, шаг 5 маршрутов — ОДОБРЕНО ChatGPT 16.11 (gpt/rehabv_gpt_1611.txt); голос в manus/todo.json (Claude, после opday)"
+ "53_rehabv": "rehabv.json (ru, he, ar, en RH01..RH11) — ролик «Реабилитация (шикум)» сверху ops/rehab.html, шаг 5 маршрутов — ОДОБРЕНО ChatGPT 16.11 (gpt/rehabv_gpt_1611.txt); голос в manus/todo.json (Claude, после opday)",
+ "54_cellv": "cellv.json (ru, he, ar, en CL01..CL11) — ролик «Целлюлит» сверху ops/cellulitis.html — ОДОБРЕНО ChatGPT 16.11 (gpt/cellv_gpt_1611.txt); голос в manus/todo.json (Claude, после rehabv)",
+ "55_dfv": "dfv.json (ru, he, ar, en DF01..DF12) — ролик «Диабетическая стопа» сверху ops/diabetic-foot.html — ОДОБРЕНО ChatGPT 16.11 (gpt/dfv_gpt_1611.txt); голос в manus/todo.json (Claude, после cellv)",
+ "56_piv": "piv.json (ru, he, ar, en PI01..PI11) — ролик «Гнойная инфекция» сверху ops/purulent-infection.html — ОДОБРЕНО ChatGPT 16.11 (gpt/piv_gpt_1611.txt); голос в manus/todo.json (Claude, после cellv)"
 }
