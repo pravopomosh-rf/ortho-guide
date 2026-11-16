@@ -305,3 +305,10 @@ body.amfb .amnote{display:block}
 
 /* 15.11: амхарский отложен до окончания запуска на 4 языках (решение Георгия) — кнопку скрыть */
 .lang button[data-k=am]{display:none}
+/* 16.11 страница: фото (app.js .phero) → видео → текст */
+.vfirst{border:2px solid var(--teal,#1f7a70)!important;background:#fff}
+.vfirst>h2{margin-top:0}
+.vfirst>h2 .ic{display:none}
+.vitem{margin:0 0 26px}
+.vitem:last-child{margin-bottom:4px}
+.vitem .vplay{background:var(--teal,#1f7a70)}
