@@ -1,0 +1,1 @@
+code_1711p.tgz (17.11): preopv_ru S3+S8 новые тексты (audit1711). Поверх preopV_code_08-11 + preop_code_audio_02-11 (D:). Рендер: npx remotion render src/index2.ts SV-S3|SV-S8 --muted; вклейка по кадрам 1221/3190, 8845/11506 старого ролика. Широкая S8 (preop_ar) ещё со старыми карточками.
