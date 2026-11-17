@@ -114,7 +114,7 @@ var css='.gnav{position:sticky;top:0;z-index:60;display:flex;gap:8px;align-items
 '.gql{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 10px}.gql a{padding:9px 14px;border-radius:999px;background:#fff;border:1px solid var(--line,#e6ded0);color:var(--teal-d,#14564f);text-decoration:none;font-weight:600;font-size:15px}'+
 '.gsec{background:#fff;border-radius:18px;margin:0 0 10px;box-shadow:0 1px 4px rgba(40,60,55,.06);overflow:hidden}.gsec summary{list-style:none;display:flex;align-items:center;gap:12px;padding:10px 12px;cursor:pointer;font-weight:700;font-size:17px}'+
 '.gsec summary::-webkit-details-marker{display:none}.gsec summary img{width:56px;height:40px;object-fit:cover;border-radius:10px;flex:none}.gsec summary span{flex:1}.gsec summary b{flex:none;color:var(--teal,#1f7a70);transition:transform .2s}.gsec[open] summary b{transform:rotate(90deg)}'+
-'.gsec ul,.gres{list-style:none;margin:0;padding:0}.gsec li a,.gres a{display:block;padding:11px 14px;border-top:1px solid var(--line,#e6ded0);color:var(--ink,#1d2b2a);text-decoration:none;font-size:16px;line-height:1.35}'+
+'.gsec ul,.gurg{background:#fdecea;border:1px solid #f1c4bf;border-radius:18px;padding:14px 16px;margin:0 0 14px;color:#5a1d16;font-size:16px;line-height:1.4}.gurg .gut{display:block;font-size:19px;color:#b3261e;margin-bottom:6px}.gurg p{margin:6px 0}.gub{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}.gub a{border-radius:999px;padding:10px 16px;font-weight:700;text-decoration:none}.g101{background:#b3261e;color:#fff!important;font-size:18px}.gpo{background:#fff;color:#b3261e!important;border:1px solid #f1c4bf}.gres{list-style:none;margin:0;padding:0}.gsec li a,.gres a{display:block;padding:11px 14px;border-top:1px solid var(--line,#e6ded0);color:var(--ink,#1d2b2a);text-decoration:none;font-size:16px;line-height:1.35}'+
 '.gres{background:#fff;border-radius:18px;overflow:hidden;box-shadow:0 1px 4px rgba(40,60,55,.06)}.gres li:first-child a{border-top:0}.gres b{display:block;font-size:17px}.gres small{display:block;color:var(--ink2,#46595a);font-size:14px;margin-top:2px}'+
 '.gsec li a:active,.gres a:active,.gsec li a:hover,.gres a:hover{background:var(--teal-l,#e3f2ee)}.gtag{display:inline-block;margin-inline-start:6px;padding:1px 8px;border-radius:999px;font-size:12px;font-weight:700;vertical-align:2px;background:var(--dawn-l,#fff3e3);color:#9a5a12}.gtag.p{background:var(--teal-l,#e3f2ee);color:var(--teal-d,#14564f)}'+
 '.gnone{margin:6px 4px 12px;color:var(--ink2,#46595a)}.glis{margin:8px 12px 0;padding:10px 12px;border-radius:12px;background:#fff3e3;color:#9a4a20;font-weight:600;line-height:1.4}body.gopen{overflow:hidden}'+
@@ -131,10 +131,18 @@ function menuHTML(l,t){var d=data(l).d;return '<div class="gql"><a href="'+B+'in
  d.secs.map(function(s){var here=s.items.some(function(i){return location.pathname.slice(-i.h.length-1)=='/'+i.h});
   return '<details class="gsec"'+(here?' open':'')+'><summary>'+(s.i?'<img src="'+B+s.i+'" alt="" loading="lazy">':'')+'<span>'+esc(s.t)+'</span><b>›</b></summary><ul>'+
   s.items.map(function(i){return '<li><a href="'+link(i.h,l)+'">'+esc(i.t)+tags(i,t)+'</a></li>'}).join('')+'</ul></details>'}).join('')}
-function fill(box,q,l,t,full){var r=search(q,l);
- if(r===null){box.innerHTML=full?menuHTML(l,t):'';return}
- if(r.length){box.innerHTML=resHTML(r,l,t)+(full?'':'');return}
- box.innerHTML='<p class="gnone">'+t.none+'</p>'+(full?menuHTML(l,t).replace(/^<div class="gql">.*?<\/div><h3>.*?<\/h3>/,''):'')}
+/* 17.11 аудит: срочная карточка поверх выдачи при критических жалобах (тексты — одобренные с postop.html и страниц операций) */
+var URG={
+ru:{w:['трудно дыш','тяжело дыш','не могу дыш','задыха','одышк','не хватает воздух','нечем дыш','боль в груди','боли в груди','болит грудь','давит в груди','сильное кровотеч','кровь не остан','кровотечение не остан','кашель с кровью','кашляю кровью','кровохарк','обморок','потерял сознан','потеряла сознан','потеря сознан','без сознан','судорог'],t:'Срочно',w1:'В больнице',w2:'Дома',a:'Нажмите кнопку вызова, а при тяжёлом состоянии громко зовите персонал.',b:'Внезапная одышка, боль в груди, сильное кровотечение: сразу скорая помощь 101.',c:'Позвонить 101',d:'Все тревожные признаки'},
+he:{w:['קשה לי לנשום','קשה לנשום','קשיי נשימה','קושי בנשימה','קוצר נשימה','לא יכול לנשום','לא יכולה לנשום','אין לי אוויר','חנק','כאב בחזה','כאבים בחזה','כואב לי בחזה','לחץ בחזה','דימום חזק','דימום שלא נעצר','הדם לא נעצר','שיעול עם דם','משתעל דם','משתעלת דם','התעלפ','עילפון','איבד הכרה','איבדה הכרה','איבוד הכרה','פרכוס'],t:'דחוף',w1:'בבית החולים',w2:'בבית',a:'לחצו על כפתור הקריאה, ובמצב קשה קראו לצוות בקול רם.',b:'קוצר נשימה פתאומי, כאב בחזה, דימום חזק: הזעיקו מיד אמבולנס במספר 101.',c:'חיוג 101',d:'כל סימני האזהרה'},
+ar:{w:['صعوبة في التنفس','صعوبة التنفس','صعوبة بالتنفس','ضيق نفس','ضيق النفس','ضيق تنفس','ضيق التنفس','ضيق في التنفس','لا أستطيع التنفس','لا استطيع التنفس','مش قادر اتنفس','اختناق','ألم في الصدر','ألم بالصدر','الم في الصدر','وجع في الصدر','وجع بالصدر','ضغط في الصدر','نزيف شديد','نزيف لا يتوقف','سعال دم','سعال مع دم','كحة دم','إغماء','اغماء','فقدان الوعي','فقد الوعي','تشنج'],t:'عاجل',w1:'في المستشفى',w2:'في البيت',a:'اضغطوا زر الاستدعاء، وفي الحالة الصعبة نادوا الطاقم بصوت عالٍ.',b:'ضيق نفس مفاجئ، ألم في الصدر، نزيف شديد: اتصلوا فورًا بالإسعاف على الرقم 101.',c:'اتصال 101',d:'كل علامات الخطر'},
+en:{w:['cannot breathe','can t breathe','cant breathe','hard to breathe','difficulty breathing','trouble breathing','shortness of breath','short of breath','breathless','out of breath','chest pain','pain in my chest','chest tightness','heavy bleeding','bleeding won t stop','bleeding will not stop','bleeding that won t stop','coughing blood','coughing up blood','cough up blood','fainted','fainting','passed out','unconscious','seizure'],t:'Urgent',w1:'In hospital',w2:'At home',a:'Press the call button, and if the situation is serious, call the staff loudly.',b:'Sudden breathlessness, chest pain or heavy bleeding: call an ambulance on 101.',c:'Call 101',d:'All warning signs'}};
+function urg(q,l){var u=URG[l];if(!u)return '';var n=' '+norm(q)+' ';if(!u.w.some(function(w){return n.indexOf(norm(w))>=0}))return '';
+ return '<div class="gurg" role="alert"><b class="gut">'+u.t+'</b><p><b>'+u.w1+':</b> '+esc(u.a)+'</p><p><b>'+u.w2+':</b> '+esc(u.b)+'</p><div class="gub"><a class="g101" href="tel:101">'+u.c+'</a><a class="gpo" href="'+link('ops/postop.html',l)+'">'+u.d+'</a></div></div>'}
+function fill(box,q,l,t,full){var r=search(q,l),U=urg(q,l);
+ if(r===null){box.innerHTML=U+(full?menuHTML(l,t):'');return}
+ if(r.length){box.innerHTML=U+resHTML(r,l,t);return}
+ box.innerHTML=U+(U?'':'<p class="gnone">'+t.none+'</p>')+(full?menuHTML(l,t).replace(/^<div class="gql">.*?<\/div><h3>.*?<\/h3>/,''):'')}
 function voice(btn,inp,l,t,status){btn.title=t.mic;btn.setAttribute('aria-label',t.mic);
  function msg(x){if(status)status(x)}
  btn.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();if(btn._r){try{btn._r.stop()}catch(_){}return}
@@ -153,7 +161,8 @@ function load(box,l,t,cb){if(NAVD[l])return cb();box.innerHTML='<p class="gnone"
  need(l,function(){if(box.isConnected)cb()},function(){if(!box.isConnected)return;box.innerHTML='<p class="gnone gerr">'+t.neterr+'</p>';box.querySelector('.gerr').onclick=function(){load(box,l,t,cb)}})}
 function pop(box,inp,t){box.innerHTML='<h3>'+t.pop+'</h3><div class="gql">'+t.popw.map(function(w){return '<a href="#" data-q="'+esc(w)+'">'+esc(w)+'</a>'}).join('')+'</div>';
  box.querySelectorAll('[data-q]').forEach(function(a){a.onclick=function(e){e.preventDefault();inp.value=a.getAttribute('data-q');inp.dispatchEvent(new Event('input'))}})}
-function open(mode){var l=lang(),t=TX[l];if(ov)close();var menu=!mode;
+var opener=null;
+function open(mode){var l=lang(),t=TX[l];if(ov)close();var menu=!mode;opener=document.activeElement;
  ov=document.createElement('div');ov.className='gov'+(menu?' gm':' gs');ov.setAttribute('role','dialog');ov.setAttribute('aria-modal','true');ov.setAttribute('aria-label',menu?t.menu:t.bar);ov.dir=t.dir;ov.lang=l;
  ov.innerHTML='<div class="goh">'+(menu?'<b class="gtt">'+esc(t.menu)+'</b>':'<div class="gsf"><span class="gico" aria-hidden="true"></span><input type="search" enterkeyhint="search" autocomplete="off" placeholder="'+esc(t.ph)+'" aria-label="'+esc(t.bar)+'"><button type="button" class="gmic">'+MIC+'</button></div>')+'<button type="button" class="gx" aria-label="'+esc(t.close)+'">✕</button></div><div class="gob"></div>';
  document.body.appendChild(ov);document.body.classList.add('gopen');
@@ -168,7 +177,7 @@ function open(mode){var l=lang(),t=TX[l];if(ov)close();var menu=!mode;
  ov.addEventListener('keydown',function(e){if(e.key=='Escape')ov.querySelector('.gx').click()});
  try{history.pushState({gnav:1},'')}catch(_){}
  if(mode=='mic'){ov.querySelector('.gmic').click()}else if(inp)inp.focus()}
-function close(){if(!ov)return;ov.remove();ov=null;document.body.classList.remove('gopen')}
+function close(){if(!ov)return;ov.remove();ov=null;document.body.classList.remove('gopen');try{if(opener&&opener.isConnected&&opener.focus)opener.focus({preventScroll:true})}catch(_){}opener=null}
 window.addEventListener('popstate',function(){if(ov)close()});
 function bar(){var l=lang(),t=TX[l];var b=document.querySelector('.gnav');if(!b){b=document.createElement('div');b.className='gnav';document.body.insertBefore(b,document.body.firstChild)}
  b._l=l;b.dir=t.dir;b.innerHTML='<button type="button" class="gnb" aria-haspopup="dialog"><i aria-hidden="true"></i>'+t.menu+'</button><div class="gsb"><button type="button" class="gns"><span class="gico" aria-hidden="true"></span><span class="gnt">'+t.bar+'</span></button><button type="button" class="gmic" aria-label="'+esc(t.mic)+'" title="'+esc(t.mic)+'">'+MIC+'</button></div>';

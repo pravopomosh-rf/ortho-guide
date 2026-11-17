@@ -83,7 +83,7 @@ window.__rv=function(){els.forEach(function(e){if(!e.classList.contains('in'))io
 setTimeout(function(){els.forEach(function(e){if(e.getBoundingClientRect().top<innerHeight)e.classList.add('in')})},60)}
 })();
 
-var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];setL(q||(function(){try{return localStorage.lang}catch(e){}})()||'he');
+window.AMON=!!document.querySelector('.lang button[data-k=am]')&&getComputedStyle(document.querySelector('.lang button[data-k=am]')).display!='none';var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];if(q=='am'&&!window.AMON)q=null;setL(q||(function(){try{var v=localStorage.lang;return v=='am'&&!window.AMON?null:v}catch(e){}})()||'he');
 (function(){if(!/[?&#]v=1/.test(location.search+location.hash))return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById('video_'+l);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,400)})();
 /* 04.11: duration on the video label */
 document.querySelectorAll('.vtop').forEach(function(s){var v=s.querySelector('video'),d=s.querySelector('.vdur');if(!v||!d)return;function f(){if(!isFinite(v.duration))return;var t=Math.floor(v.duration),m=Math.floor(t/60),x=t%60;d.textContent='· '+m+':'+(x<10?'0':'')+x}v.addEventListener('loadedmetadata',f);f()});
@@ -95,7 +95,7 @@ document.addEventListener('play',function(e){var t=e.target;if(t.tagName!='VIDEO
 (function(){var m=location.hash.match(/to=([a-z0-9]+)/);if(!m)return;function go(){var l=document.body.className.split(' ')[0]||'he',e=document.getElementById(m[1]+'_'+l);if(e)e.scrollIntoView({block:'start'})}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',go);else go();setTimeout(go,500)})();
 
 /* 08.11 (аудит): язык меняется при ручной смене #lang= без перезагрузки */
-window.addEventListener('hashchange',function(){var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];if(q&&q!=document.body.className.split(' ')[0])setL(q)});
+window.addEventListener('hashchange',function(){var q=(location.hash.match(/lang=(ru|he|ar|en|am)/)||[])[1];if(q=='am'&&!window.AMON)q=null;if(q&&q!=document.body.className.split(' ')[0])setL(q)});
 /* 08.11 (аудит): «101» в тексте — кнопка звонка; в разделах тревоги — крупная красная кнопка */
 (function(){
 var CALL={ru:'Позвонить 101',he:'להתקשר ל־101',ar:'اتصلوا بـ 101',en:'Call 101',am:'ወደ 101 ይደውሉ'};
@@ -118,7 +118,7 @@ document.querySelectorAll('main>[data-l]').forEach(function(d){var fig=document.
 if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('main section').forEach(function(s){s.classList.add('rv');io.observe(s)})}
 })();
 /* крупный шрифт (А+) — запоминается на этом устройстве */
-(function(){try{var on=localStorage.big==='1';if(on)document.body.classList.add('big');document.querySelectorAll('.lang').forEach(function(lg){var b=document.createElement('button');b.type='button';b.className='bigbtn';b.textContent='A+';b.setAttribute('aria-pressed',on?'true':'false');b.setAttribute('aria-label','A+');b.onclick=function(){var v=document.body.classList.toggle('big');b.setAttribute('aria-pressed',v?'true':'false');try{localStorage.big=v?'1':'0'}catch(e){}};lg.parentNode.insertBefore(b,lg.nextSibling)})}catch(e){}})();
+(function(){try{var on=localStorage.big==='1';if(on)document.body.classList.add('big');document.querySelectorAll('.lang').forEach(function(lg){var b=document.createElement('button');b.type='button';b.className='bigbtn';b.textContent='A+';b.setAttribute('aria-pressed',on?'true':'false');var AL={ru:'Увеличить текст',he:'הגדלת טקסט',ar:'تكبير النص',en:'Larger text'};var setAL=function(){var c=document.body.className.split(' ')[0];var x=AL[c]||AL.he;b.setAttribute('aria-label',x);b.title=x};setAL();new MutationObserver(setAL).observe(document.body,{attributes:true,attributeFilter:['class']});b.onclick=function(){var v=document.body.classList.toggle('big');b.setAttribute('aria-pressed',v?'true':'false');try{localStorage.big=v?'1':'0'}catch(e){}};lg.parentNode.insertBefore(b,lg.nextSibling)})}catch(e){}})();
 /* обложки и миниатюры — фоном (background-size:cover): на iPhone/Telegram object-fit сплющивал фото (14.11) */
 (function(){var L=document.querySelectorAll('.phero img,.th img,.card img,.regh img');if(!L.length)return;
 var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var s=e.target;s.style.backgroundImage='url("'+s.dataset.bg+'")';io.unobserve(s)}})},{rootMargin:'400px 0px'}):null;
