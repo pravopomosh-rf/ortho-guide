@@ -38,7 +38,7 @@
   "S8": {
    "title": "Blood thinners",
    "accent": "Blood thinners",
-   "text": "Eliquis, Xarelto, Pradaxa and Coumadin reduce blood clotting. Before some operations, they may need to be stopped temporarily. This is particularly important when spinal or epidural anesthesia is planned. Bleeding near the spinal nerves can cause serious damage. There is no single safe stopping interval for every patient. The plan depends on the medicine, its dose, kidney function, the type of surgery and the planned anesthetic procedure. The anesthesiologist and the prescribing doctor will decide when to stop and restart the medicine. In a few patients at particularly high risk of blood clots, the doctor may prescribe a temporary anticoagulant injection, such as enoxaparin, while Coumadin is withheld. This is called bridging and is not needed for most patients. It is not normally recommended when Eliquis, Xarelto or Pradaxa are interrupted. If you have a stent in a heart artery, tell your doctor. Medicines such as aspirin and clopidogrel help prevent blood clots, and stopping them can be dangerous. Do not stop these medicines without a plan agreed with your doctors, which may involve a cardiologist. Never change or stop your treatment on your own."
+   "text": "Eliquis, Xarelto, Pradaxa and Coumadin reduce blood clotting. Before some operations, they may need to be stopped temporarily. This is particularly important when spinal or epidural anesthesia is planned. Bleeding near the spinal nerves can cause serious damage. There is no single safe stopping interval for every patient. The plan depends on the medicine, its dose, kidney function, the type of surgery and the planned anesthetic procedure. The anesthesiologist and the prescribing doctor will decide when to stop and restart the medicine. Ask for this plan in advance, preferably in writing: the name of the medicine, the date and time of the last dose, and when to restart it. If you do not have a plan, contact the ward before surgery. In a few patients at particularly high risk of blood clots, the doctor may prescribe a temporary anticoagulant injection, such as enoxaparin, while Coumadin is withheld. This is called bridging and is not needed for most patients. It is not normally recommended when Eliquis, Xarelto or Pradaxa are interrupted. If you have a stent in a heart artery, tell your doctor. Medicines such as aspirin and clopidogrel help prevent blood clots, and stopping them can be dangerous. Do not stop these medicines without a plan agreed with your doctors, which may involve a cardiologist. Never change or stop your treatment on your own."
   },
   "S9": {
    "title": "Diabetes medicines",
@@ -105,7 +105,7 @@
   "в зависимости от функции почек": "kidney function",
   "Прадакса — 3–5 дней": "the type of surgery",
   "Кумадин — 4–5 дней": "the planned anesthetic procedure",
-  "+ анализ свёртываемости крови": "an individual plan",
+  "+ анализ свёртываемости крови": "Ask for a written plan",
   "Срок определяет анестезиолог: доза, почки, вид анестезии": "The anesthesiologist and the prescribing doctor decide",
   "Клексан / Крусия (эноксапарин) — иногда": "Enoxaparin injection: in a few patients",
   "при отмене Кумадина, если риск тромбоза особенно высок": "while Coumadin is withheld, if the clot risk is particularly high",
