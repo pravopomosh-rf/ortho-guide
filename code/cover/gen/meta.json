@@ -428,6 +428,18 @@
   ],
   "admv|en": [
    "Admission to the ward: what to expect"
+  ],
+  "dura|ru": [
+   "Разрыв твёрдой мозговой оболочки при операции на позвоночнике (дуротомия)"
+  ],
+  "dura|he": [
+   "קרע בקרום הקשה (דורה) במהלך ניתוח בעמוד השדרה (דורוטומיה)"
+  ],
+  "dura|ar": [
+   "تمزّق الأم الجافية أثناء جراحة العمود الفقري (بضع الجافية غير المقصود)"
+  ],
+  "dura|en": [
+   "Tear in the dura during spine surgery (incidental durotomy)"
   ]
  },
  "sec": {
@@ -1075,6 +1087,24 @@
    "en": [
     "after",
     "After surgery in the ward"
+   ]
+  },
+  "dura": {
+   "ru": [
+    "spine",
+    "Позвоночник"
+   ],
+   "he": [
+    "spine",
+    "עמוד השדרה"
+   ],
+   "ar": [
+    "spine",
+    "العمود الفقري"
+   ],
+   "en": [
+    "spine",
+    "Spine"
    ]
   }
  }
