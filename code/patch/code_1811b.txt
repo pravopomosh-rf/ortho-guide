@@ -1,0 +1,6 @@
+code_1811b.tgz (18.11 05:40): поверх code_1811a. preopv_he вклейка S2 (новый голос, 27.04 с) + S3 (новый текст из manus/split_preop_1711.json he_S3_p1–p5, 142.88 с).
+- i18n/he.json: scenes.S3.text = новый текст; title/accent «סקראב»; durs S2/S3 новые. src/wide/preop_anchors_he.json: S2/S3 пересчитаны tools/anchors_lang.py (остальные сцены не тронуты).
+- src/index3.ts: композиции SV-he-*/SV-ar-* с длиной по durs языка (index2 берёт длину RU — НЕ использовать для he/ar!).
+- public/preop_he/S2.wav, S3.wav = ffmpeg из tts-data aud/preop/he/*.opus -ar 24000 -ac 1.
+- Рендер: SV-he-S2 (832 кадра, ≈35 мин на 2 CPU), SV-he-S3 (4307 кадров) кусками по 600 (--frames=a-b) → tts-data code/render/preopv_he_parts/.
+- Вклейка: старый preopv_he.mp4 S2 = кадры 652–1258, S3 = 1259–3415 (сверено по std кадра). Новый звук: old[0:652f] + S2.wav pad до 832f + S3.wav pad до 4307f + old[3416f:] (голос стоит с начала сцены, сдвиг 0).
