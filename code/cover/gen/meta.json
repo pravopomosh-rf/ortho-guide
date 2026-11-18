@@ -443,6 +443,9 @@
   ],
   "preopv|en": [
    "Preparing for surgery: fasting, medicines, shower, documents"
+  ],
+  "stage|ru": [
+   "Лечение перелома в два этапа: наружный фиксатор"
   ]
  },
  "sec": {
@@ -1112,6 +1115,12 @@
    "en": [
     "spine",
     "Spine"
+   ]
+  },
+  "stage": {
+   "ru": [
+    "leg",
+    "Голень, лодыжка и стопа"
    ]
   }
  }

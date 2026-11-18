@@ -21,7 +21,7 @@ ILL={'cpe':'p/cpe-vre.webp','admv':'p/admission.webp','dura':'p/durotomy.webp','
  'swell':'p/swelling.webp','drain':'p/drain.webp','dress':'p/dressings.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp','first':'p/after-surgery.webp',
  'wrist':'p/wrist-fracture.webp','ankle':'ankle_anatomy.svg','thr3av':'p/walker.webp','thr2v':'thr_ill.webp'}
 FR={'amp':(2,430),'anest':(2,405),'arth':(2,650),'cuff':(0,470),'enox':(5,340),'hipfxv':(1,300),'o2':(0,360),'stairs':(6,470),
- 'thr_anterior':(0,950),'pjv':(8.85,440)}
+ 'thr_anterior':(0,950),'pjv':(8.85,440),'stage':(2.5,420)}
 out=[]
 for f in sorted(glob.glob(R+'/video/*.mp4')):
     b=os.path.basename(f)[:-4]; v,l=b.rsplit('_',1)
