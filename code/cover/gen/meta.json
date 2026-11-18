@@ -440,6 +440,9 @@
   ],
   "dura|en": [
    "Tear in the dura during spine surgery (incidental durotomy)"
+  ],
+  "preopv|en": [
+   "Preparing for surgery: fasting, medicines, shower, documents"
   ]
  },
  "sec": {
@@ -451,6 +454,10 @@
    "he": [
     "preop",
     "הכנה לניתוח"
+   ],
+   "en": [
+    "preop",
+    "Preparing for surgery"
    ]
   },
   "wait": {

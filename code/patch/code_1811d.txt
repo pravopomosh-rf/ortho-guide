@@ -1,0 +1,7 @@
+code_1811d.tgz (18.11 19:30): preopv_en (вертикальный, PreopFilmV). Поверх code_1811c. Порядок восстановления: _parts/preop_code_audio_02-11 → preop_EN_i18n_04-11 → preop_EN_data_04-11_v2 → preopV_code_08-11 → code_1711p → 1811a → 1811b → 1811c → 1811d.
+- i18n.ts/PreopFilm.tsx: в 08-11 EN выпал — снова Lang 'en', EN-словарь, ANCH_EN; cueOf пишет [cue missing] в консоль.
+- i18n/en.json: durs по новым opus (aud/preop/en), строки S3/S8 под новые RU-ключи карточек (подстроки одобренного EN-текста), cues S3/S8/S7/S12 исправлены (каждый cue — подстрока текста сцены).
+- preop_anchors_en.json: tools/anchors_lang.py en + вручную S5[2]=[20.77,21.44].
+- src/index3.ts: SV-en-* и полный PreopV-en (25567 кадров, 14:12). public/preop_en/*.wav = ffmpeg из opus -ar 24000 -ac 1; шрифты Rubik → public/fonts.
+- Рендер кусками по 600 кадров (--muted --crf=27 yuv420p) → code/render/preopv_en_parts/p_XXXXX.mp4; звук ffmpeg: 3 с тишины + каждая сцена pad до round((dur+0.7)*30) кадров + OUT pad 210 кадров.
+- ОПУБЛИКОВАН main af2c9e9 (preopv_en.mp4 44 МБ, ?v=1811e). Куски в облаке не сохранены (ролик собран целиком).
