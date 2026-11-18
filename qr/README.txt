@@ -3,3 +3,4 @@ qr/<op>.png — без языка (последний выбранный язы�
 qr/<he|ar|ru|en>/<op>.png — страница сразу на нужном языке (#lang=..)
 qr/<op>_en.png — то же, что qr/en/<op>.png (оставлено для совместимости)
 Пересоздать: python3 qr/make_qr.py [BASE]; все ссылки — qr/links.csv
+Лист PDF со ВСЕМИ темами (маршруты, карта сайта, все страницы): node qr/make_pdf.js <node_modules/@fontsource с rubik и noto-sans-arabic> -> qr/QR_kody_operacii.pdf (порядок и названия из nav-<язык>.js)
