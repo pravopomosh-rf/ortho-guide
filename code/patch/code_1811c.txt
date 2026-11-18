@@ -1,0 +1,3 @@
+code_1811c.tgz (18.11 12:40): поверх code_1811b. preopv_he S8 — новый голос (tts-data aud/preop/he/S8.opus, 4 части u1 18.11, 103.25 с). i18n/he.json: scenes.S8.text = he_S8_p1–p4 через пробел, durs.S8=103.25; preop_anchors_he.json: только S8 пересчитан (S2/S3 в архиве public/preop_he старые wav — anchors S2/S3 НЕ пересчитывать из них).
+Рендер SV-he-S8 (src/index3.ts) 3119 кадров кусками по 600 ≈ 12 мин (2D). Вклейка: старый S8 = кадры 11266–14048 (std-минимумы 11268/14051), новый ролик 19749 кадров, 10:58. pix_fmt рендера yuvj420p → перекодировать B в yuv420p перед concat. main 16417da.
+Обложки c/ и t/ preopv_he/ru: длительность исправлена PIL (шрифт Heebo 700), генератор gen не трогал — при следующем build.py проверить.
