@@ -318,3 +318,6 @@ body.amfb .amnote{display:block}
 /* 17.11 аудит: быстрые ссылки над видео (preop) */
 .qlinks{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:12px 0 4px}.qlinks b{font-size:15px;color:var(--muted,#5d6b69);margin-inline-end:4px}.qlinks a{display:inline-block;padding:8px 14px;border-radius:999px;background:#fff;border:1px solid var(--line,#e6ded0);color:inherit;text-decoration:none;font-size:15px;font-weight:600}
 @media print{.qlinks{display:none}}
+
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}.duo figure{margin:0}.duo figure img{aspect-ratio:3/4;object-fit:cover}.duo figcaption{font-size:15px}.duo.one{grid-template-columns:minmax(0,320px)}
+@media print{.duo{display:none}}
