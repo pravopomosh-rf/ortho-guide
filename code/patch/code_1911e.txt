@@ -1,0 +1,4 @@
+code_1911e.tgz (19.11 15:55): НОВЫЙ ролик rehabv «Реабилитация (шикум)» (Rehabv.tsx, RH01–RH11, ОДОБРЕНО). ru/en опубликованы main. После code_1911d.
+- Rehabv импортирует из Opday (export Bed, Win, Notes, atOf, TX). N только ru/en — для he/ar добавить словари (фрагменты = подстроки rehabv.json, проверять скриптом) + import timing_rehabv_{he,ar}.json + Root.
+- Заголовки >=28 симв. size 50 (Opday и Rehabv).
+- Публикация tools/pub_rehabv.py LANG: заглушка section#video_L.vdev на rehab.html → .vfirst сверху; карточка шага 5 в *-path.html → видео-карточка. Обложки meta rehabv|L, sec home; ill/rehabv_<l>.png = кадр 8 с crop=952:640:64:440.
