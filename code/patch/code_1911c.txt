@@ -1,0 +1,1 @@
+code_1911c.tgz (19.11 12:30): spinelong ar/en — N.ar/N.en в Spinelong.tsx, timing_spinelong_{ar,en}.json, Root.tsx (Spinelong-ar/en). Опубликованы main. Обложки: ill/spinelong_<l>.png = кадр 47 с crop=952:640:64:440; meta.json + карточки spinelong|ar,en. После code_1911b.
