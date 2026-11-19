@@ -1,0 +1,5 @@
+code_1911d.tgz (19.11 15:20): НОВЫЙ ролик opday «День операции» (Opday.tsx, OD01–OD10, ОДОБРЕНО). ru/he/en опубликованы main a523579. После code_1911c.
+- Admv.tsx: в конце export {Stage, Bust, Bubble, Pill, Box, Fade, NV, SKIN, HAIR, GREY} (Opday импортирует).
+- Opday.tsx: N.ar уже есть; для ar — import timing_opday_ar.json + mkOpday('ar') + Root Composition Opday-ar. Заголовки >30 симв. size 50.
+- Надписи появляются по позиции фрагмента в тексте (atOf).
+- Публикация: tools/pub_opday.py LANG (section#day_L во всех операциях + preop.html .vfirst + карточка в *-path.html после admv). Обложки: meta.json opday|L, ill/opday_<l>.png = кадр ~70 с crop=952:640:64:440.
