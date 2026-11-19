@@ -1,0 +1,76 @@
+ПРОВЕРКА: страница «Эндопротезирование плеча» (ops/shoulder-replacement.html), русская версия.
+В разделах ниже русская версия короче английской (en/he/ar совпадают по пунктам, они уже одобрены). Задача — выровнять RU по EN: те же пункты, тот же смысл и объём, ничего нового сверх EN.
+Правила RU: обращение на «вы», простой язык для пациента; «травматолог-ортопед» вместо «хирург»; не указывать возраст, названия больницы и телефоны; «указания врача важнее».
+Ответ — ОДНИМ блоком кода JSON вида {"s0":["пункт1","пункт2",...],"s1":[...],"s2":[...],"s4":[...],"s5":[...]} — ровно столько пунктов в каждом разделе, сколько в EN (заголовки не нужны), а после блока одно слово ОДОБРЕНО, если текст медицински верен. Если есть замечания к EN — напиши их после JSON.
+
+=== РАЗДЕЛ s0 ===
+--- RU (сейчас на сайте) ---
+## Что такое эндопротезирование плеча?
+- Эндопротезирование — операция, при которой повреждённые суставные поверхности заменяют искусственными компонентами. Цель — уменьшить боль и улучшить возможности руки в повседневной жизни.
+- Операцию могут рекомендовать при выраженном артрозе, тяжёлом повреждении вращательной манжеты с разрушением сустава или сложном переломе верхней части плечевой кости. Решение зависит от обследования, состояния костей, сухожилий и общего здоровья.
+--- EN (на сайте, he/ar совпадают по пунктам) ---
+## What is shoulder replacement?
+- Shoulder replacement is an operation in which damaged joint surfaces are replaced with artificial components. The aim is to reduce pain and improve your ability to use your arm in everyday life.
+- The operation may be recommended for severe arthritis, serious rotator cuff damage with joint destruction, or a complex fracture of the upper arm bone.
+- The decision depends on your examination, the condition of your bones and tendons, and your overall health.
+
+=== РАЗДЕЛ s1 ===
+--- RU (сейчас на сайте) ---
+## Анатомический или реверсивный протез?
+- Анатомический. Повторяет естественную форму сустава. Обычно требует сохранной и работающей вращательной манжеты.
+- Реверсивный. Шар и впадина меняются местами. Это позволяет больше использовать дельтовидную мышцу при повреждении манжеты.
+- Выбор протеза делает травматолог-ортопед с учётом конкретного заболевания. Реверсивный протез не означает автоматически лучший результат для каждого пациента.
+--- EN (на сайте, he/ar совпадают по пунктам) ---
+## Anatomical or reverse shoulder replacement?
+- Anatomical shoulder replacement. The artificial parts follow the natural shape of the shoulder. The ball is on the upper arm bone, and the socket is on the shoulder blade.
+- This type usually works best when the rotator cuff tendons are intact and working well.
+- Reverse shoulder replacement. In a reverse replacement, the ball and socket switch places. The ball is attached to the shoulder blade, and the socket is placed on the upper arm bone.
+- This design allows the deltoid muscle to help lift the arm even when the rotator cuff tendons are badly damaged.
+- Your orthopaedic surgeon will choose the type of implant based on your condition. Reverse shoulder replacement is not automatically the best option for everyone.
+
+=== РАЗДЕЛ s2 ===
+--- RU (сейчас на сайте) ---
+## Подготовка и операция
+- Перед операцией необходимо сообщить персоналу обо всех принимаемых лекарствах, аллергиях и хронических заболеваниях. Не прекращайте самостоятельно постоянные лекарства.
+- Анестезиолог обсудит общий наркоз, регионарную блокаду нервов или их сочетание. Во время операции травматолог-ортопед устанавливает выбранные компоненты протеза. После операции состояние контролируют в палате пробуждения.
+--- EN (на сайте, he/ar совпадают по пунктам) ---
+## Preparing for surgery and the operation
+- Before surgery, tell the team about all the medicines you take, any allergies, and any long-term medical conditions.
+- Do not stop your regular medicines on your own.
+- The anaesthetist will discuss general anaesthesia, a regional nerve block, or a combination of both.
+- During the operation, your orthopaedic surgeon places the selected implant components.
+- After surgery, you will be monitored in the recovery room.
+
+=== РАЗДЕЛ s4 ===
+--- RU (сейчас на сайте) ---
+## Физиотерапия и ограничения
+- Восстановление проходит постепенно. Сначала важно защитить оперированные ткани, затем осторожно вернуть движения и только позже увеличивать нагрузку.
+- План зависит от типа протеза, состояния сухожилий, особенностей операции и указаний травматолога-ортопеда. Упражнения после анатомического и реверсивного эндопротезирования могут различаться.
+- До разрешения лечащего врача не следует поднимать тяжести, резко отводить руку в сторону, заводить её далеко назад или отталкиваться ею от кровати и кресла. Не начинайте упражнения, которых нет в вашем плане реабилитации.
+--- EN (на сайте, he/ar совпадают по пунктам) ---
+## Physiotherapy and movement restrictions
+- Recovery happens gradually. At first, it is important to protect the tissues affected by surgery. Then you will slowly regain movement and, later, increase the amount of weight and effort your arm can manage.
+- Your plan depends on the type of implant, the condition of your tendons, what happened during surgery, and your orthopaedic surgeon's instructions.
+- Exercises after anatomical and reverse shoulder replacement may be different.
+- Until your doctor gives permission:
+- Do not lift heavy objects.
+- Do not move your arm sharply out to the side.
+- Do not reach far behind your back.
+- Do not push yourself up from a bed or chair with your operated arm.
+- Do not start exercises that are not part of your rehabilitation plan.
+
+=== РАЗДЕЛ s5 ===
+--- RU (сейчас на сайте) ---
+## Сон, одежда, душ и рана дома
+- На первое время подготовьте свободную одежду с застёжкой спереди. Часто удобнее спать на спине или полусидя, поддерживая руку подушкой.
+- Сохраняйте повязку в соответствии с выписными инструкциями. Не мочите рану и не погружайте её в воду до разрешения медицинского персонала. Уточните, когда разрешён душ и нужно ли менять повязку.
+- Попросите близких помочь с покупками, приготовлением еды и другими делами, которые требуют обеих рук.
+--- EN (на сайте, he/ar совпадают по пунктам) ---
+## Sleeping, dressing, showering, and wound care at home
+- Prepare loose clothes with fastenings at the front.
+- Sleeping on your back or with your upper body raised may be more comfortable. Support your arm with a pillow.
+- Keep your dressing as instructed in your discharge information.
+- Do not get the wound wet or soak it in water until the medical team says it is safe.
+- Ask when you can shower and whether your dressing needs to be changed.
+- Ask family or friends for help with shopping, cooking, and other activities that require both hands.
+
