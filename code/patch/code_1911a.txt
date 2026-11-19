@@ -1,0 +1,5 @@
+code_1911a.tgz (19.11 04:10): preopv_ar (вертикальный, PreopFilmV) — ОПУБЛИКОВАН main 800110e (11:47, 38 МБ, ?v=1911a); широкий preop_ar удалён из main.
+Порядок: как code_1811d.txt (… → 1811d) → code_1911a.
+- i18n/ar.json: scenes S3/S8 text = одобренные preop_ar_S3/S8 (todo_priority до 04f02c0), durs S3 142.92 / S8 102.04 (из aud/preop/ar/*.opus → public/preop_ar/*.wav -ar 24000 -ac 1).
+- preop_anchors_ar.json: S3/S8 пересчитаны anchors_lang.py ar, остальные сцены — старые.
+- src/index3.ts: + PreopV-ar (21232 кадра). Рендер tools/rp_ar.sh (куски по 600, --muted crf 27) ≈85 мин на 2 CPU (S3 3D ≈4–7 мин/кусок, 2D ≈1 мин). Звук tools/aud_preopv_ar.py. Замена в html tools/pub_preopv_ar.py.
