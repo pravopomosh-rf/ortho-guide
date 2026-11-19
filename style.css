@@ -319,5 +319,15 @@ body.amfb .amnote{display:block}
 .qlinks{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:12px 0 4px}.qlinks b{font-size:15px;color:var(--muted,#5d6b69);margin-inline-end:4px}.qlinks a{display:inline-block;padding:8px 14px;border-radius:999px;background:#fff;border:1px solid var(--line,#e6ded0);color:inherit;text-decoration:none;font-size:15px;font-weight:600}
 @media print{.qlinks{display:none}}
 
+/* 19.11 аудит: блоки не должны быть полупрозрачными/скрытыми до прокрутки; крупнее мелкий текст */
+main section.rv,main section.rv.in{opacity:1;transform:none;transition:none}
+.stnav a{font-size:16px;min-height:48px;padding:8px 14px 8px 8px}
+.stnav b{width:28px;height:28px;font-size:15px}
+a.pc .pt{font-size:17px}
+a.pc .chip{font-size:15px}
+.srr small{font-size:15px}
+a.totop{font-size:16px;min-height:48px;line-height:48px;margin-top:4px}
+.qlinks a{font-size:16px;min-height:48px;line-height:30px}
+.qlinks b{font-size:16px}
 .duo{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}.duo figure{margin:0}.duo figure img{aspect-ratio:3/4;object-fit:cover}.duo figcaption{font-size:15px}.duo figure:first-child:nth-last-child(3){grid-column:1/-1}.duo.one{grid-template-columns:minmax(0,320px)}
 @media print{.duo{display:none}}
