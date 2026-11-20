@@ -18,6 +18,8 @@ const seen = new Set();
 const paths = [];
 for (const s of N.ru.secs) for (const i of s.items) if (i.p && !seen.has(i.h)) { seen.add(i.h); paths.push({ h: i.h }); }
 paths.push({ h: 'ops/sitemap.html', sm: 1 }); seen.add('ops/sitemap.html');
+const RES = { he: 'מחקרים: מה חדש בעולם', ar: 'أبحاث: ما الجديد في العالم', ru: 'Исследования: что нового в мире', en: 'Research: what is new worldwide' };
+if (fs.existsSync(path.join(ROOT, 'ops/research.html'))) { paths.push({ h: 'ops/research.html', rs: 1 }); seen.add('ops/research.html'); }
 groups.push({ t: ROUTES, items: paths });
 // 2) every section, each page once
 for (const s of N.ru.secs) {
@@ -29,7 +31,7 @@ const missing = [];
 const card = it => {
   const p = id(it.h), img = path.join(__dirname, p + '.png');
   if (!fs.existsSync(img)) missing.push(p);
-  const t = l => it.sm ? SITEMAP[l] : title(l, it.h);
+  const t = l => it.sm ? SITEMAP[l] : it.rs ? RES[l] : title(l, it.h);
   return `<div class="c"><img src="data:image/png;base64,${fs.existsSync(img) ? fs.readFileSync(img).toString('base64') : ''}">` +
     `<div class="he" dir="rtl">${t('he')}</div><div class="ar" dir="rtl">${t('ar')}</div><div class="ru">${t('ru')}</div><div class="en">${t('en')}</div></div>`;
 };

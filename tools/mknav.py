@@ -19,6 +19,7 @@ def block(s, L):
     return ' '.join(out)
 
 EXTRA = {'wrist-path.html': 'arm'}
+OUTSIDE = {'research.html': {'ru': 'Исследования', 'he': 'מחקרים', 'ar': 'أبحاث', 'en': 'Research'}}
 def block_h(s, L):
     i = s.find('<header>'); j = s.find('</header>')
     return block(s[i:j], L)
@@ -48,6 +49,11 @@ for L in LS:
         secs.append({'k': key, 't': title, 'i': img or '', 'items': items})
         for it in items:
             seen.setdefault(it['h'], (title, it))
+    # страницы вне разделов главной (есть в меню ☰) — тоже в поиск
+    for pn, rt in OUTSIDE.items():
+        if pn in pages and 'ops/' + pn not in seen:
+            h1 = re.search(r'<h1>(.*?)</h1>', block_h(pages[pn], L), re.S)
+            if h1: seen['ops/' + pn] = (rt[L], {'t': T(h1.group(1)), 'h': 'ops/' + pn})
     for h, (st, it) in seen.items():
         name = h.split('/')[-1]; s = pages.get(name)
         heads = []
