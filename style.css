@@ -321,3 +321,4 @@ body.amfb .amnote{display:block}
 
 .duo{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}.duo figure{margin:0}.duo figure img{aspect-ratio:3/4;object-fit:cover}.duo figcaption{font-size:15px}.duo figure:first-child:nth-last-child(3){grid-column:1/-1}.duo.one{grid-template-columns:minmax(0,320px)}
 @media print{.duo{display:none}}
+.pintro .pnum{background:var(--ink2,#555);font-style:italic}.pintro .pbody>p{font-size:17px;margin:6px 0}.pintro .disc{margin-top:12px}
