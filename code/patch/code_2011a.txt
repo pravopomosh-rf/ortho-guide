@@ -1,0 +1,1 @@
+code_2011a.tgz (20.11 12:30): после code_1911e. Opday-ar (import timing_opday_ar + mkOpday('ar') + Root), Rehabv he/ar: словари N he/ar (фрагменты — подстроки rehabv.json, проверено), Root Rehabv-he/-ar. Опубликованы opday ar, rehabv he (+ar после рендера). tools/proc_tts.py — приём клипов IDB-выгрузки.
