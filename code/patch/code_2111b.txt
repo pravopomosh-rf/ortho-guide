@@ -1,0 +1,1 @@
+code_2111b.tgz (21.11 вечер): после code_2111a. timing logroll/swell/walker/press/wrist ×4, shoulder ru/he, wait ru/he/en — после aud_from_tts (noage). code/render/pubnoage.sh FILE PAGE LANG — cp out→video, ?v=2111n, commit+push.
