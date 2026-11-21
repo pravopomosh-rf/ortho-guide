@@ -1,0 +1,1 @@
+code_2111a.tgz (21.11): после code_2011b. timing_stage_ar (ST10-12), timing_pain ×4 (noage B01). meta.json: stage|ar. Новое: code/render/merge_parts.py — склейка частей "k|iofn" (длинные тексты) перед proc_tts.py. Вклейка noage = полный перерендер темы (aud_from_tts.py T → q.sh → pub1.sh), ~9 мин на язык.
