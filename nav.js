@@ -194,3 +194,22 @@ bar();inline();setTimeout(function(){need(lang(),function(){})},2500);
 new MutationObserver(function(){var b=document.querySelector('.gnav');if(b&&b._l!==lang()){b._l=lang();bar()}}).observe(document.body,{attributes:true,attributeFilter:['class']});
 window.NAVSEARCH=search;window.NAVNEED=need;
 })();
+/* ——— маршрут по операции: «К маршруту · Назад · Далее» на страницах тем, открытых из маршрута ——— */
+(function(){var K='ogRoute',f=location.pathname.split('/').pop()||'index.html';
+var W={ru:{b:'Маршрут',p:'Назад',n:'Далее'},he:{b:'המסלול',p:'הקודם',n:'הבא'},ar:{b:'المسار',p:'السابق',n:'التالي'},en:{b:'Route',p:'Previous',n:'Next'}};
+function L(){var c=document.body.className.split(' ')[0];return W[c]?c:(c=='am'?'en':'ru')}
+function get(){try{return JSON.parse(sessionStorage.getItem(K)||'null')}catch(e){return null}}
+if(/-path\.html$/.test(f)){var r={u:f,t:{},l:{}};
+ document.querySelectorAll('a.pc').forEach(function(a){var b=a.closest('[data-l]');if(!b)return;var l=b.getAttribute('data-l'),h=(a.getAttribute('href')||'').split('#')[0],pt=a.querySelector('.pt');if(!h||h.indexOf('/')>=0&&h.indexOf('../')!==0)return;r.l[l]=r.l[l]||[];if(!r.l[l].some(function(x){return x.h==h}))r.l[l].push({h:h,t:pt?pt.textContent.trim():''})});
+ document.querySelectorAll('[data-l] h1').forEach(function(h){var l=h.closest('[data-l]').getAttribute('data-l');if(!r.t[l])r.t[l]=h.textContent.trim()});
+ try{sessionStorage.setItem(K,JSON.stringify(r))}catch(e){}return}
+var r=get();if(!r||!r.l)return;
+var st=document.createElement('style');st.textContent='.rbar{position:sticky;bottom:0;z-index:50;margin:24px -4px 0;padding:8px 8px calc(8px + env(safe-area-inset-bottom));background:rgba(251,247,240,.96);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border-top:1px solid var(--line,#e6ded0);display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:6px}.rbar a{display:flex;flex-direction:column;justify-content:center;min-height:50px;padding:6px 10px;border-radius:14px;background:#fff;border:1px solid var(--line,#e6ded0);color:var(--ink,#1d2b2a);text-decoration:none;font-weight:700;font-size:15px;line-height:1.2;min-width:0}.rbar a small{display:block;font-weight:600;font-size:12px;color:var(--ink2,#46595a);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.rbar .rb{align-items:center;text-align:center;background:var(--teal,#1f7a70);border-color:var(--teal,#1f7a70);color:#fff;font-size:13px;padding:6px 10px;max-width:9.5em}.rbar .rb small{color:#e3f1ee;font-size:12.5px;direction:ltr}.rbar .rn{text-align:end}.rbar .rx{visibility:hidden}';document.head.appendChild(st);
+function draw(){var o=document.querySelector('.rbar');if(o)o.remove();var l=L(),li=r.l[l]||r.l.ru||[],i=-1;for(var k=0;k<li.length;k++)if(li[k].h==f){i=k;break}if(i<0)return;
+ var w=W[l],rtl=(l=='he'||l=='ar'),pa=rtl?'→ ':'← ',na=rtl?' ←':' →',p=li[i-1],n=li[i+1],e=function(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+ var d=document.createElement('nav');d.className='rbar';d.setAttribute('aria-label',w.b);
+ var pb=p?'<a class="rp" href="'+e(p.h)+'#lang='+l+'">'+pa+e(w.p)+'<small>'+e(p.t)+'</small></a>':'<a class="rp rx" aria-hidden="true" tabindex="-1"></a>',nb=n?'<a class="rn" href="'+e(n.h)+'#lang='+l+'">'+e(w.n)+na+'<small>'+e(n.t)+'</small></a>':'<a class="rn rx" aria-hidden="true" tabindex="-1"></a>';
+ d.innerHTML=pb+'<a class="rb" href="'+e(r.u)+'#lang='+l+'" title="'+e(r.t[l]||'')+'">'+e(w.b)+'<small>'+(i+1)+' / '+li.length+'</small></a>'+nb;
+ (document.querySelector('main')||document.body).appendChild(d)}
+draw();new MutationObserver(function(){var b=document.querySelector('.rbar');if(!b||b._l!==L()){draw();var nb=document.querySelector('.rbar');if(nb)nb._l=L()}}).observe(document.body,{attributes:true,attributeFilter:['class']});
+})();
