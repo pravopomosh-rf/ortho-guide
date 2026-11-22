@@ -11,4 +11,4 @@ P
 git add video/${F}_$L.mp4 video/${F}_$L.jpg ops/$P && git commit -qm "Ролик $F ($L): сцена 1 без возраста пациента, перерендер; vcheck — замечаний нет
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01VMoax7CgitFqdG9tgZ6gtR" && git push -q origin HEAD:refs/heads/main && git log --oneline -1
+Claude-Session: https://claude.ai/code/session_01VMoax7PNAi4Dx2XVMd2BWq" && git push -q origin HEAD:refs/heads/main && git log --oneline -1
