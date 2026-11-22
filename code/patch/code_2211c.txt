@@ -1,0 +1,1 @@
+code_2211c.tgz (22.11 09:45): после 2211b. timing amp ×4, ankle ru/he/en (+ar с новым текстом — аудио старое!), kyph ×4, osteo ru/he/en, arth ru/he/en после aud_from_tts. Старые клипы этих тем уже в aud/ как opus (из D: aud_0911, aud_1111_osteo_postop).
