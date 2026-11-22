@@ -1,0 +1,1 @@
+code_2211a.tgz (22.11 03:55): после 2111c. Breath_en сцена 4: подпись 52→42 px, поля 60 (не упиралась в края). timing breath/acdf ×4 после aud_from_tts.
