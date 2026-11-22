@@ -17,3 +17,9 @@ https://www.boa.ac.uk/resource/boast-16-pdf.html
 https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential
 https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35383613&resultType=core&format=json
 https://www.ema.europa.eu/hr/events/pharmacovigilance-risk-assessment-committee-prac-23-26-november-2026
+https://www.orthoinfo.org/diseases--conditions/distal-radius-fractures-broken-wrist/
+https://www.aaos.org/quality/quality-programs/upper-extremity-programs/distal-radius-fractures
+https://www.pharmacytimes.com/view/fda-requires-class-wide-glp-1-ra-labeling-changes-for-potential-naion-risk
+https://www.ema.europa.eu/et/node/289187
+https://www.gov.il/BlobFolder/policy/sbn02-2026/he/files_circulars_sbn_sbn02-2026.pdf
+https://www.gov.il/BlobFolder/policy/mk04-2026/he/files_circulars_mk_mk04-2026.pdf
