@@ -1,0 +1,1 @@
+23.11 Cellv (целлюлит): Cellv.tsx + CellvArt.tsx (SkinLayers/LegRed/CourseCal), timing_cellv*, Root; cgen meta cellv; tools/putvfirst.py. Распаковать в /home/claude после 2211e.
