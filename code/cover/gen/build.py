@@ -15,7 +15,7 @@ def card(v,l):
 def ant(l):
     return html.unescape(re.search(r'href="ops/thr-anterior.html#lang=%s".*?class="pt">(.*?)</span>'%l,idx).group(1))
 # illustration: ('img', path) or ('frame', idx, top)
-ILL={'cpe':'p/cpe-vre.webp','admv':'p/admission.webp','dura':'p/durotomy.webp','acdf':'p/spine-other.webp','breath':'p/breathing.webp','delir':'p/delirium.webp','falls':'p/falls.webp','fusion':'spine_disc_fusion.svg',
+ILL={'cellv':'p/cellulitis.webp','cpe':'p/cpe-vre.webp','admv':'p/admission.webp','dura':'p/durotomy.webp','acdf':'p/spine-other.webp','breath':'p/breathing.webp','delir':'p/delirium.webp','falls':'p/falls.webp','fusion':'spine_disc_fusion.svg',
  'kyphoplasty':'vcf.webp','laminectomy':'lami_{l}.webp','logroll':'p/log-roll.webp','osteo':'p/osteosynthesis.webp','pain':'p/pain.webp',
  'postop':'p/postop.webp','preopv':'sec_preop.webp','preop':'sec_preop.webp','press':'p/pressure-sores.webp','shoulder':'p/shoulder-fracture.webp',
  'swell':'p/swelling.webp','drain':'p/drain.webp','dress':'p/dressings.webp','tkr':'tkr_ill.webp','wait':'p/why-wait.webp','walker':'p/walker.webp','ward':'p/after-surgery.webp','first':'p/after-surgery.webp',
