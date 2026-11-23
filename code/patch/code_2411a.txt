@@ -1,0 +1,1 @@
+24.11 00:10: Press_en.tsx + TurnArt.tsx — шаг подписей (i%2)*46 (en «back of head»/«shoulder blades» не наезжают). Распаковать в /home/claude после 2311b. code/render/pubfix.sh FILE PAGE LANG VER MSG — публикация перерендера с новым ?v.
