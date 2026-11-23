@@ -222,3 +222,10 @@ var T={ankle:{ru:'Операция на голени и голеностопно
 var st=document.createElement('style');st.textContent='.rlink{display:flex;align-items:center;gap:10px;margin:12px 0 4px;padding:10px 14px;border-radius:14px;background:var(--teal,#1f7a70);color:#fff;text-decoration:none;font-weight:700;font-size:15px;line-height:1.25;max-width:34em}.rlink small{display:block;font-weight:600;font-size:13px;color:#e3f1ee}.rlink .ra{margin-inline-start:auto;font-size:20px}';document.head.appendChild(st);
 document.querySelectorAll('[data-l]').forEach(function(b){var l=b.getAttribute('data-l');if(!W[l])return;var h=b.querySelector(':scope > h1');if(!h||b.querySelector('.rlink'))return;var a=document.createElement('a');a.className='rlink';a.href=k+'-path.html#lang='+l;a.innerHTML='<span>'+W[l]+'<small>'+T[l]+'</small></span><span class="ra" aria-hidden="true">'+((l=='he'||l=='ar')?'←':'→')+'</span>';h.insertAdjacentElement('afterend',a)});
 })();
+/* 23.11: отметка «✓ просмотрено» у шагов маршрута (только в этом браузере) */
+(function(){var K='ogSeen',f=location.pathname.split('/').pop()||'index.html';
+function g(){try{return JSON.parse(localStorage.getItem(K)||'{}')||{}}catch(e){return {}}}
+if(!/-path\.html$/.test(f)){if(/\.html$/.test(f)&&f!='index.html'){var s=g();s[f]=1;try{localStorage.setItem(K,JSON.stringify(s))}catch(e){}}return}
+var s=g(),st=document.createElement('style');st.textContent='a.pc.seen{position:relative}a.pc.seen::after{content:"\\2713";position:absolute;top:8px;inset-inline-end:8px;width:26px;height:26px;border-radius:13px;background:#1f7a70;color:#fff;font:700 16px/26px sans-serif;text-align:center}';document.head.appendChild(st);
+document.querySelectorAll('a.pc').forEach(function(a){var h=(a.getAttribute('href')||'').split('#')[0].split('/').pop();if(h&&s[h])a.classList.add('seen')});
+})();
