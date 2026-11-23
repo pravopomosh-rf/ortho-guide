@@ -1,0 +1,1 @@
+23.11 Turn (пролежни: чем помочь, 2-й ролик pressure-sores): Turn.tsx + TurnArt.tsx (PressureBody/SheetDrag/FoodGrid), timing_turn*, Root, work/mkturn.py. Распаковать в /home/claude после 2311a.
