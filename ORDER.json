@@ -44,5 +44,6 @@
  "53_rehabv": "rehabv.json (ru, he, ar, en RH01..RH11) — ролик «Реабилитация (шикум)» сверху ops/rehab.html, шаг 5 маршрутов — ОДОБРЕНО ChatGPT 16.11 (gpt/rehabv_gpt_1611.txt); голос в manus/todo.json (Claude, после opday)",
  "54_cellv": "cellv.json (ru, he, ar, en CL01..CL11) — ролик «Целлюлит» сверху ops/cellulitis.html — ОДОБРЕНО ChatGPT 16.11 (gpt/cellv_gpt_1611.txt); голос в manus/todo.json (Claude, после rehabv)",
  "55_dfv": "dfv.json (ru, he, ar, en DF01..DF12) — ролик «Диабетическая стопа» сверху ops/diabetic-foot.html — ОДОБРЕНО ChatGPT 16.11 (gpt/dfv_gpt_1611.txt); голос в manus/todo.json (Claude, после cellv)",
- "56_piv": "piv.json (ru, he, ar, en PI01..PI11) — ролик «Гнойная инфекция» сверху ops/purulent-infection.html — ОДОБРЕНО ChatGPT 16.11 (gpt/piv_gpt_1611.txt); голос в manus/todo.json (Claude, после cellv)"
+ "56_piv": "piv.json (ru, he, ar, en PI01..PI11) — ролик «Гнойная инфекция» сверху ops/purulent-infection.html — ОДОБРЕНО ChatGPT 16.11 (gpt/piv_gpt_1611.txt); голос в manus/todo.json (Claude, после cellv)",
+ "57_intro": "intro.json (IN01..IN04 ×4) — видео-введение маршрута (текст = введение на страницах *-path, навигация, не медицина); голос в manus/todo.json; ролик в .ipanel всех 6 маршрутов"
 }

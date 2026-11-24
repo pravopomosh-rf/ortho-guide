@@ -168,5 +168,21 @@
  "tibplat_ru_TP12": "Это общие рекомендации. Индивидуальные указания вашего врача и медицинской команды имеют приоритет.",
  "tibplat_he_TP12": "אלה המלצות כלליות. ההוראות האישיות של הרופא ושל הצוות הרפואי קודמות להן.",
  "tibplat_ar_TP12": "هذه توصيات عامة. التعليمات الفردية من طبيبكم والفريق الطبي لها الأولوية.",
- "tibplat_en_TP12": "This is general advice. Individual instructions from your doctor and care team take priority."
+ "tibplat_en_TP12": "This is general advice. Individual instructions from your doctor and care team take priority.",
+ "intro_ru_IN01": "Пять шагов — от подготовки до реабилитации. Здесь весь путь по порядку: подготовка, операция, первые дни в отделении, выписка и реабилитация, шикум.",
+ "intro_ru_IN02": "В каждом шаге есть короткие видео: нажмите на карточку, чтобы открыть тему. Язык можно сменить кнопками вверху страницы. Меню и поиск есть на каждой странице.",
+ "intro_ru_IN03": "В разделе «Тревожные признаки» сказано, когда звонить 101 или срочно обращаться за помощью.",
+ "intro_ru_IN04": "Это общая информация. Индивидуальные указания лечащего врача имеют приоритет.",
+ "intro_he_IN01": "חמישה שלבים, מההכנה ועד השיקום. כאן תמצאו את כל הדרך לפי הסדר: הכנה, הניתוח, הימים הראשונים במחלקה, שחרור ושיקום.",
+ "intro_he_IN02": "בכל שלב יש סרטונים קצרים: לחצו על כרטיס כדי לפתוח את הנושא. אפשר להחליף שפה בכפתורים בראש העמוד. בכל עמוד יש תפריט וחיפוש.",
+ "intro_he_IN03": "בחלק סימני אזהרה כתוב מתי להתקשר למאה ואחת או לפנות לעזרה דחופה.",
+ "intro_he_IN04": "זהו מידע כללי. להנחיות האישיות של הרופא המטפל יש עדיפות.",
+ "intro_ar_IN01": "خمس خطوات، من التحضير حتى إعادة التأهيل. هنا تجدون الطريق كله خطوة بخطوة: التحضير، العملية، الأيام الأولى في القسم، الخروج من المستشفى، وإعادة التأهيل.",
+ "intro_ar_IN02": "في كل خطوة مقاطع فيديو قصيرة: اضغطوا على البطاقة لفتح الموضوع. يمكنكم تغيير اللغة بالأزرار في أعلى الصفحة. في كل صفحة قائمة وبحث.",
+ "intro_ar_IN03": "في قسم علامات الخطر تجدون متى تتصلون بالرقم 101 أو تطلبون مساعدة عاجلة.",
+ "intro_ar_IN04": "هذه معلومات عامة. تعليمات الطبيب المعالج الخاصة بحالتكم لها الأولوية.",
+ "intro_en_IN01": "Five steps, from preparation to rehabilitation. Here is the whole journey, step by step: preparation, your operation, the first days on the ward, discharge and rehabilitation.",
+ "intro_en_IN02": "Each step has short videos: tap a card to open the topic. Change the language with the buttons at the top of the page. Every page has a menu and search.",
+ "intro_en_IN03": "The Warning signs section tells you when to call an ambulance on 101 or seek urgent care.",
+ "intro_en_IN04": "This is general information. Your treating doctor's individual instructions take priority."
 }
