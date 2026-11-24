@@ -1,0 +1,1 @@
+24.11 Piv (гнойная инфекция): Piv.tsx + PivArt.tsx (AbsPhleg, Drainage, Culture, ImplantInf, VacCalm), timing_piv*, Root (Piv, Piv-he/ar/en), DrainArt (export Foam/Panel), cgen meta piv + ILL. Распаковать в /home/claude после 2411d (пути night/... и cgen/...).
