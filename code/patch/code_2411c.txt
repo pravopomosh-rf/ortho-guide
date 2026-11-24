@@ -1,0 +1,1 @@
+24.11: kyph — сцена C01 (spchg) после K06 ×4 языка: Kyph*.tsx (SC01), timing_kyph*.json; aud/kyph/<L>/C01.opus = копия aud/spchg.
