@@ -321,4 +321,14 @@ body.amfb .amnote{display:block}
 
 .duo{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}.duo figure{margin:0}.duo figure img{aspect-ratio:3/4;object-fit:cover}.duo figcaption{font-size:15px}.duo figure:first-child:nth-last-child(3){grid-column:1/-1}.duo.one{grid-template-columns:minmax(0,320px)}
 @media print{.duo{display:none}}
+/* 25.11 читаемость: мелкий текст и цели нажатия крупнее */
+.stnav a{font-size:16px;min-height:44px}
+.stnav b{width:26px;height:26px;font-size:14px}
+a.pc .pt{font-size:17px}
+a.pc .chip{font-size:15px}
+.srr small,.sref{font-size:15px}
+.qlinks b,.qlinks a{font-size:16px}
+.qlinks a{min-height:44px;display:inline-flex;align-items:center}
+a.totop{font-size:16px;min-height:48px;line-height:48px}
+figcaption,.ill,.duo figcaption{font-size:15px;opacity:1;color:var(--ink2)}
 .pintro .pnum{background:var(--ink2,#555);font-style:italic}.pintro .pbody>p{font-size:17px;margin:6px 0}.pintro .disc{margin-top:12px}
