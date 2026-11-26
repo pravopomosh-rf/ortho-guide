@@ -1,0 +1,1 @@
+26.11 день: tibplat en опубликован; thrhome ru опубликован (putvfirst), ar рендер. cgen: meta cards/sec thrhome (sec hip, подпись пустая), FR thrhome (0.2,380); обложка ill/thrhome_L.png вручную: кадр 20.13 с, crop=1000:572:40:428,scale=1080:-2,pad=1080:788 white.
