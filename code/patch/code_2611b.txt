@@ -1,0 +1,3 @@
+26.11 утро: tibplat ru/he/ar — новые timing (aud_from_tts.py), TibPlat.tsx S10 «решает лечащий врач», TibPlat_he.tsx S01 без возраста («מטופל»);
+kit.tsx Subtitle: длинное предложение делится сначала по запятым (не отрывает «ואי | אפשר»); cgen: meta tibplat (knee), FR tibplat (5.5,440);
+обложка: ill/tibplat_L.png вручную crop=1000:590:40:470,scale=1080:-2,pad=1080:788 white. Ролик — в конец .vfirst ops/osteosynthesis.html («Пример: …»).
