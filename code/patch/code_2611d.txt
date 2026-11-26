@@ -1,0 +1,1 @@
+26.11 вечер: spinimp ru/he timing (новая озвучка) + cgen meta/FR spinimp. Распаковать в /home/claude.
