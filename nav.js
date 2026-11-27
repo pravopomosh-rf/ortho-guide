@@ -229,3 +229,16 @@ if(!/-path\.html$/.test(f)){if(/\.html$/.test(f)&&f!='index.html'){var s=g();s[f
 var s=g(),st=document.createElement('style');st.textContent='a.pc.seen{position:relative}a.pc.seen::after{content:"\\2713";position:absolute;top:8px;inset-inline-end:8px;width:26px;height:26px;border-radius:13px;background:#1f7a70;color:#fff;font:700 16px/26px sans-serif;text-align:center}';document.head.appendChild(st);
 document.querySelectorAll('a.pc').forEach(function(a){var h=(a.getAttribute('href')||'').split('#')[0].split('/').pop();if(h&&s[h])a.classList.add('seen')});
 })();
+/* 27.11: кнопка «Поделиться» под заголовком страницы — отправить ссылку близким (на телефоне — меню «Поделиться», иначе ссылка копируется) */
+(function(){var f=location.pathname.split('/').pop()||'index.html';if(f=='index.html')return;
+var W={ru:['Поделиться страницей','Ссылка скопирована'],he:['שיתוף העמוד','הקישור הועתק'],ar:['مشاركة الصفحة','تم نسخ الرابط'],en:['Share this page','Link copied']};
+var st=document.createElement('style');st.textContent='.shb{display:inline-flex;align-items:center;gap:8px;margin:8px 0 4px;padding:8px 14px;border:1px solid var(--line,#e6ded0);border-radius:999px;background:#fff;color:var(--teal,#1f7a70);font:inherit;font-size:15px;font-weight:700;cursor:pointer;line-height:1.2}.shb svg{width:18px;height:18px;flex:none}.shb.ok{background:#e3f1ee}@media print{.shb{display:none!important}}';document.head.appendChild(st);
+var I='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
+function copy(u,b,w){function ok(){var s=b.querySelector('span');s.textContent=w[1];b.classList.add('ok');setTimeout(function(){s.textContent=w[0];b.classList.remove('ok')},2500)}
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(u).then(ok,function(){prompt(w[0],u)})}else{prompt(w[0],u)}}
+document.querySelectorAll('[data-l]').forEach(function(x){var l=x.getAttribute('data-l'),w=W[l];if(!w)return;var h=x.querySelector(':scope > h1');if(!h||x.querySelector('.shb'))return;
+ var b=document.createElement('button');b.type='button';b.className='shb';b.innerHTML=I+'<span>'+w[0]+'</span>';
+ b.onclick=function(){var u=location.href.split('#')[0]+'#lang='+l,t=h.textContent.trim();
+  if(navigator.share){navigator.share({title:t,url:u}).catch(function(){})}else copy(u,b,w)};
+ var a=x.querySelector(':scope > .rlink');(a||h).insertAdjacentElement('afterend',b)});
+})();
