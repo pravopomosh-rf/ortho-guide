@@ -1,0 +1,119 @@
+=== HE ===
+שבר בעצם השוקה: למה חשוב לשים לב
+
+מהי העצם הזאת
+עצם השוקה היא העצם הראשית והעבה של השוק. היא נושאת כמעט את כל משקל הגוף. השפה הקדמית שלה נמצאת ממש מתחת לעור, ואפשר למשש אותה בקלות בחלק הקדמי של השוק. מכיוון שהעצם קרובה כל כך לעור, השברים בה עלולים להיות פתוחים. בשבר פתוח יש קשר בין הפצע לאזור השבר, גם אם העצם עצמה לא נראית (StatPearls, Tibia Diaphyseal Fracture).
+
+איך זה קורה
+לרוב בנפילה, בתאונת דרכים או בזמן פעילות ספורטיבית. אצל אנשים עם אוסטאופורוזיס העצם עלולה להישבר גם בנפילה קלה (StatPearls).
+
+מה הרופא בודק
+הרופא בודק את כל הרגל, את אספקת הדם ואת התחושה בכף הרגל, ומפנה לצילומים של כל השוק יחד עם מפרק הברך ומפרק הקרסול. אם השבר נכנס לתוך המפרק, ייתכן שיהיה צורך בבדיקת CT (StatPearls). שברים ממש ליד הברך (שבר במשטח המפרקי העליון של עצם השוקה) וליד הקרסול מטופלים אחרת, והאורתופד מחליט עליהם בנפרד.
+
+איך מטפלים
+אם חלקי העצם כמעט לא זזו והשבר יציב, לפעמים מטפלים בלי ניתוח, בגבס מהירך ועד כף הרגל, ובהתחלה לא דורכים על הרגל או דורכים באופן מוגבל. לרוב מטפלים בשבר בחלק האמצעי של העצם בניתוח: מכניסים לתוך חלל העצם מוט מתכת (מסמר תוך־לשדי) ומקבעים אותו בברגים. ניתוח נדרש בדרך כלל כשיש תזוזה משמעותית או כשהשבר אינו יציב. שברים פתוחים מחייבים טיפול ניתוחי דחוף. במקרים מסוימים משתמשים במקום מסמר בפלטה וברגים או במקבע חיצוני (StatPearls). איך לדרוך על הרגל אחרי הניתוח מחליט האורתופד: אחרי קיבוע יציב במסמר הרופא עשוי להתיר דריכה מוקדמת, ובמקרים אחרים מגבילים את העומס. אל תגבירו את העומס על דעת עצמכם.
+
+כמה זמן נמשכת ההחלמה
+העצם מתאחה במשך כמה חודשים. צילומי ביקורת עושים במועדים שקבע הרופא, עד שמאשרים שהעצם התאחתה. החזרה המלאה לתפקוד הרגל נמשכת לעיתים קרובות 6–12 חודשים (StatPearls). עישון עלול להאט את התאחות העצם, ולכן עדיף לא לעשן (AAOS).
+
+הסכנה העיקרית בימים הראשונים: תסמונת מדור
+השרירים בשוק נמצאים בארבעה «מדורים» הדוקים. אחרי שבר בעצם השוקה הלחץ בתוכם עלול לעלות, ואספקת הדם לשרירים ולעצבים נפגעת. סימנים חשובים: כאב חזק מהצפוי ביחס לפציעה או כאב מתגבר, החמרה בכאב כשמזיזים את אצבעות הרגל, מתח בשוק, נימול או עקצוץ. חיוורון, קור ואובדן תנועה עלולים להיות סימנים מאוחרים (StatPearls; BOAST, 2025). פירוט בעמוד «גבס ונפיחות: תסמונת מדור».
+
+פנו מיד לחדר המיון אם:
+— הכאב בשוק מתגבר למרות משככי כאבים, או שהשוק נעשתה מתוחה, או שהכאב מחמיר מאוד כשמזיזים את אצבעות הרגל;
+— נעשה קשה להזיז את כף הרגל או את האצבעות;
+— הופיעו נימול או עקצוץ בכף הרגל, או שכף הרגל נעשתה קרה, חיוורת או כחלחלה;
+— הגבס לוחץ מדי;
+— הופיע פצע מעל השבר, גם אם קטן;
+— הופיעו הפרשה מוגלתית, ריח לא נעים מהפצע או מתחת לגבס, אודם שמתגבר סביב הפצע, או שעלה החום;
+— הופיע כאב חדש או מתגבר בחלק האחורי של השוק, או נפיחות לא רגילה ברגל (ייתכן קריש דם).
+אל תחכו שיופיעו כל הסימנים.
+אם אי אפשר להגיע לבית החולים בבטחה — הזמינו אמבולנס, 101. בקוצר נשימה פתאומי או בכאב בחזה הזמינו מיד אמבולנס, 101.
+
+אחרי ניתוח עם מסמר
+אחרי הכנסת המסמר עלול להופיע כאב בחלק הקדמי של הברך, כי דרך האזור הזה מכניסים את המסמר. זהו סיבוך נפוץ; ספרו עליו לרופא בביקורת. אם הכאב מתגבר או מלווה בנפיחות, באודם או בחום, אל תחכו לביקורת המתוכננת (StatPearls).
+
+בבית
+בנפיחות רגילה החזיקו את הרגל מורמת. הזיזו בעדינות את אצבעות הרגל, אם הרופא אישר. בסימנים של תסמונת מדור החזיקו את הרגל בגובה הלב, לא גבוה יותר, ופנו מיד לעזרה. אל תסירו ואל תחתכו את הגבס בעצמכם. שמרו על הגבס יבש ואל תכניסו מתחתיו חפצים. בצעו את התרגילים שהרופא אישר כדי להחזיר את התנועה. אם נרשמו לכם תרופות למניעת קרישי דם, קחו או הזריקו אותן בדיוק לפי התוכנית שנקבעה, ואל תפסיקו על דעת עצמכם. הגיעו לביקורת ולצילומים במועד שנקבע.
+
+הוראות הרופא המטפל חשובות יותר מהמידע הכללי בעמוד זה.
+
+=== AR ===
+كسر عظم الظنبوب: ما الذي يجب الانتباه إليه
+
+ما هذا العظم
+الظنبوب هو العظم الرئيسي السميك في الساق، ويحمل معظم وزن الجسم. حافته الأمامية تقع مباشرة تحت الجلد، ويمكن تحسّسها بسهولة في مقدمة الساق. ولأن العظم قريب جدًا من الجلد، قد تكون كسوره مفتوحة. في الكسر المفتوح يكون الجرح متصلًا بمكان الكسر، حتى لو لم يكن العظم نفسه ظاهرًا (StatPearls, Tibia Diaphyseal Fracture).
+
+كيف يحدث
+غالبًا بسبب السقوط أو حوادث الطرق أو أثناء ممارسة الرياضة. وعند المصابين بهشاشة العظام قد ينكسر العظم حتى بعد سقوط خفيف (StatPearls).
+
+ما الذي يفحصه الطبيب
+يفحص الطبيب الرجل كلها، ويتأكد من الدورة الدموية والإحساس في القدم، ويطلب صورًا للساق كاملة مع مفصلي الركبة والكاحل. وإذا امتد الكسر إلى داخل المفصل فقد يلزم تصوير مقطعي (CT) (StatPearls). أما الكسور القريبة جدًا من الركبة (كسر هضبة الظنبوب) والقريبة من الكاحل فتُعالَج بطريقة مختلفة، ويقرر بشأنها طبيب العظام بشكل منفصل.
+
+كيف يُعالَج
+إذا كانت إزاحة أجزاء العظم طفيفة وكان الكسر مستقرًا، فقد يُعالَج أحيانًا بلا عملية، بجبس يمتد من الفخذ إلى القدم، وفي البداية لا تدوسون على الرجل أو تدوسون عليها بشكل محدود. وغالبًا يُعالَج كسر الجزء الأوسط من العظم بعملية: يُدخَل قضيب معدني في قناة العظم (مسمار داخل النقي) ويُثبَّت بالبراغي. تكون العملية ضرورية عادةً عند وجود إزاحة كبيرة أو عدم استقرار في الكسر. والكسور المفتوحة تحتاج إلى علاج جراحي عاجل. وفي بعض الحالات تُستخدم بدل المسمار صفيحة وبراغٍ أو جهاز تثبيت خارجي (StatPearls). يحدد طبيب العظام كيف تدوسون على الرجل بعد العملية: بعد التثبيت المستقر بالمسمار قد يسمح الطبيب بتحميل مبكر على الرجل، وفي حالات أخرى يُحدَّد الحِمل. لا تزيدوا الحِمل من تلقاء أنفسكم.
+
+كم يستغرق التعافي
+يلتئم العظم خلال عدة أشهر. تُجرى صور المتابعة في المواعيد التي يحددها الطبيب حتى يتأكد الالتئام. وكثيرًا ما تستغرق استعادة وظيفة الرجل الكاملة 6–12 شهرًا (StatPearls). قد يبطئ التدخين التئام العظم، لذلك من الأفضل الامتناع عنه (AAOS).
+
+الخطر الأهم في الأيام الأولى: متلازمة الحيّز
+تقع عضلات الساق في أربعة «أحياز» تحيط بها أغلفة ليفية لا تتمدّد بسهولة. بعد كسر الظنبوب قد يرتفع الضغط داخلها، فتضطرب تغذية العضلات والأعصاب بالدم. العلامات المهمة: ألم شديد لا يتناسب مع الإصابة أو ألم متزايد، اشتداد الألم عند تحريك أصابع القدم، شدّ في الساق، خدر أو وخز. وقد يكون الشحوب والبرودة وفقدان الحركة علامات متأخرة (StatPearls; BOAST, 2025). التفاصيل في صفحة «الجبس والتورّم: متلازمة الحيّز».
+
+توجّهوا فورًا إلى قسم الطوارئ إذا:
+— ازداد ألم الساق رغم المسكّنات، أو أصبحت الساق مشدودة، أو اشتد الألم كثيرًا عند تحريك أصابع القدم؛
+— صار تحريك القدم أو الأصابع صعبًا؛
+— ظهر خدر أو وخز في القدم، أو أصبحت القدم باردة أو شاحبة أو مزرقّة؛
+— أصبح الجبس ضيقًا؛
+— ظهر جرح فوق الكسر، ولو كان صغيرًا؛
+— ظهرت إفرازات صديدية أو رائحة كريهة من الجرح أو من تحت الجبس، أو احمرار يتزايد حول الجرح، أو ارتفعت حرارة الجسم؛
+— ظهر ألم جديد أو متزايد في ربلة الساق، أو تورّم غير معتاد في الرجل (قد تكون جلطة).
+لا تنتظروا ظهور كل هذه العلامات.
+إذا لم تتمكنوا من الوصول إلى المستشفى بأمان — اطلبوا الإسعاف 101. عند ضيق نفس مفاجئ أو ألم في الصدر اطلبوا الإسعاف 101 فورًا.
+
+بعد عملية المسمار
+بعد تركيب المسمار قد يظهر ألم في مقدمة الركبة، لأن المسمار يُدخَل من هذه المنطقة. هذه مضاعفة شائعة؛ أخبروا الطبيب بها في موعد المتابعة. وإذا اشتد الألم أو رافقه تورّم أو احمرار أو ارتفاع في الحرارة، فلا تنتظروا الموعد المحدد (StatPearls).
+
+في البيت
+عند التورّم العادي ارفعوا الرجل. حرّكوا أصابع القدم بلطف إذا سمح الطبيب. عند علامات متلازمة الحيّز أبقوا الرجل بمستوى القلب، لا أعلى، وتوجّهوا فورًا لطلب المساعدة. لا تنزعوا الجبس ولا تقصّوه بأنفسكم. حافظوا على الجبس جافًا ولا تُدخلوا أي شيء تحته. قوموا بالتمارين التي سمح بها الطبيب لاستعادة الحركة. إذا وُصفت لكم أدوية للوقاية من الجلطات، فخذوها أو احقنوها بدقة حسب الخطة المحددة، ولا توقفوها من تلقاء أنفسكم. احضروا للفحص والمتابعة والتصوير بالأشعة في الموعد المحدد.
+
+تعليمات الطبيب المعالج أهم من المعلومات العامة في هذه الصفحة.
+
+=== EN ===
+Tibia fracture: what to watch for
+
+What this bone is
+The tibia is the main, thick bone of the lower leg. It carries almost all of the body's weight. Its front edge lies just under the skin; you can easily feel it at the front of your shin. Because the bone is so close to the skin, tibia fractures can be open. In an open fracture, the wound connects with the fracture, even if the bone itself cannot be seen (StatPearls, Tibia Diaphyseal Fracture).
+
+How it happens
+Most often in a fall, a road accident or during sports. In people with osteoporosis, the bone can break even in a minor fall (StatPearls).
+
+What the doctor checks
+The doctor examines the whole leg, checks the blood supply and feeling in the foot, and orders X-rays of the whole lower leg together with the knee and ankle joints. If the fracture extends into a joint, a CT scan may be needed (StatPearls). Fractures right next to the knee (tibial plateau fractures) and next to the ankle are treated differently; the orthopedic surgeon decides on them separately.
+
+How it is treated
+If the bone fragments have barely moved and the fracture is stable, it is sometimes treated without surgery, in a cast from the thigh to the foot; at first you do not put weight on the leg, or only limited weight. More often, a fracture of the middle of the bone is treated with surgery: a metal rod (intramedullary nail) is inserted into the bone canal and fixed with screws. Surgery is usually needed if the fracture is significantly displaced or unstable. Open fractures need urgent surgical treatment. In some cases a plate with screws or an external fixator is used instead of a nail (StatPearls). How much weight to put on the leg after surgery is decided by the orthopedic surgeon: after stable fixation with a nail, the doctor may allow early weight-bearing; in other cases weight is limited. Do not increase weight-bearing without your doctor's permission.
+
+How long recovery takes
+The bone takes several months to heal. Follow-up X-rays are done on the dates your doctor sets, until healing is confirmed. Full recovery of leg function often takes 6–12 months (StatPearls). Smoking can slow bone healing, so it is better not to smoke (AAOS).
+
+The main danger in the first days: compartment syndrome
+The muscles of the lower leg lie in four tight "compartments". After a tibia fracture, pressure inside them can build up, and the blood supply to the muscles and nerves is disrupted. Important signs: pain that is out of proportion or keeps increasing, pain that gets worse when you move your toes, tightness in the lower leg, numbness or tingling. Paleness, coldness and loss of movement may be late signs (StatPearls; BOAST, 2025). Details on the page "Cast and swelling: compartment syndrome".
+
+Go to the emergency department immediately if:
+— pain in the lower leg keeps getting worse despite painkillers, or the lower leg feels tense or tight, or the pain gets much worse when you move your toes;
+— it has become hard to move your foot or toes;
+— your foot has numbness or tingling, or it has become cold, pale or bluish;
+— the cast feels too tight;
+— a wound has appeared over the fracture, even a small one;
+— there is pus, a bad smell from the wound or from under the cast, spreading redness around the wound, or you have a fever;
+— you have new or increasing pain in the calf or unusual swelling of the leg (possible blood clot).
+Do not wait for all of these signs to appear.
+If you cannot get to the hospital safely, call an ambulance: 101. If you suddenly become short of breath or have chest pain, call 101 immediately.
+
+After surgery with a nail
+After a nail is placed, you may have pain at the front of the knee, because the nail is inserted through this area. This is a common complication; tell your doctor about it at your follow-up visit. If the pain gets worse or comes with swelling, redness or a fever, do not wait for your scheduled visit (StatPearls).
+
+At home
+For ordinary swelling, keep your leg raised. Gently move your toes if your doctor allows it. If you have signs of compartment syndrome, keep your leg at heart level, not higher, and get help immediately. Do not remove or cut the cast yourself. Keep the cast dry and do not push anything under it. Do the exercises your doctor has allowed to restore movement. If you have been prescribed medicines to prevent blood clots, take or inject them exactly as prescribed and do not stop them on your own. Come to your follow-up visit and X-rays on the scheduled date.
+
+Your treating doctor's instructions take priority over the general information on this page.
